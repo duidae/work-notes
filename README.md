@@ -19,5 +19,5 @@ pic
 ### 5. build carta viewer
 ### 6. docker study
 
-### reference
+### Reference
 >* github markdown: [https://github.com/othree/markdown-syntax-zhtw](https://github.com/othree/markdown-syntax-zhtw)
