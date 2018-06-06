@@ -1,7 +1,7 @@
 ## Weekly report 20180604-20180610
 
 ### 1. protocol buffer study
-protocol buffers: https://developers.google.com/protocol-buffers/
+protocol buffers: [Link]https://developers.google.com/protocol-buffers/
 github repo: 
 
 ### 2. qt creator installation
@@ -11,20 +11,4 @@ github repo:
 ### 6. docker study
 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+github markdown: [Link]https://github.com/othree/markdown-syntax-zhtw
