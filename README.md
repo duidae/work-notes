@@ -20,4 +20,4 @@ pic
 ### 6. docker study
 
 ### Reference
->* github markdown: [https://github.com/othree/markdown-syntax-zhtw](https://github.com/othree/markdown-syntax-zhtw)
+>* markdown: [https://github.com/othree/markdown-syntax-zhtw](https://github.com/othree/markdown-syntax-zhtw)
