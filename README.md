@@ -1,7 +1,7 @@
 ## Weekly report 20180604-20180610
 
-### 1. protocol buffer study
-protocol buffers: [Link]https://developers.google.com/protocol-buffers/
+### 1. protocol buffers study
+protocol buffers: [Link](https://developers.google.com/protocol-buffers/)<br>
 github repo: 
 
 ### 2. qt creator installation
