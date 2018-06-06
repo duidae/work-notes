@@ -7,8 +7,14 @@
 
 >* github repo of my practice: [https://github.com/duidae/protocol-buffers-practice](https://github.com/duidae/protocol-buffers-practice)
 
+>* possible entry in CARTA?
+
 ### 2. qt creator installation
+pic
+
 ### 3. micro web socket study
+
+
 ### 4. computer application form, discuss with Mark
 ### 5. build carta viewer
 ### 6. docker study
