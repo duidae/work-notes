@@ -5,7 +5,7 @@
 
 >* protocol buffers: [https://developers.google.com/protocol-buffers/](https://developers.google.com/protocol-buffers/)
 
->* github repo of my practice:  
+>* github repo of my practice: [https://github.com/duidae/protocol-buffers-practice](https://github.com/duidae/protocol-buffers-practice)
 
 ### 2. qt creator installation
 ### 3. micro web socket study
