@@ -1,11 +1,11 @@
 ## Weekly report 20180604-20180610
 
 ### 1. protocol buffers study
-smaller, faster, binary data structure like json
+>smaller, faster, binary data structure like json
 
-protocol buffers: [https://developers.google.com/protocol-buffers/](https://developers.google.com/protocol-buffers/)
+>protocol buffers: [https://developers.google.com/protocol-buffers/](https://developers.google.com/protocol-buffers/)
 
-github repo of my practice:  
+>github repo of my practice:  
 
 ### 2. qt creator installation
 ### 3. micro web socket study
@@ -14,4 +14,4 @@ github repo of my practice:
 ### 6. docker study
 
 
-github markdown: [Link]https://github.com/othree/markdown-syntax-zhtw
+github markdown: [https://github.com/othree/markdown-syntax-zhtw](https://github.com/othree/markdown-syntax-zhtw)
