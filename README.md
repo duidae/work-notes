@@ -14,4 +14,4 @@
 ### 6. docker study
 
 
-github markdown: [https://github.com/othree/markdown-syntax-zhtw](https://github.com/othree/markdown-syntax-zhtw)
+>* github markdown: [https://github.com/othree/markdown-syntax-zhtw](https://github.com/othree/markdown-syntax-zhtw)
