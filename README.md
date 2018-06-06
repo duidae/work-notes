@@ -1,7 +1,10 @@
 ## Weekly report 20180604-20180610
 
 ### 1. protocol buffers study
-protocol buffers: [https://developers.google.com/protocol-buffers/](https://developers.google.com/protocol-buffers/)<br>
+smaller, faster, binary data structure like json
+
+protocol buffers: [https://developers.google.com/protocol-buffers/](https://developers.google.com/protocol-buffers/)
+
 github repo of my practice:  
 
 ### 2. qt creator installation
