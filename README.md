@@ -3,9 +3,9 @@
 ### 1. protocol buffers study
 >* smaller, faster, binary data structure like json
 
->* [Overview](https://developers.google.com/protocol-buffers/docs/overview), [Tutorials](https://developers.google.com/protocol-buffers/docs/tutorials)
-
 >* protocol buffers: [https://developers.google.com/protocol-buffers/](https://developers.google.com/protocol-buffers/)
+
+>* [Overview](https://developers.google.com/protocol-buffers/docs/overview), [Tutorials](https://developers.google.com/protocol-buffers/docs/tutorials)
 
 >* .proto defines message strucuture, compiler generates corresponding .h file
 
