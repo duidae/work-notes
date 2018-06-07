@@ -5,6 +5,8 @@
 
 >* protocol buffers: [https://developers.google.com/protocol-buffers/](https://developers.google.com/protocol-buffers/)
 
+>* .proto defines message strucuture, compiler generates corresponding .h file
+
 >* github repo of my practice: [https://github.com/duidae/protocol-buffers-practice](https://github.com/duidae/protocol-buffers-practice)
 
 >* possible entry in CARTA?
