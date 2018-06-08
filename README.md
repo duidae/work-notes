@@ -22,10 +22,10 @@ pic
 ### 5. docker study
 >* docker cookbook
 
-<br/>
+
 ## Weekly report 20180611-20180617
 ### 1. micro web socket study
 
-<br/>
+
 ### Reference
 >* markdown: [https://github.com/othree/markdown-syntax-zhtw](https://github.com/othree/markdown-syntax-zhtw)
