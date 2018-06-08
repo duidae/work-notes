@@ -21,7 +21,8 @@ pic
 ### 4. build carta viewer
 ### 5. docker study
 >* docker cookbook
-
+### 6. how to do open source development/run open source project
+[https://www.dreamsongs.com/IHE/IHE-52.html](https://www.dreamsongs.com/IHE/IHE-52.html)
 
 ## Weekly report 20180611-20180617
 ### 1. micro web socket study
