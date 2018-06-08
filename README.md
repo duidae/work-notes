@@ -20,7 +20,7 @@ pic
 
 ### 4. build carta viewer
 ### 5. docker study
->* docker cookbook
+>* docker cookbook, O'reilly
 ### 6. how to do open source development/run open source project
 >* [https://www.dreamsongs.com/IHE/IHE-52.html](https://www.dreamsongs.com/IHE/IHE-52.html)
 >* [Code NASA](https://code.nasa.gov/)
