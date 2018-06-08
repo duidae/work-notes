@@ -16,10 +16,12 @@
 ### 2. qt creator installation
 pic
 
-### 3. micro web socket study
+### 3. computer application form, discuss with Mark
+
+### 4. micro web socket study
 
 
-### 4. computer application form, discuss with Mark
+
 ### 5. build carta viewer
 ### 6. docker study
 >* docker cookbook
