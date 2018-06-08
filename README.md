@@ -17,6 +17,7 @@
 pic
 
 ### 3. computer application form, discuss with Mark
+>* ok
 
 ### 4. build carta viewer
 ### 5. docker study
