@@ -20,12 +20,10 @@
 >* computer discuss with Mark, spec ok
 >* necessary materials for Vicky in advance, ok
 
-#### 4. build carta viewer
-
-#### 5. docker study
+#### 4. docker study
 >* docker cookbook, O'reilly
 
-#### 6. how to do open source development/run open source project
+#### 5. how to do open source development/run open source project
 >* Innovation Happens Elsewhere (Version 1.0) [ebook](https://www.dreamsongs.com/IHE/)
 
 ## [TODO]Weekly report 2018/06/11~2018/06/17
