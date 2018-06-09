@@ -1,4 +1,4 @@
-## Weekly report 2018/06/04-2018/06/10
+## Weekly report 2018/06/04~2018/06/10
 
 #### 1. protocol buffers study
 >* smaller, faster, binary data structure like json
@@ -27,7 +27,7 @@ pic
 #### 6. how to do open source development/run open source project
 >* Innovation Happens Elsewhere (Version 1.0) [ebook](https://www.dreamsongs.com/IHE/)
 
-## Weekly report 20180611-20180617
+## Weekly report 2018/06/11~2018/06/17
 #### 1. micro web socket study
 
 ## Reference
