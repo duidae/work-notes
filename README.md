@@ -9,7 +9,8 @@
 >* possible entry in CARTA?
 >* good solution for large size json needed encryption
 
-#### 2. qt creator installation
+#### 2. qt creator installation 
+>* ok
 ![qt creator](https://duidae.github.io/Asiaa-work/images/2018-06-09%2019-03-55%20qtcreator.png)
 
 #### 3. computer application form, discuss with Mark
