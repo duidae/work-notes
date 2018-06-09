@@ -17,7 +17,7 @@
 pic
 
 #### 3. computer application form, discuss with Mark
->* ok
+>* spec ok
 
 #### 4. build carta viewer
 
