@@ -2,7 +2,7 @@
 
 #### 1. protocol buffers study
 >* smaller, faster, binary data structure like json
->* protocol buffers: [https://developers.google.com/protocol-buffers/](https://developers.google.com/protocol-buffers/){:target="_blank"}
+>* protocol buffers: [https://developers.google.com/protocol-buffers/](https://developers.google.com/protocol-buffers/)
 >* [Overview](https://developers.google.com/protocol-buffers/docs/overview), [Tutorials](https://developers.google.com/protocol-buffers/docs/tutorials)
 >* .proto defines message strucuture, compiler generates corresponding .h file
 >* github repo of my practice: [https://github.com/duidae/protocol-buffers-practice](https://github.com/duidae/protocol-buffers-practice)
@@ -28,7 +28,8 @@
 #### 1. micro web socket study
 
 ## Reference
->* [ALMA](http://www.almaobservatory.org/en/home/){:target="_blank"}
+>* [ALMA](http://www.almaobservatory.org/en/home/)
+<>* <a href="http://www.almaobservatory.org/en/home/" target="_blank">ALMA</a>
 >* [ALMA kids](http://kids.alma.cl/?lang=zh)
 >* [ALMA sounds](http://www.almasounds.org/)
 >* [Code NASA](https://code.nasa.gov/)
