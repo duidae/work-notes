@@ -20,18 +20,20 @@ pic
 >* ok
 
 ### 4. build carta viewer
+
 ### 5. docker study
 >* docker cookbook, O'reilly
+
 ### 6. how to do open source development/run open source project
 >* [https://www.dreamsongs.com/IHE/IHE-52.html](https://www.dreamsongs.com/IHE/IHE-52.html)
->* [Code NASA](https://code.nasa.gov/)
->* [Data NASA](https://data.nasa.gov/)
 
 ## Weekly report 20180611-20180617
 ### 1. micro web socket study
 
 
 ### Reference
->* ALMA: [http://www.almaobservatory.org/en/home/](http://www.almaobservatory.org/en/home/)
->* ALMA sound: [http://www.almasounds.org/](http://www.almasounds.org/)
+>* [ALMA](http://www.almaobservatory.org/en/home/)
+>* [ALMA sounds](http://www.almasounds.org/)
+>* [Code NASA](https://code.nasa.gov/)
+>* [Data NASA](https://data.nasa.gov/)
 >* markdown: [https://github.com/othree/markdown-syntax-zhtw](https://github.com/othree/markdown-syntax-zhtw)
