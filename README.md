@@ -28,6 +28,7 @@ pic
 
 ## Reference
 >* [ALMA](http://www.almaobservatory.org/en/home/)
+>* [ALMA kids](http://kids.alma.cl/?lang=zh)
 >* [ALMA sounds](http://www.almasounds.org/)
 >* [Code NASA](https://code.nasa.gov/)
 >* [Data NASA](https://data.nasa.gov/)
