@@ -25,7 +25,7 @@ pic
 >* docker cookbook, O'reilly
 
 ### 6. how to do open source development/run open source project
->* [https://www.dreamsongs.com/IHE/IHE-52.html](https://www.dreamsongs.com/IHE/IHE-52.html)
+>* Innovation Happens Elsewhere (Version 1.0) [https://www.dreamsongs.com/IHE/IHE-52.html](https://www.dreamsongs.com/IHE/IHE-52.html)
 
 ## Weekly report 20180611-20180617
 ### 1. micro web socket study
