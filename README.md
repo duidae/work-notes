@@ -11,7 +11,7 @@
 
 #### 2. qt creator installation
 ![qt creator](https://duidae.github.com/Asiaa-work/2018-06-09%2019-03-55%20qtcreator.png)
-
+[[https://github.com/duidae/Asiaa-work/blob/master/2018-06-09%2019-03-55%20qtcreator.png]]
 #### 3. computer application form, discuss with Mark
 >* spec ok
 
