@@ -1,5 +1,8 @@
 ## Weekly report 2018/06/04~2018/06/10
 
+#### 0. working progress page
+>* ok
+
 #### 1. protocol buffers study
 >* smaller, faster, binary message structure like json
 >* protocol buffers: [https://developers.google.com/protocol-buffers/](https://developers.google.com/protocol-buffers/)
