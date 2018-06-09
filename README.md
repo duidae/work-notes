@@ -3,7 +3,7 @@
 #### 1. protocol buffers study
 >* smaller, faster, binary message structure like json
 >* protocol buffers: [https://developers.google.com/protocol-buffers/](https://developers.google.com/protocol-buffers/)
->* [Overview](https://developers.google.com/protocol-buffers/docs/overview), [Tutorials](https://developers.google.com/protocol-buffers/docs/tutorials) [github](https://github.com/google/protobuf/releases)
+>* [Overview](https://developers.google.com/protocol-buffers/docs/overview), [Tutorials](https://developers.google.com/protocol-buffers/docs/tutorials), [github](https://github.com/google/protobuf/releases)
 >* .proto defines message strucuture, compiler generates corresponding .h .cc file
 >* github repo of my practice: [cpp only](https://github.com/duidae/Asiaa-work/tree/master/protobuf-example)
 >* possible entry in CARTA?
