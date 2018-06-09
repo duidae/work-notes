@@ -7,7 +7,7 @@
 >* .proto defines message strucuture, compiler generates corresponding .h file
 >* github repo of my practice: [https://github.com/duidae/protocol-buffers-practice](https://github.com/duidae/protocol-buffers-practice)
 >* possible entry in CARTA?
->* very good solution for urban renewal eye!!!(10MB json)
+>* good solution for large size json
 
 #### 2. qt creator installation
 pic
