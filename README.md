@@ -16,7 +16,7 @@
 >* ok
 ![qt creator](https://duidae.github.io/Asiaa-work/images/2018-06-09%2019-03-55%20qtcreator.png)
 
-#### 3. preparation for 7/2 report
+#### 3. preparation for report on 7/2
 >* necessary materials for Vicky in advance, ok
 >* computer discuss with Mark, spec ok
 
