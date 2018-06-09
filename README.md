@@ -9,7 +9,7 @@
 >* [Overview](https://developers.google.com/protocol-buffers/docs/overview), [Tutorials](https://developers.google.com/protocol-buffers/docs/tutorials), [Github](https://github.com/google/protobuf/releases)
 >* .proto defines message strucuture, compiler generates corresponding .h .cc file
 >* github repo of my practice: [cpp only(modified makefile)](https://github.com/duidae/Asiaa-work/tree/master/protobuf-example)
->* possible entry in CARTA?
+>* possible entry in CARTA? data structure?
 >* good solution for large size json needed encryption
 
 #### 2. qt creator installation 
@@ -28,8 +28,13 @@
 #### 6. how to do open source development/run open source project
 >* Innovation Happens Elsewhere (Version 1.0) [ebook](https://www.dreamsongs.com/IHE/)
 
-## Weekly report 2018/06/11~2018/06/17
+## [TODO]Weekly report 2018/06/11~2018/06/17
+
 #### 1. micro web socket study
+>* [µWS](https://github.com/uNetworking/uWebSockets)
+#### 2. build carta viewer
+>* [CARTA viewer](https://github.com/CARTAvis/carta)
+#### 3. read issues/pull requests
 
 ## Reference
 >* [ALMA](http://www.almaobservatory.org/en/home/)
