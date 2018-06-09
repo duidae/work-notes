@@ -35,4 +35,4 @@ pic
 >* [ALMA sounds](http://www.almasounds.org/)
 >* [Code NASA](https://code.nasa.gov/)
 >* [Data NASA](https://data.nasa.gov/)
->* markdown: [https://github.com/othree/markdown-syntax-zhtw](https://github.com/othree/markdown-syntax-zhtw)
+>* markdown syntax: [https://github.com/othree/markdown-syntax-zhtw](https://github.com/othree/markdown-syntax-zhtw)
