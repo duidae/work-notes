@@ -1,6 +1,6 @@
 ## Weekly report 2018/06/04~2018/06/10
 
-#### 0. working progress webpage
+#### 0. webpage for working progress
 >* ok
 
 #### 1. protocol buffers study
