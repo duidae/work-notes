@@ -1,4 +1,4 @@
-## Weekly report 20180604-20180610
+## Weekly report 2018/06/04-2018/06/10
 
 #### 1. protocol buffers study
 >* smaller, faster, binary data structure like json
