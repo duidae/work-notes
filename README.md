@@ -3,7 +3,7 @@
 #### 0. webpage for working progress
 >* ok
 
-#### 1. protocol buffers study
+#### 1. Google protocol buffers study
 >* smaller, faster, binary message structure like json
 >* protocol buffers: [https://developers.google.com/protocol-buffers/](https://developers.google.com/protocol-buffers/)
 >* [Overview](https://developers.google.com/protocol-buffers/docs/overview), [Tutorials](https://developers.google.com/protocol-buffers/docs/tutorials), [Github](https://github.com/google/protobuf/releases)
