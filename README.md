@@ -9,7 +9,7 @@
 >* [Overview](https://developers.google.com/protocol-buffers/docs/overview), [Tutorials](https://developers.google.com/protocol-buffers/docs/tutorials), [Github](https://github.com/google/protobuf/releases)
 >* .proto defines message strucuture, compiler generates corresponding .h .cc file
 >* github repo of my practice: [cpp only(modified makefile)](https://github.com/duidae/Asiaa-work/tree/master/protobuf-example)
->* possible entry in CARTA? data structure?
+>* possible entry in CARTA? our protobuf message structure?
 >* good solution for large size json needed encryption
 
 #### 2. qt creator installation 
