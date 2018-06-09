@@ -24,7 +24,7 @@
 >* docker cookbook, O'reilly
 
 #### 5. how to do open source development/run open source project
->* Innovation Happens Elsewhere (Version 1.0) [ebook](https://www.dreamsongs.com/IHE/)
+>* Innovation Happens Elsewhere (Version 1.0) [Nice ebook](https://www.dreamsongs.com/IHE/)
 
 ## [TODO]Weekly report 2018/06/11~2018/06/17
 
