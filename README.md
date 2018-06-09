@@ -28,8 +28,7 @@
 #### 1. micro web socket study
 
 ## Reference
->* [ALMA](http://www.almaobservatory.org/en/home/)
->* <a href="http://www.almaobservatory.org/en/home/" target="_blank">ALMA</a>
+>* [ALMA{:target="_blank"}](http://www.almaobservatory.org/en/home/)
 >* [ALMA kids](http://kids.alma.cl/?lang=zh)
 >* [ALMA sounds](http://www.almasounds.org/)
 >* [Code NASA](https://code.nasa.gov/)
