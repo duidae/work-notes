@@ -13,23 +13,22 @@
 
 >* possible entry in CARTA?
 
-### 2. qt creator installation
+#### 2. qt creator installation
 pic
 
-### 3. computer application form, discuss with Mark
+#### 3. computer application form, discuss with Mark
 >* ok
 
-### 4. build carta viewer
+#### 4. build carta viewer
 
-### 5. docker study
+#### 5. docker study
 >* docker cookbook, O'reilly
 
-### 6. how to do open source development/run open source project
+#### 6. how to do open source development/run open source project
 >* Innovation Happens Elsewhere (Version 1.0) [ebook](https://www.dreamsongs.com/IHE/)
 
 ## Weekly report 20180611-20180617
-### 1. micro web socket study
-
+#### 1. micro web socket study
 
 ## Reference
 >* [ALMA](http://www.almaobservatory.org/en/home/)
