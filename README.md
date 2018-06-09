@@ -29,7 +29,7 @@
 
 ## Reference
 >* [ALMA](http://www.almaobservatory.org/en/home/)
-<>* <a href="http://www.almaobservatory.org/en/home/" target="_blank">ALMA</a>
+>* <a href="http://www.almaobservatory.org/en/home/" target="_blank">ALMA</a>
 >* [ALMA kids](http://kids.alma.cl/?lang=zh)
 >* [ALMA sounds](http://www.almasounds.org/)
 >* [Code NASA](https://code.nasa.gov/)
