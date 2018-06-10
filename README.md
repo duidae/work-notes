@@ -23,6 +23,9 @@
 #### 4. docker study
 >* docker cookbook, O'reilly
 
+#### 5. development work flow
+>* [github, CircleCI, docker](http://blog.amowu.com/2015/04/devops-continuous-integration-delivery-docker-circleci-aws-beanstalk.html)
+
 #### 5. how to do open source development/run open source project
 >* Innovation Happens Elsewhere (Version 1.0) [Nice ebook](https://www.dreamsongs.com/IHE/)
 
