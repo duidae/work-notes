@@ -34,8 +34,10 @@
 
 #### 1. micro web socket study
 >* [µWS](https://github.com/uNetworking/uWebSockets)
+
 #### 2. try to build carta viewer again
 >* [CARTA viewer](https://github.com/CARTAvis/carta)
+
 #### 3. read issues/pull requests
 
 ## Reference
