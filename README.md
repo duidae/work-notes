@@ -1,3 +1,15 @@
+## [TODO]Weekly report 2018/06/11~2018/06/17
+
+#### 1. micro web socket study
+>* [µWS](https://github.com/uNetworking/uWebSockets)
+
+#### 2. try to build carta viewer again
+>* [CARTA viewer](https://github.com/CARTAvis/carta)
+
+#### 3. read issues/pull requests
+
+#### 4. license
+
 ## Weekly report 2018/06/04~2018/06/10
 
 #### 0. webpage for working progress
@@ -29,18 +41,6 @@
 
 #### 5. how to do open source development/run open source project
 >* Innovation Happens Elsewhere (Version 1.0) [Nice ebook](https://www.dreamsongs.com/IHE/)
-
-## [TODO]Weekly report 2018/06/11~2018/06/17
-
-#### 1. micro web socket study
->* [µWS](https://github.com/uNetworking/uWebSockets)
-
-#### 2. try to build carta viewer again
->* [CARTA viewer](https://github.com/CARTAvis/carta)
-
-#### 3. read issues/pull requests
-
-#### 4. license
 
 ## Reference
 >* [ALMA](http://www.almaobservatory.org/en/home/)
