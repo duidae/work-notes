@@ -40,6 +40,8 @@
 
 #### 3. read issues/pull requests
 
+#### 4. license
+
 ## Reference
 >* [ALMA](http://www.almaobservatory.org/en/home/)
 >* [ALMA @ Asiaa](http://alma.asiaa.sinica.edu.tw/index.php)
