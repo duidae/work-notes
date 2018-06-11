@@ -23,7 +23,7 @@
 #### 4. docker study
 >* docker cookbook, O'reilly
 
-#### 5. development work flow
+#### 5. DevOps
 >* really helpful article...[github, CircleCI, docker](http://blog.amowu.com/2015/04/devops-continuous-integration-delivery-docker-circleci-aws-beanstalk.html)
 ![devop sequence diagram](https://duidae.github.io/Asiaa-work/images/sequence-diagram.png)
 
