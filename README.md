@@ -14,19 +14,19 @@
 
 #### 0. webpage for working progress
 * ok
-* [working progress](https://duidae.github.io/Asiaa-work/)
+* [webpage](https://duidae.github.io/Asiaa-work/)
 
 #### 1. Google protocol buffers study
->* smaller, faster, binary message structure like json
->* protocol buffers: [https://developers.google.com/protocol-buffers/](https://developers.google.com/protocol-buffers/)
->* [Overview](https://developers.google.com/protocol-buffers/docs/overview), [Tutorials](https://developers.google.com/protocol-buffers/docs/tutorials), [Github](https://github.com/google/protobuf/releases)
->* .proto defines message strucuture, compiler generates corresponding .h .cc file
->* github repo of my practice: [cpp only(modified makefile)](https://github.com/duidae/Asiaa-work/tree/master/protobuf-example)
->* possible entry in CARTA? our protobuf message structure?
->* good solution for large size json needed encryption
+* smaller, faster, binary message structure like json
+* protocol buffers: [https://developers.google.com/protocol-buffers/](https://developers.google.com/protocol-buffers/)
+* [Overview](https://developers.google.com/protocol-buffers/docs/overview), [Tutorials](https://developers.google.com/protocol-buffers/docs/tutorials), [Github](https://github.com/google/protobuf/releases)
+* .proto defines message strucuture, compiler generates corresponding .h .cc file
+* github repo of my practice: [cpp only(modified makefile)](https://github.com/duidae/Asiaa-work/tree/master/protobuf-example)
+* possible entry in CARTA? our protobuf message structure?
+* good solution for large size json needed encryption
 
 #### 2. qt creator installation 
->* ok
+* ok
 ![qt creator](https://duidae.github.io/Asiaa-work/images/2018-06-09%2019-03-55%20qtcreator.png)
 
 #### 3. preparation for report on 7/2
