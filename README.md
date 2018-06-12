@@ -1,10 +1,10 @@
 ## [TODO]Weekly report 2018/06/11~2018/06/17
 
 #### 1. micro web socket study
->* [µWS](https://github.com/uNetworking/uWebSockets)
+* [µWS](https://github.com/uNetworking/uWebSockets)
 
 #### 2. try to build carta viewer again
->* [CARTA viewer](https://github.com/CARTAvis/carta)
+* [CARTA viewer](https://github.com/CARTAvis/carta)
 
 #### 3. read issues/pull requests
 
@@ -30,24 +30,24 @@
 ![qt creator](https://duidae.github.io/Asiaa-work/images/2018-06-09%2019-03-55%20qtcreator.png)
 
 #### 3. preparation for report on 7/2
->* computer discuss with Mark, spec ok
->* necessary materials for Vicky in advance, ok
+* computer discuss with Mark, spec ok
+* necessary materials for Vicky in advance, ok
 
 #### 4. docker study
->* docker cookbook, O'reilly
+* docker cookbook, O'reilly
 
 #### 5. DevOps
->* really helpful article...[github, CircleCI, docker](http://blog.amowu.com/2015/04/devops-continuous-integration-delivery-docker-circleci-aws-beanstalk.html)
+* really helpful article...[github, CircleCI, docker](http://blog.amowu.com/2015/04/devops-continuous-integration-delivery-docker-circleci-aws-beanstalk.html)
 ![devop sequence diagram](https://duidae.github.io/Asiaa-work/images/sequence-diagram.png)
 
 #### 5. how to do open source development/run open source project
->* Innovation Happens Elsewhere (Version 1.0) [Nice ebook](https://www.dreamsongs.com/IHE/)
+* Innovation Happens Elsewhere (Version 1.0) [Nice ebook](https://www.dreamsongs.com/IHE/)
 
 ## Reference
->* [ALMA](http://www.almaobservatory.org/en/home/)
->* [ALMA @ Asiaa](http://alma.asiaa.sinica.edu.tw/index.php)
->* [ALMA kids](http://kids.alma.cl/?lang=zh)
->* [ALMA sounds(art)](http://www.almasounds.org/)
->* [Code NASA](https://code.nasa.gov/)
->* [Data NASA](https://data.nasa.gov/)
->* markdown syntax: [mastering markdown](https://guides.github.com/features/mastering-markdown/), [chinese](https://github.com/othree/markdown-syntax-zhtw)
+* [ALMA](http://www.almaobservatory.org/en/home/)
+* [ALMA @ Asiaa](http://alma.asiaa.sinica.edu.tw/index.php)
+* [ALMA kids](http://kids.alma.cl/?lang=zh)
+* [ALMA sounds(art)](http://www.almasounds.org/)
+* [Code NASA](https://code.nasa.gov/)
+* [Data NASA](https://data.nasa.gov/)
+* markdown syntax: [mastering markdown](https://guides.github.com/features/mastering-markdown/), [chinese](https://github.com/othree/markdown-syntax-zhtw)
