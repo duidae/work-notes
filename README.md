@@ -13,7 +13,8 @@
 ## Weekly report 2018/06/04~2018/06/10
 
 #### 0. webpage for working progress
->* ok
+* ok
+* [working progress](https://duidae.github.io/Asiaa-work/)
 
 #### 1. Google protocol buffers study
 >* smaller, faster, binary message structure like json
