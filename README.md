@@ -41,7 +41,7 @@
 
 #### 2. qt creator installation 
 * ok
-![qt creator](https://duidae.github.io/Asiaa-work/images/2018-06-09%2019-03-55%20qtcreator.png)
+![qt creator](images/2018-06-09%2019-03-55%20qtcreator.png)
 
 #### 3. preparation for report on 7/2
 * computer discuss with Mark, spec ok
@@ -49,6 +49,7 @@
 
 #### 4. docker study
 * docker cookbook, O'reilly
+![qt creator](images/docker.jpg)
 
 #### 5. DevOps
 * really helpful article...[github, CircleCI, docker](http://blog.amowu.com/2015/04/devops-continuous-integration-delivery-docker-circleci-aws-beanstalk.html)
