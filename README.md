@@ -53,7 +53,7 @@
 
 #### 5. DevOps
 * really helpful article...[github, CircleCI, docker](http://blog.amowu.com/2015/04/devops-continuous-integration-delivery-docker-circleci-aws-beanstalk.html)
-![devop sequence diagram](https://duidae.github.io/Asiaa-work/images/sequence-diagram.png)
+![devop sequence diagram](images/sequence-diagram.png)
 
 #### 5. how to do open source development/run open source project
 * Innovation Happens Elsewhere (Version 1.0) [Nice ebook](https://www.dreamsongs.com/IHE/)
