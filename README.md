@@ -15,6 +15,9 @@
 
 #### 4. license
 
+#### 5. computer change to MacbookPro
+* ok
+
 ## Weekly report 2018/06/04~2018/06/10
 
 #### 0. webpage for working progress
