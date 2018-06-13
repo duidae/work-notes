@@ -77,5 +77,14 @@
 * STL documentation:
   * [http://www.cplusplus.com/reference/stl/](http://www.cplusplus.com/reference/stl/)
 
+## OS
+* find usb device
+  * $lsblk
+* format usb to FAT32
+  * $mkdosfs -F 32 -I /dev/sdb
+* write ISO to usb
+  * $dd if=/home/testuser/Downloads/rhel-server-7.0x86_64-boot.iso of=/dev/sdb
+  * $watch -n 5 killall -USR1 dd //check dd progress
+
 ## Questions
 * why not open source CASA directly?
