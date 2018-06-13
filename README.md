@@ -62,4 +62,4 @@
 
 ## C++
 * [wiki: lambda expression(anonymous function)](https://en.wikipedia.org/wiki/Anonymous_function#C++_(since_C++11))
-* [lambda expression]http://en.cppreference.com/w/cpp/language/lambda
+* [lambda expression](http://en.cppreference.com/w/cpp/language/lambda)
