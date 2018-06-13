@@ -18,6 +18,8 @@
 #### 5. computer change to MacbookPro
 * ok
 
+#### 6. study CASA
+
 ## [TODO]Weekly report 2018/06/18~2018/06/24
 
 ## Weekly report 2018/06/04~2018/06/10
@@ -58,6 +60,7 @@
 * [ALMA @ Asiaa](http://alma.asiaa.sinica.edu.tw/index.php)
 * [ALMA kids](http://kids.alma.cl/?lang=zh)
 * [ALMA sounds(art)](http://www.almasounds.org/)
+* [CASA](https://casa.nrao.edu/)
 * [Code NASA](https://code.nasa.gov/)
 * [Data NASA](https://data.nasa.gov/)
 * markdown syntax: [mastering markdown](https://guides.github.com/features/mastering-markdown/), [chinese](https://github.com/othree/markdown-syntax-zhtw)
