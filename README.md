@@ -1,7 +1,7 @@
 ## [TODO]Weekly report 2018/06/11~2018/06/17
 
 #### 1. micro web socket study
-* [µWS](https://github.com/uNetworking/uWebSockets)
+* [uWebSockets](https://github.com/uNetworking/uWebSockets)
 * WebSocket implementation for c++, javascript(Node.js)
 * [Comparison of WebSocket implementations](https://en.wikipedia.org/wiki/Comparison_of_WebSocket_implementations)
 * [github repo of my practice:]
