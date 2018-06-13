@@ -61,6 +61,8 @@
 * markdown syntax: [mastering markdown](https://guides.github.com/features/mastering-markdown/), [chinese](https://github.com/othree/markdown-syntax-zhtw)
 
 ## C++
-* [wiki: lambda expression(anonymous function)](https://en.wikipedia.org/wiki/Anonymous_function#C++_(since_C++11))
-  * aaa
-* [lambda expression](http://en.cppreference.com/w/cpp/language/lambda) [lambda expression2](https://msdn.microsoft.com/zh-tw/library/dd293608.aspx)
+* lambda expression(anonymous function)
+  * [https://en.wikipedia.org/wiki/Anonymous_function#C++_(since_C++11)](https://en.wikipedia.org/wiki/Anonymous_function#C++_(since_C++11))
+  * [http://en.cppreference.com/w/cpp/language/lambda](http://en.cppreference.com/w/cpp/language/lambda)
+  * [https://msdn.microsoft.com/zh-tw/library/dd293608.aspx](https://msdn.microsoft.com/zh-tw/library/dd293608.aspx)
+
