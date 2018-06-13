@@ -20,7 +20,7 @@
 
 #### 6. study CASA
 * running on Redhat 6/7 & Mac OS X
-* difference between Redhat/CentOS: CentOS is a community-developed and supported alternative to RHEL. It is similar to Red Hat Enterprise Linux but lacks the enterprise-level support. CentOS is more or less a free replacement for RHEL with few minor configuration differences.
+* difference between Redhat/CentOS: CentOS is a community-developed and supported alternative to RHEL(Red Hat Enterprise Linux). It is similar to Red Hat Enterprise Linux but lacks the enterprise-level support. CentOS is more or less a free replacement for RHEL with few minor configuration differences.
 
 ## [TODO]Weekly report 2018/06/18~2018/06/24
 
