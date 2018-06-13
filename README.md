@@ -85,7 +85,7 @@
 * write ISO to usb
   * $ dd if=/home/testuser/Downloads/rhel-server-7.0x86_64-boot.iso of=/dev/sdb
   * $ watch -n 5 killall -USR1 dd //check dd progress
-* usb不能用太爛的...雜牌的裝不起來...創見的裝的起來...what the hell??
+* usb不能用太爛的...雜牌的dd copy不進去/copy進去裝不起來...創見的就都ok裝的起來...what the hell??
 
 ## Questions
 * why not open source CASA directly?
