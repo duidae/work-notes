@@ -77,7 +77,7 @@
 * STL documentation:
   * [http://www.cplusplus.com/reference/stl/](http://www.cplusplus.com/reference/stl/)
 
-## OS
+## installing CentOS, RHEL
 * find usb device
   * $lsblk
 * format usb to FAT32
