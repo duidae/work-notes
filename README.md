@@ -1,3 +1,4 @@
+![ALMA](images/beautiful.jpg)
 ## Weekly report 2018/06/11~2018/06/17
 
 #### 1. micro web socket study
@@ -62,8 +63,7 @@
 * [ALMA](http://www.almaobservatory.org/en/home/)
 * [ALMA @ Asiaa](http://alma.asiaa.sinica.edu.tw/index.php)
   * [Fix]deadlink http://almat3.asiaa.sinica.edu.tw/ganglia/
-  * Interesting & beautiful http://alma.asiaa.sinica.edu.tw/intro_multimedia.php
-  ![ALMA](images/beautiful.jpg)
+  * Interesting & beautiful, rock band?!! http://alma.asiaa.sinica.edu.tw/intro_multimedia.php
 * [ALMA kids](http://kids.alma.cl/?lang=zh)
 * [ALMA sounds(art)](http://www.almasounds.org/)
 * [CASA](https://casa.nrao.edu/)
