@@ -92,6 +92,9 @@
   * $ watch -n 5 killall -USR1 dd //check dd progress
 * usb不能用太爛的...雜牌的dd copy不進去/copy進去裝不起來...創見的就都ok裝的起來...what the hell??
 * RHEL needs $$, ALMA Taiwan ARC uses CentOS 7.2(ALMA T1~T7)
+* adsl on CentOS
+  * http://blog.kevinlinul.idv.tw/?p=174
+  * $ adsl-start
 
 ## Questions
 * why not open source CASA directly?
