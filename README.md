@@ -64,6 +64,7 @@
 * [ALMA @ Asiaa](http://alma.asiaa.sinica.edu.tw/index.php)
   * [Fix]deadlink http://almat3.asiaa.sinica.edu.tw/ganglia/
   * Interesting & beautiful, rock band?!! http://alma.asiaa.sinica.edu.tw/intro_multimedia.php
+  * AcidMan: ALMA https://www.youtube.com/watch?v=ylEDfirYJaY
 * [ALMA kids](http://kids.alma.cl/?lang=zh)
 * [ALMA sounds(art)](http://www.almasounds.org/)
 * [CASA](https://casa.nrao.edu/)
