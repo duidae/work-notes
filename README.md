@@ -61,6 +61,7 @@
 ## Reference
 * [ALMA](http://www.almaobservatory.org/en/home/)
 * [ALMA @ Asiaa](http://alma.asiaa.sinica.edu.tw/index.php)
+  * deadlink http://almat3.asiaa.sinica.edu.tw/ganglia/
 * [ALMA kids](http://kids.alma.cl/?lang=zh)
 * [ALMA sounds(art)](http://www.almasounds.org/)
 * [CASA](https://casa.nrao.edu/)
@@ -86,7 +87,7 @@
   * $ dd if=/home/testuser/Downloads/rhel-server-7.0x86_64-boot.iso of=/dev/sdb
   * $ watch -n 5 killall -USR1 dd //check dd progress
 * usb不能用太爛的...雜牌的dd copy不進去/copy進去裝不起來...創見的就都ok裝的起來...what the hell??
-* RHEL needs $$
+* RHEL needs $$, ALMA Taiwan ARC uses CentOS 7.2(ALMA T1~T7)
 
 ## Questions
 * why not open source CASA directly?
