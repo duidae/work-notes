@@ -95,3 +95,4 @@
 
 ## Questions
 * why not open source CASA directly?
+* do we use Slack?
