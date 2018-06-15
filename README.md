@@ -95,7 +95,7 @@
 * adsl on CentOS
   * http://blog.kevinlinul.idv.tw/?p=174
   * $ adsl-start
-* grub https://www.cnet.com/how-to/how-to-change-the-boot-order-of-a-dual-boot-linux-pc/
+* change boot order https://www.cnet.com/how-to/how-to-change-the-boot-order-of-a-dual-boot-linux-pc/
 
 ## Questions
 * why not open source CASA directly?
