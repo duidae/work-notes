@@ -12,6 +12,9 @@
 
 #### 2. try to build carta viewer again
 * [CARTA viewer](https://github.com/CARTAvis/carta)
+* [Fix] typo in /home/duidae/projects/CARTA/CARTAvis/carta/scripts/buildcasa.sh
+  * 3 ## TODO: remove installinging
+
 
 #### 3. read issues/pull requests
 
