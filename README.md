@@ -12,12 +12,14 @@
 
 #### 2. try to build carta viewer again
 * [CARTA viewer](https://github.com/CARTAvis/carta)
-* [Fix] typo/delete in /home/duidae/projects/CARTA/CARTAvis/carta/scripts/buildcasa.sh <- 感覺需要整理一下
-  * 3 ## TODO: remove installinging
-  * 77     #### install Qt 4.8.5
-  * 78     # sudo yum -y install qt-devel.x86_64
-  * 79     # alias qmake='qmake-qt4'
-  * remove commented code
+* build CASA
+  * [Fix] typo/delete in /home/duidae/projects/CARTA/CARTAvis/carta/scripts/buildcasa.sh <- 感覺需要整理一下
+    * 3 ## TODO: remove installinging
+    * 77     #### install Qt 4.8.5
+    * 78     # sudo yum -y install qt-devel.x86_64
+    * 79     # alias qmake='qmake-qt4'
+    * remove commented code
+    * comment註明路徑(casa, casacore)
  
 #### 3. read issues/pull requests
 
