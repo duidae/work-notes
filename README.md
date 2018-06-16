@@ -16,7 +16,8 @@
   * 3 ## TODO: remove installinging
   * 77     #### install Qt 4.8.5
   * 78     # sudo yum -y install qt-devel.x86_64
-  * 79     # alias qmake='qmake-qt4' * 77 
+  * 79     # alias qmake='qmake-qt4'
+  * remove commented code
  
 #### 3. read issues/pull requests
 
