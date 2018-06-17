@@ -21,6 +21,7 @@
     * remove commented code
     * comment註明路徑(casa, casacore)
     * 282 cd ../../code  //是否改成cd $casawork/trunk/code 較易讀
+* still errors in make -j2, need to check it out
 
 #### 3. computer change to MacbookPro
 * ok
