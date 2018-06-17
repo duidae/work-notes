@@ -29,9 +29,13 @@
 * running on Redhat 6/7 & Mac OS X
 * difference between Redhat/CentOS: CentOS is a community-developed and supported alternative to RHEL(Red Hat Enterprise Linux). It is similar to Red Hat Enterprise Linux but lacks the enterprise-level support. CentOS is more or less a free replacement for RHEL with few minor configuration differences.
 
+#### 5. install CentOS, RHEL for practice
+* ok
+
 ## [TODO]Weekly report 2018/06/18~2018/06/24
-1. read issues/pull requests
-2. license study
+1. Trace carta
+2. read issues/pull requests
+3. license study
 
 ## Weekly report 2018/06/04~2018/06/10
 
