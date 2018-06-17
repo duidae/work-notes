@@ -20,7 +20,7 @@
     * 79     # alias qmake='qmake-qt4'
     * remove commented code
     * comment註明路徑(casa, casacore)
-    * 282 cd ../../code  //路徑有問題
+    * 282 cd ../../code  //是否改成cd $casawork/casa/trunk/code 較易讀
 
 #### 3. computer change to MacbookPro
 * ok
