@@ -7,13 +7,13 @@
 * WebSocket implementation for c++, javascript(Node.js)
 * 目前号称最高性能的websocket c++库
 * [Comparison of WebSocket implementations](https://en.wikipedia.org/wiki/Comparison_of_WebSocket_implementations)
-* [github repo of my practice:]
+* [TODO][github repo of my practice:]
 * possible entry in CARTA? 
 
-#### 2. try to build carta viewer again
+#### 2. build carta viewer again on CentOS
 * [CARTA viewer](https://github.com/CARTAvis/carta)
-* build CASA
-  * [Fix] typo/delete in /home/duidae/projects/CARTA/CARTAvis/carta/scripts/buildcasa.sh <- 感覺需要整理一下
+* build CASA, buildcasa.sh感覺需要整理一下
+  * [Fix] typo/delete in /home/duidae/projects/CARTA/CARTAvis/carta/scripts/buildcasa.sh
     * 3 ## TODO: remove installinging
     * 77     #### install Qt 4.8.5
     * 78     # sudo yum -y install qt-devel.x86_64
@@ -21,19 +21,17 @@
     * remove commented code
     * comment註明路徑(casa, casacore)
     * 282 cd ../../code  //路徑有問題
- 
-#### 3. read issues/pull requests
 
-#### 4. license
-
-#### 5. computer change to MacbookPro
+#### 3. computer change to MacbookPro
 * ok
 
-#### 6. study CASA
+#### 4. study CASA
 * running on Redhat 6/7 & Mac OS X
 * difference between Redhat/CentOS: CentOS is a community-developed and supported alternative to RHEL(Red Hat Enterprise Linux). It is similar to Red Hat Enterprise Linux but lacks the enterprise-level support. CentOS is more or less a free replacement for RHEL with few minor configuration differences.
 
 ## [TODO]Weekly report 2018/06/18~2018/06/24
+1. read issues/pull requests
+2. license study
 
 ## Weekly report 2018/06/04~2018/06/10
 
