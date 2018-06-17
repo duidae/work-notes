@@ -112,7 +112,12 @@
   * $ adsl-start
 * change boot order https://wiki.centos.org/zh-tw/HowTos/Grub2
 * GUI: grub-customizer
-  * $ yum install grub-customizer
+  * CentOS/RHEL
+    * $ yum install grub-customizer
+  * Ubuntu
+    * sudo add-apt-repository ppa:danielrichter2007/grub-customizer
+    * sudo apt-get update
+    * sudo apt-get install grub-customizer
 
 ## Questions
 * why not open source CASA directly?
