@@ -31,7 +31,7 @@
 
 #### 5. install CentOS, RHEL for practice
 * ok
-![centos](images/centos.jpg)
+![centos](images/centos.png)
 
 ## [TODO]Weekly report 2018/06/18~2018/06/24
 1. Trace carta
