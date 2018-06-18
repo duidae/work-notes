@@ -29,7 +29,7 @@
     * remove commented code
     * comment註明路徑(casa, casacore)
     * 282 cd ../../code  //是否改成cd $casawork/trunk/code 較易讀
-* sudo ./CARTAvis/carta/scripts/buildcasa.sh
+* $ sudo ./CARTAvis/carta/scripts/buildcasa.sh
 ``` 
 CMake Error at install/config.cmake:836 (message):
   WCSLIB could not be found.  Please check!
