@@ -1,9 +1,12 @@
 ![ALMA](images/beautiful.jpg)
 [Image source](http://alma.asiaa.sinica.edu.tw/_img/site_multimedia/2013AOS/IMG_4017.jpg)
-## [TODO]Weekly report 2018/06/18~2018/06/24
+
+## Weekly report 2018/06/18~2018/06/24
 1. Trace carta
 2. read issues/pull requests
 3. license study
+
+## [TODO]Weekly report 2018/06/25~2018/07/01
 
 ## Weekly report 2018/06/11~2018/06/17
 
