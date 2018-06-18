@@ -29,10 +29,11 @@
     * remove commented code
     * comment註明路徑(casa, casacore)
     * 282 cd ../../code  //是否改成cd $casawork/trunk/code 較易讀
- ```CMake Error at install/config.cmake:836 (message):
-    WCSLIB could not be found.  Please check!
+
+``` CMake Error at install/config.cmake:836 (message):
+      WCSLIB could not be found.  Please check!
     Call Stack (most recent call first):
-    CMakeLists.txt:961 (casa_find)
+      CMakeLists.txt:961 (casa_find)
 -- Configuring incomplete, errors occurred!
 See also "/home/duidae/projects/CARTA/CARTAvis-externals/ThirdParty/casa/trunk/code/build/CMakeFiles/CMakeOutput.log".
 See also "/home/duidae/projects/CARTA/CARTAvis-externals/ThirdParty/casa/trunk/code/build/CMakeFiles/CMakeError.log".
