@@ -21,6 +21,7 @@
     * remove commented code
     * comment註明路徑(casa, casacore)
     * 282 cd ../../code  //是否改成cd $casawork/trunk/code 較易讀
+  * Configuring incomplete, errors occurred! /home/duidae/projects/CARTA/CARTAvis-externals/ThirdParty/casa/trunk/code/build/CMakeFiles/CMakeOutput.log
 * still errors in make -j2, need to check it out
 
 #### 3. computer change to MacbookPro
