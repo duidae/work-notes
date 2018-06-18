@@ -29,6 +29,7 @@
     * remove commented code
     * comment註明路徑(casa, casacore)
     * 282 cd ../../code  //是否改成cd $casawork/trunk/code 較易讀
+* still errors in make -j2, need to check it out
 ``` 
 CMake Error at install/config.cmake:836 (message):
   WCSLIB could not be found.  Please check!
@@ -41,9 +42,6 @@ See also "/home/duidae/projects/CARTA/CARTAvis-externals/ThirdParty/casa/trunk/c
 See also "/home/duidae/projects/CARTA/CARTAvis-externals/ThirdParty/casa/trunk/code/build/CMakeFiles/CMakeError.log".
 make: *** No targets specified and no makefile found.  Stop.
 ```
-
-* still errors in make -j2, need to check it out
-
 #### 3. computer change to MacbookPro
 * ok
 
