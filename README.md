@@ -10,6 +10,18 @@
 
 ## Weekly report 2018/06/11~2018/06/17
 
+## Pull request
+* [Fix] typo/delete/modify in /home/duidae/projects/CARTA/CARTAvis/carta/scripts/buildcasa.sh
+    * typo: 3 ## TODO: remove installinging
+    * delete: 77     #### install Qt 4.8.5
+    * delete: 78     # sudo yum -y install qt-devel.x86_64
+    * delete: 79     # alias qmake='qmake-qt4'
+    * remove commented code
+    * comment註明路徑(casa, casacore)
+    * 282 cd ../../code  //是否改成cd $casawork/trunk/code 較易讀
+* [Fix] carta/readme.txt -> carta/readme.md // change readme.txt to markdown 
+
+
 #### 1. micro web socket study
 * [uWebSockets](https://github.com/uNetworking/uWebSockets)
 * WebSocket implementation for c++, javascript(Node.js)
