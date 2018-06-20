@@ -9,7 +9,7 @@
 ## [TODO]Weekly report 2018/06/25~2018/07/01
 
 ## Pull request
-* [Fix] typo/delete/modify in /home/duidae/projects/CARTA/CARTAvis/carta/scripts/buildcasa.sh
+* [Fix] typo/delete/modify in /home/duidae/projects/CARTA/CARTAvis/carta/scripts/buildcasa.sh // 整理buildcasa.sh
     * typo: 3 ## TODO: remove installinging
     * delete: 77     #### install Qt 4.8.5
     * delete: 78     # sudo yum -y install qt-devel.x86_64
