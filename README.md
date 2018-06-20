@@ -3,6 +3,7 @@
 
 ## Weekly report 2018/06/18~2018/06/24
 1. Trace carta
+  * [protobuf tester](https://github.com/CARTAvis/carta/pull/258)
 2. read issues/pull requests
 3. license study
 
