@@ -8,8 +8,6 @@
 
 ## [TODO]Weekly report 2018/06/25~2018/07/01
 
-## Weekly report 2018/06/11~2018/06/17
-
 ## Pull request
 * [Fix] typo/delete/modify in /home/duidae/projects/CARTA/CARTAvis/carta/scripts/buildcasa.sh
     * typo: 3 ## TODO: remove installinging
@@ -21,6 +19,7 @@
     * 282 cd ../../code  //是否改成cd $casawork/trunk/code 較易讀
 * [Fix] carta/readme.txt -> carta/readme.md // change readme.txt to markdown 
 
+## Weekly report 2018/06/11~2018/06/17
 
 #### 1. micro web socket study
 * [uWebSockets](https://github.com/uNetworking/uWebSockets)
