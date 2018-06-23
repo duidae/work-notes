@@ -2,16 +2,17 @@
 [Image source](http://alma.asiaa.sinica.edu.tw/_img/site_multimedia/2013AOS/IMG_4017.jpg)
 
 ## [TODO]Weekly report 2018/06/25~2018/07/01
+#### 1. Trace carta
+#### 2. license study
 
 ## Weekly report 2018/06/18~2018/06/24
 #### 1. Trace carta
-* [protobuf tester](https://github.com/CARTAvis/carta/pull/258)
 * [carta builder from Mark](https://github.com/markccchiang/CARTA-builder)
 
 ![build](images/2018-06-23%2019-31-45.png)
 
 #### 2. read issues/pull requests
-#### 3. license study
+* [protobuf tester](https://github.com/CARTAvis/carta/pull/258)
 
 ## Weekly report 2018/06/11~2018/06/17
 
