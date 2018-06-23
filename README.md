@@ -21,15 +21,6 @@
 
 #### 2. build carta viewer again on CentOS
 * [CARTA viewer](https://github.com/CARTAvis/carta)
-* build CASA, buildcasa.sh感覺需要整理一下
-  * [Fix] typo/delete/modify in /home/duidae/projects/CARTA/CARTAvis/carta/scripts/buildcasa.sh
-    * typo: 3 ## TODO: remove installinging
-    * delete: 77     #### install Qt 4.8.5
-    * delete: 78     # sudo yum -y install qt-devel.x86_64
-    * delete: 79     # alias qmake='qmake-qt4'
-    * remove commented code
-    * comment註明路徑(casa, casacore)
-    * 282 cd ../../code  //是否改成cd $casawork/trunk/code 較易讀
 * $ sudo ./CARTAvis/carta/scripts/buildcasa.sh
 ``` 
 CMake Error at install/config.cmake:836 (message):
