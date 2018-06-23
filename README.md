@@ -2,7 +2,7 @@
 [Image source](http://alma.asiaa.sinica.edu.tw/_img/site_multimedia/2013AOS/IMG_4017.jpg)
 
 ## Weekly report 2018/06/18~2018/06/24
-#### 1. Trace carta
+#### 1. Trace & build carta
 * [carta builder script from Mark](https://github.com/markccchiang/CARTA-builder)
 
 ![build](images/2018-06-23%2019-31-45.png)
