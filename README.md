@@ -7,6 +7,13 @@
 
 ![build](images/2018-06-23%2019-31-45.png)
 
+* startCarta.sh
+  * ulimit: 限制shell資源, -n: 限制開啟文件數目
+```
+ulimit -n 2000
+$CARTAWORKHOME/CARTAvis/build/cpp/desktop/CARTA --html $CARTAWORKHOME/CARTAvis/carta/html5/desktop/desktopIndex.html
+```
+
 #### 2. read issues/pull requests
 * [protobuf tester](https://github.com/CARTAvis/carta/pull/258)
 
