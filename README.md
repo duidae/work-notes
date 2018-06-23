@@ -7,6 +7,8 @@
 #### 1. Trace carta
 * [protobuf tester](https://github.com/CARTAvis/carta/pull/258)
 * [carta builder from Mark](https://github.com/markccchiang/CARTA-builder)
+![build](images/2018-06-23 19-31-44.png)
+
 #### 2. read issues/pull requests
 #### 3. license study
 
