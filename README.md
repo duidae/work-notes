@@ -145,27 +145,6 @@ make: *** [sub-cpp-make_first] Error 2
 * STL documentation:
   * [http://www.cplusplus.com/reference/stl/](http://www.cplusplus.com/reference/stl/)
 
-## Installing CentOS, RHEL
-* find usb device
-  * $ lsblk
-* format usb to FAT32
-  * $ mkdosfs -F 32 -I /dev/sdb
-* write ISO to usb
-  * $ dd if=/home/testuser/Downloads/rhel-server-7.0x86_64-boot.iso of=/dev/sdb status=progress
-  * $ ~watch -n 5 killall -USR1 dd //check dd progress~
-* usb不能用太爛的...雜牌的dd copy不進去/copy進去裝不起來...創見的就都ok裝的起來...what the hell??
-* adsl on CentOS
-  * http://blog.kevinlinul.idv.tw/?p=174
-  * $ adsl-start
-* change boot order https://wiki.centos.org/zh-tw/HowTos/Grub2
-* GUI: grub-customizer
-  * CentOS/RHEL
-    * $ yum install grub-customizer
-  * Ubuntu
-    * sudo add-apt-repository ppa:danielrichter2007/grub-customizer
-    * sudo apt-get update
-    * sudo apt-get install grub-customizer
-
 ## Questions
 * why not open source CASA directly?
 * do we use Slack?
