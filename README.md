@@ -9,17 +9,6 @@
 
 ## [TODO]Weekly report 2018/06/25~2018/07/01
 
-## Pull request
-* [Fix] typo/delete/modify in /home/duidae/projects/CARTA/CARTAvis/carta/scripts/buildcasa.sh // 整理buildcasa.sh
-    * typo: 3 ## TODO: remove installinging
-    * delete: 77     #### install Qt 4.8.5
-    * delete: 78     # sudo yum -y install qt-devel.x86_64
-    * delete: 79     # alias qmake='qmake-qt4'
-    * remove commented code
-    * comment註明路徑(casa, casacore)
-    * 282 cd ../../code  //是否改成cd $casawork/trunk/code 較易讀
-* [Fix] carta/readme.txt -> carta/readme.md // change readme.txt to markdown 
-
 ## Weekly report 2018/06/11~2018/06/17
 
 #### 1. micro web socket study
@@ -130,6 +119,17 @@ make: *** [sub-cpp-make_first] Error 2
 
 #### 5. how to do open source development/run open source project
 * Innovation Happens Elsewhere (Version 1.0) [Nice ebook](https://www.dreamsongs.com/IHE/)
+
+## Pull request
+* [Fix] typo/delete/modify in /home/duidae/projects/CARTA/CARTAvis/carta/scripts/buildcasa.sh // 整理buildcasa.sh
+    * typo: 3 ## TODO: remove installinging
+    * delete: 77     #### install Qt 4.8.5
+    * delete: 78     # sudo yum -y install qt-devel.x86_64
+    * delete: 79     # alias qmake='qmake-qt4'
+    * remove commented code
+    * comment註明路徑(casa, casacore)
+    * 282 cd ../../code  //是否改成cd $casawork/trunk/code 較易讀
+* [Fix] carta/readme.txt -> carta/readme.md // change readme.txt to markdown 
 
 ## Reference
 * [ALMA](http://www.almaobservatory.org/en/home/)
