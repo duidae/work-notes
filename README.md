@@ -3,7 +3,7 @@
 
 ## Weekly report 2018/06/18~2018/06/24
 #### 1. Trace carta
-* [carta builder from Mark](https://github.com/markccchiang/CARTA-builder)
+* [carta builder script from Mark](https://github.com/markccchiang/CARTA-builder)
 
 ![build](images/2018-06-23%2019-31-45.png)
 
