@@ -14,6 +14,9 @@ ulimit -n 2000
 $CARTAWORKHOME/CARTAvis/build/cpp/desktop/CARTA --html $CARTAWORKHOME/CARTAvis/carta/html5/desktop/desktopIndex.html
 ```
 
+* release binary
+  * CARTA-0.9r-el6-el7/bin/carta.sh <- 啟動點
+
 #### 2. read issues/pull requests
 * [protobuf tester](https://github.com/CARTAvis/carta/pull/258)
 
