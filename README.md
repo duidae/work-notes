@@ -3,6 +3,9 @@
 
 ## Weekly report 2018/06/25~2018/07/01
 #### 1. Trace carta
+* protobuf
+  * Branch: mark/newArch-testProtoBuf
+  * use proto buffer to transmit .fits file
 #### 2. license study
 
 ## Weekly report 2018/06/18~2018/06/24
@@ -158,6 +161,8 @@ make: *** [sub-cpp-make_first] Error 2
   * [https://kheresy.wordpress.com/2010/05/27/c0x%EF%BC%9Alambda-expression/](https://kheresy.wordpress.com/2010/05/27/c0x%EF%BC%9Alambda-expression/)
 * STL documentation:
   * [http://www.cplusplus.com/reference/stl/](http://www.cplusplus.com/reference/stl/)
+* auto
+ * https://zh.wikipedia.org/wiki/Auto_(C%2B%2B)
 
 ## Questions
 * why not open source CASA directly?
