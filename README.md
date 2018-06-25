@@ -6,6 +6,10 @@
 * protobuf
   * Branch: mark/newArch-testProtoBuf
   * use proto buffer to transmit .fits file
+  * structure of .fits file?
+* entry point for protobuf, uwebsockets
+  * carta/cpp
+
 #### 2. license study
 
 ## Weekly report 2018/06/18~2018/06/24
