@@ -162,7 +162,7 @@ make: *** [sub-cpp-make_first] Error 2
 * STL documentation:
   * [http://www.cplusplus.com/reference/stl/](http://www.cplusplus.com/reference/stl/)
 * auto
- * https://zh.wikipedia.org/wiki/Auto_(C%2B%2B)
+  * https://zh.wikipedia.org/wiki/Auto_(C%2B%2B)
 
 ## Questions
 * why not open source CASA directly?
