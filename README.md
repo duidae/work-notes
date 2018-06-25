@@ -133,7 +133,8 @@ make: *** [sub-cpp-make_first] Error 2
     * remove commented code
     * comment註明路徑(casa, casacore)
     * 282 cd ../../code  //是否改成cd $casawork/trunk/code 較易讀
-* [Fix] carta/readme.txt -> carta/readme.md // change readme.txt to markdown 
+* [Fix] carta/readme.txt -> carta/readme.md // change readme.txt to markdown
+* 整理 scripts/carta.sh 
 
 ## Reference
 * [ALMA](http://www.almaobservatory.org/en/home/)
