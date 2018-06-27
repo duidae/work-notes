@@ -7,7 +7,7 @@
   * Branch: mark/newArch-testProtoBuf
   * use protobuf to transmit .fits file
   * structure of .fits file?
-  * practice: .fits -> (protobuf encryted) ------uwebsocket-----> server
+* practice: .fits -> (protobuf encryted) ------uwebsocket-----> server
 * entry point for protobuf, uwebsockets
   * carta/cpp
 * difference between scrips/buildcasa.sh & Mark's script: cmake flag
