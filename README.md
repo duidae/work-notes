@@ -26,6 +26,8 @@ cmake -DBoost_NO_BOOST_CMAKE=1 -DCASA_BUILD=1 -DBUILD_TESTING=OFF \
 
 #### 2. study docker for mac
 * [docker tutorial](https://github.com/twtrubiks/docker-tutorial)
+* [如何安裝 Docker for Mac ?](http://oomusou.io/docker/docker-for-mac/)
+* [如何使用 Docker 安裝 Ubuntu ?](http://oomusou.io/docker/ubuntu/)
 
 ## Weekly report 2018/06/18~2018/06/24
 #### 1. Trace & build carta
