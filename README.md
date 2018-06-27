@@ -28,6 +28,7 @@ cmake -DBoost_NO_BOOST_CMAKE=1 -DCASA_BUILD=1 -DBUILD_TESTING=OFF \
 * qmake會根據專案檔（.pro）裡面的資訊自動生成適合平台的 Makefile
 * unit Test for Qt
   * http://doc.qt.io/qt-5/qttestlib-tutorial1-example.html
+* [TODO]Use Qt creator to build and debug
 
 #### 3. study docker for mac
 * [docker tutorial](https://github.com/twtrubiks/docker-tutorial)
