@@ -5,7 +5,7 @@
 #### 1. Trace carta
 * protobuf
   * Branch: mark/newArch-testProtoBuf
-  * use proto buffer to transmit .fits file
+  * use protobuf to transmit .fits file
   * structure of .fits file?
 * entry point for protobuf, uwebsockets
   * carta/cpp
