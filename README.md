@@ -24,7 +24,8 @@ cmake -DBoost_NO_BOOST_CMAKE=1 -DCASA_BUILD=1 -DBUILD_TESTING=OFF \
 ```
 * qmake會根據專案檔（.pro）裡面的資訊自動生成適合平台的 Makefile
 
-#### 2. license study
+#### 2. study docker for mac
+* [docker tutorial](https://github.com/twtrubiks/docker-tutorial)
 
 ## Weekly report 2018/06/18~2018/06/24
 #### 1. Trace & build carta
@@ -170,6 +171,9 @@ make: *** [sub-cpp-make_first] Error 2
 * [Code NASA](https://code.nasa.gov/)
 * [Data NASA](https://data.nasa.gov/)
 * markdown syntax: [mastering markdown](https://guides.github.com/features/mastering-markdown/), [chinese](https://github.com/othree/markdown-syntax-zhtw)
+
+## [TODO]
+* license study
 
 ## C++
 * lambda expression(anonymous function)
