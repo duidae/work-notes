@@ -10,9 +10,17 @@
 * entry point for protobuf, uwebsockets
   * carta/cpp
 * difference between scrips/buildcasa.sh & Mark's script: cmake flag
+  * scrips/buildcasa.sh: 多了-DUseCasacoreNamespace=1
 ```
-scrips/buildcasa.sh: 多了-DUseCasacoreNamespace=1
-cmake -DUseCasacoreNamespace=1 \
+cmake -DBoost_NO_BOOST_CMAKE=1 -DCASA_BUILD=1 -DBUILD_TESTING=OFF \
+     -DUseCasacoreNamespace=1 \
+     -DCMAKE_INSTALL_PREFIX=../../$TARGETOS -DBUILD_PYTHON=1 \
+     -DPYTHON_INCLUDE_DIR=/usr/include/python2.7 \
+     -DPYTHON_LIBRARY=/usr/lib64/libpython2.7.so \
+     -DWCSLIB_ROOT_DIR=$cartawork/CARTAvis-externals/ThirdParty/wcslib \
+     -DCFITSIO_ROOT_DIR=$cartawork/CARTAvis-externals/ThirdParty/cfitsio \
+     -DCMAKE_BUILD_TYPE=Release \
+     -DCXX11=1 ..
 ```
 
 #### 2. license study
