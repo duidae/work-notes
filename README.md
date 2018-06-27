@@ -22,6 +22,7 @@ cmake -DBoost_NO_BOOST_CMAKE=1 -DCASA_BUILD=1 -DBUILD_TESTING=OFF \
      -DCMAKE_BUILD_TYPE=Release \
      -DCXX11=1 ..
 ```
+* qmake會根據專案檔（.pro）裡面的資訊自動生成適合平台的 Makefile
 
 #### 2. license study
 
