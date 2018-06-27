@@ -29,6 +29,7 @@ cmake -DBoost_NO_BOOST_CMAKE=1 -DCASA_BUILD=1 -DBUILD_TESTING=OFF \
 * unit Test for Qt
   * http://doc.qt.io/qt-5/qttestlib-tutorial1-example.html
 * [TODO]Use Qt creator to build and debug
+* update Qt?
 
 #### 3. study docker for mac
 * [docker tutorial](https://github.com/twtrubiks/docker-tutorial)
