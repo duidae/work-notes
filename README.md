@@ -164,6 +164,8 @@ make: *** [sub-cpp-make_first] Error 2
     * 282 cd ../../code  //是否改成cd $casawork/trunk/code 較易讀
 * [Fix] carta/readme.txt -> carta/readme.md // change readme.txt to markdown
 * 整理 scripts/carta.sh 
+* [Fix] scripts/carta.sh
+  * 53     $dirname/setupcartavis.sh 2>&1  > /dev/null  //should be >/dev/null 2>&1
 
 ## Reference
 * [ALMA](http://www.almaobservatory.org/en/home/)
