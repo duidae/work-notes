@@ -7,6 +7,7 @@
   * Branch: mark/newArch-testProtoBuf
   * use protobuf to transmit .fits file
   * structure of .fits file?
+  * [TODO] merge scripts/install_protobuf.sh to scripts/install3party.sh
 * entry point for protobuf, uwebsockets
   * carta/cpp
 * practice: .fits -> (protobuf encryted) ------uwebsocket-----> server
