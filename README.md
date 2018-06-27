@@ -10,7 +10,7 @@
   * [TODO] merge scripts/install_protobuf.sh to scripts/install3party.sh
 * entry point for protobuf, uwebsockets
   * carta/cpp
-* practice: .fits -> (protobuf encryted) ------uwebsocket-----> server
+* practice: .fits -> (protobuf encrytion) ------[uwebsocket]-----> (protobuf decryption) -> server
 * difference between scrips/buildcasa.sh & Mark's script: cmake flag
   * scrips/buildcasa.sh: 多了-DUseCasacoreNamespace=1
 ```
