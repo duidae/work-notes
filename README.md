@@ -11,7 +11,8 @@
   * carta/cpp/common_config.pri, testProtoBuf.pro
 * entry point for protobuf, uwebsockets
   * carta/cpp
-* practice: .fits -> (protobuf encrytion) ------[uwebsocket]-----> (protobuf decryption) -> server
+  * 學protobuf把uwebsocket整合進去
+  * practice: .fits -> (protobuf encrytion) ------[uwebsocket]-----> (protobuf decryption) -> server
 * difference between scrips/buildcasa.sh & Mark's script: cmake flag
   * scrips/buildcasa.sh: 多了-DUseCasacoreNamespace=1
 ```
