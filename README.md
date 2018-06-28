@@ -133,6 +133,7 @@ make: *** [sub-cpp-make_first] Error 2
 * smaller, faster, binary message structure like json
 * protocol buffers: [https://developers.google.com/protocol-buffers/](https://developers.google.com/protocol-buffers/)
 * [Overview](https://developers.google.com/protocol-buffers/docs/overview), [Tutorials](https://developers.google.com/protocol-buffers/docs/tutorials), [Github](https://github.com/google/protobuf/releases)
+* protobuf install: https://github.com/google/protobuf/blob/master/src/README.md
 * .proto defines message strucuture, compiler generates corresponding .h .cc file
 * github repo of my practice: [cpp only(modified makefile)](https://github.com/duidae/Asiaa-work/tree/master/protobuf-example)
 * possible entry in CARTA? our protobuf message structure?
