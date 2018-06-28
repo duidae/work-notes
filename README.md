@@ -8,6 +8,7 @@
   * use protobuf to transmit .fits file
   * structure of .fits file?
   * [TODO] merge scripts/install_protobuf.sh to scripts/install3party.sh
+  * carta/cpp/common_config.pri, testProtoBuf.pro
 * entry point for protobuf, uwebsockets
   * carta/cpp
 * practice: .fits -> (protobuf encrytion) ------[uwebsocket]-----> (protobuf decryption) -> server
