@@ -1,6 +1,13 @@
 ![ALMA](images/beautiful.jpg)
 [Image source](http://alma.asiaa.sinica.edu.tw/_img/site_multimedia/2013AOS/IMG_4017.jpg)
 
+## Weekly report 2018/07/02~2018/07/08
+#### 1. Report to iaa
+* ok
+
+#### 2. Trace carta
+* read slack
+
 ## Weekly report 2018/06/25~2018/07/01
 #### 1. Trace carta
 * protobuf
