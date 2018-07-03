@@ -203,7 +203,7 @@ make: *** [sub-cpp-make_first] Error 2
 * license study
 
 ## C++
-* [高速上手](https://legacy.gitbook.com/book/changkun/cpp1x-tutorial/details)
+* [高速上手C++11/14](https://legacy.gitbook.com/book/changkun/cpp1x-tutorial/details)
 * lambda expression(anonymous function)
   * [https://en.wikipedia.org/wiki/Anonymous_function#C++_(since_C++11)](https://en.wikipedia.org/wiki/Anonymous_function#C++_(since_C++11))
   * [http://en.cppreference.com/w/cpp/language/lambda](http://en.cppreference.com/w/cpp/language/lambda)
