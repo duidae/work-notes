@@ -7,6 +7,8 @@
 
 #### 2. Trace carta
 * read slack
+* read Interface Control Document
+* 
 
 ## Weekly report 2018/06/25~2018/07/01
 #### 1. Trace carta
