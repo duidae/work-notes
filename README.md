@@ -8,7 +8,7 @@
 #### 2. Trace carta
 * read slack
 * read Interface Control Document
-* structure:
+* architecture:
   * server ----> RPC/data(protobuf encrytion) ------[uwebsocket]------> browser
 
 #### 3. huge data
