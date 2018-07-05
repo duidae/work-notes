@@ -85,7 +85,7 @@ $CARTAWORKHOME/CARTAvis/build/cpp/desktop/CARTA --html $CARTAWORKHOME/CARTAvis/c
 * WebSocket implementation for c++, javascript(Node.js)
 * 目前号称最高性能的websocket c++库
 * [Comparison of WebSocket implementations](https://en.wikipedia.org/wiki/Comparison_of_WebSocket_implementations)
-* [TODO][github repo of my practice:]
+* github repo of my practice: https://github.com/duidae/nodejs-uwebsocket-example
 * possible entry in CARTA? 
 
 #### 2. build carta viewer again on CentOS
