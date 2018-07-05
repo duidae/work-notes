@@ -11,7 +11,7 @@
 * architecture:
   * server ----> RPC/data(protobuf encrytion) ------[uwebsocket]------> browser
   
-#### 3. test/integration for uWebSockets,protobuf
+#### 3. test/integration for uWebSockets, protobuf
 * uwebsocket: https://github.com/duidae/uWebSockets-example
 * protobuf: https://github.com/duidae/protocol-buffer-example
 * uwebsocket+protobuf: 
