@@ -195,6 +195,9 @@ make: *** [sub-cpp-make_first] Error 2
 * [Fix] scripts/carta.sh
   * 53     $dirname/setupcartavis.sh 2>&1  > /dev/null  //should be >/dev/null 2>&1
 
+## CARTA team
+* slack: https://cartaviewer.slack.com/messages/C2S1R8V9P/
+
 ## Reference
 * [ALMA](http://www.almaobservatory.org/en/home/)
 * [ALMA @ Asiaa](http://alma.asiaa.sinica.edu.tw/index.php)
