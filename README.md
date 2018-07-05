@@ -19,7 +19,7 @@
 * HDF5 https://www.hdfgroup.org/
 * redis https://redis.io/
 
-#### 5. possible architecture for reference(於瀏覽器多人協作)
+#### 5. possible architecture for reference(於瀏覽器多人協作的功能)
 * slide.com
 * google doc
 * github(?)
