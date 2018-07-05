@@ -10,8 +10,11 @@
 * read Interface Control Document
 * architecture:
   * server ----> RPC/data(protobuf encrytion) ------[uwebsocket]------> browser
+  
+#### 3. uWebSocket test
+* https://github.com/duidae/uWebsocket-test
 
-#### 3. huge data
+#### 4. huge data
 * [intro to HDF5, Redis](https://chtseng.wordpress.com/2017/08/15/%E5%B7%A8%E9%87%8F%E8%B3%87%E6%96%99%E7%9A%84%E5%A5%BD%E5%A4%A5%E4%BC%B4hdf5-redis/)
 * HDF5 https://www.hdfgroup.org/
 * redis https://redis.io/
