@@ -2,7 +2,7 @@
 [Image source](http://alma.asiaa.sinica.edu.tw/_img/site_multimedia/2013AOS/IMG_4017.jpg)
 
 ## Weekly report 2018/07/02~2018/07/08
-#### 1. Report to iaa
+#### 1. Report to ASIAA
 * ok
 
 #### 2. Trace carta
@@ -11,12 +11,12 @@
 * architecture:
   * server ----> RPC/data(protobuf encrytion) ------[uwebsocket]------> browser
   
-#### 3. uWebSocket,protobuf my test
+#### 3. test/integration for uWebSocket,protobuf
 * uwebsocket: https://github.com/duidae/uWebsocket-test
 * protobuf: https://github.com/duidae/protocol-buffer-example
 * uwebsocket+protobuf: 
 
-#### 4. huge data
+#### 4. HDF5, Redis study
 * [intro to HDF5, Redis](https://chtseng.wordpress.com/2017/08/15/%E5%B7%A8%E9%87%8F%E8%B3%87%E6%96%99%E7%9A%84%E5%A5%BD%E5%A4%A5%E4%BC%B4hdf5-redis/)
 * HDF5 https://www.hdfgroup.org/
 * redis https://redis.io/
