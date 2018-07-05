@@ -218,4 +218,3 @@ make: *** [sub-cpp-make_first] Error 2
 
 ## Questions
 * why not open source CASA directly?
-* do we use Slack?
