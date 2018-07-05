@@ -179,7 +179,7 @@ make: *** [sub-cpp-make_first] Error 2
 ![devop sequence diagram](images/sequence-diagram.png)
 
 #### 5. how to do open source development/run open source project
-* Innovation Happens Elsewhere (Version 1.0) [Nice ebook](https://www.dreamsongs.com/IHE/)
+* [Innovation Happens Elsewhere (Version 1.0)](https://www.dreamsongs.com/IHE/)
 
 ## Pull request
 * [Fix] typo/delete/modify in /home/duidae/projects/CARTA/CARTAvis/carta/scripts/buildcasa.sh // 整理buildcasa.sh
@@ -212,6 +212,10 @@ make: *** [sub-cpp-make_first] Error 2
 * [Code NASA](https://code.nasa.gov/)
 * [Data NASA](https://data.nasa.gov/)
 * markdown syntax: [mastering markdown](https://guides.github.com/features/mastering-markdown/), [chinese](https://github.com/othree/markdown-syntax-zhtw)
+
+## Open source
+* [用Open Source工具開發軟體](http://www.study-area.org/cyril/opentools/opentools/book1.html)
+* [Innovation Happens Elsewhere (Version 1.0)](https://www.dreamsongs.com/IHE/)
 
 ## [TODO]
 * license study
