@@ -12,7 +12,7 @@
   * server ----> RPC/data(protobuf encrytion) ------[uwebsocket]------> browser
   
 #### 3. test/integration for uWebSocket,protobuf
-* uwebsocket: https://github.com/duidae/uWebsocket-test
+* uwebsocket: https://github.com/duidae/uWebSockets-example
 * protobuf: https://github.com/duidae/protocol-buffer-example
 * uwebsocket+protobuf: 
 
@@ -87,7 +87,6 @@ $CARTAWORKHOME/CARTAvis/build/cpp/desktop/CARTA --html $CARTAWORKHOME/CARTAvis/c
 * WebSocket implementation for c++, javascript(Node.js)
 * 目前号称最高性能的websocket c++库
 * [Comparison of WebSocket implementations](https://en.wikipedia.org/wiki/Comparison_of_WebSocket_implementations)
-* github repo of my practice: https://github.com/duidae/nodejs-uwebsocket-example
 * possible entry in CARTA? 
 
 #### 2. build carta viewer again on CentOS
