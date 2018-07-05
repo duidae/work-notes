@@ -19,6 +19,11 @@
 * HDF5 https://www.hdfgroup.org/
 * redis https://redis.io/
 
+#### 5. possible architecture for reference(於瀏覽器多人協作)
+* slide.com
+* google doc
+* github(?)
+
 ## Weekly report 2018/06/25~2018/07/01
 #### 1. Trace carta
 * protobuf
