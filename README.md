@@ -1,5 +1,6 @@
 ![ALMA](images/beautiful.jpg)
 [Image source](http://alma.asiaa.sinica.edu.tw/_img/site_multimedia/2013AOS/IMG_4017.jpg)
+[Team Slack](https://cartaviewer.slack.com/messages/C2S1R8V9P/)[Trello](https://trello.com/b/fViU1U7v/carta-working-group)
 
 ## Weekly progress 2018/07/09~2018/07/15
 #### 1. 小實驗完成(週二前)
