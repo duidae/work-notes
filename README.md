@@ -1,6 +1,10 @@
 ![ALMA](images/beautiful.jpg)
 [Image source](http://alma.asiaa.sinica.edu.tw/_img/site_multimedia/2013AOS/IMG_4017.jpg)
 
+## Weekly progress 2018/07/09~2018/07/15
+#### 1. 小實驗完成(週二前)
+#### 2. 看desktop怎麼跟Qt連接, 怎麼拆除
+
 ## Weekly report 2018/07/02~2018/07/08
 #### 1. Report to ASIAA
 * ok
