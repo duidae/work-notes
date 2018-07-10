@@ -9,6 +9,7 @@
 * websocket介紹: http://www.ruanyifeng.com/blog/2017/05/websocket.html
 * websocketd: WebSocket daemon server
   * http://websocketd.com/
+  * github: https://github.com/joewalnes/websocketd/
   * Full duplex messaging between web browsers and servers
   * Avoid threading headaches
   * 是不可以用這個tool來實現我們的架構?
