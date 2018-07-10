@@ -7,7 +7,7 @@
 ## Weekly progress 2018/07/09~2018/07/15
 #### 1. 小實驗完成(週二前)
 * websocket介紹: http://www.ruanyifeng.com/blog/2017/05/websocket.html
-* websocketd: WebSocket daemon server
+* websocketd: WebSocket daemon
   * http://websocketd.com/
   * github: https://github.com/joewalnes/websocketd/
   * Full duplex messaging between web browsers and servers
