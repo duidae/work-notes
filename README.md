@@ -15,7 +15,7 @@
   * 是不可以用這個tool來實現我們的架構?
   
 #### 2. 看desktop怎麼跟Qt連接, 怎麼拆除
-* 看哪個版本? 
+* 看哪個版本? release?
 
 ## Weekly report 2018/07/02~2018/07/08
 #### 1. Report to ASIAA
