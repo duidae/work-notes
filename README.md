@@ -14,6 +14,9 @@
   * Avoid threading headaches
   * 是不可以用這個tool來實現我們的架構?
 * instruction有沒現成class, parser可用
+  * instruction
+    * instruction name
+    * instruction fields
   
 #### 2. 看desktop怎麼跟Qt連接, 怎麼拆除
 * 看哪個版本? release?
