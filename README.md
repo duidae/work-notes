@@ -29,7 +29,11 @@
 * protocol buffer 淺析
   * serialize https://www.cnblogs.com/royenhome/archive/2010/10/30/1865153.html
 #### 2. Architecture
-* server:[websocket daemon(thread safe)]+[protobuf encoder] ---------ws---------> client
+* server:[CASA libs][websocket daemon(thread safe)]+[protobuf encoder] ---------ws---------> client
+* backend server development includes
+  * develop thread safe websocket daemon
+  * integrate CASA libs with web socket daemon
+  * design protocol buffer for instructions/data
 
 #### 3. 看desktop怎麼跟Qt連接, 怎麼拆除
 * 看哪個版本? release?
