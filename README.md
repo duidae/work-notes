@@ -13,7 +13,7 @@
   * Full duplex messaging between web browsers and servers
   * Avoid threading headaches
   * 是不可以用這個tool來實現我們的架構?
-* instruction有沒現成class, parser可用
+* instruction有沒現成class, parser可用 -> 每一種message就是一種instruction, 所以要定義好多種不一樣的Message(instruction)
   * instruction
     * instruction name
     * instruction fields
