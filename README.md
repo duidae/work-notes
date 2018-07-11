@@ -18,7 +18,7 @@
     * instruction name
     * instruction fields
 * protocol buffer 淺析
-  * https://www.cnblogs.com/royenhome/archive/2010/10/30/1865153.html
+  * serialize https://www.cnblogs.com/royenhome/archive/2010/10/30/1865153.html
   
 #### 2. 看desktop怎麼跟Qt連接, 怎麼拆除
 * 看哪個版本? release?
