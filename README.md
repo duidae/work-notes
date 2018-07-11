@@ -6,6 +6,11 @@
 
 ## Weekly progress 2018/07/09~2018/07/15
 #### 1. 小實驗完成(週二前)
+* 小實驗: https://github.com/duidae/protobuf-uwebsockets
+  * 瀏覽器和後端先經protocol buffer壓縮資料和指令，再透過uwebsockets溝通
+  * TODO
+    * client javascript version
+    * server: how to get websocket payload using uWebSockets?
 * websocket介紹: http://www.ruanyifeng.com/blog/2017/05/websocket.html
 * uWebSockets:
   * [TODO]要怎麼parse websocket packet? 有沒有現成library可用??
