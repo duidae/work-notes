@@ -32,7 +32,7 @@
 * server:[CASA libs][websocket daemon(thread safe)]+[protobuf encoder] ---------ws---------> client
 * backend server development includes
   * develop thread safe websocket daemon
-  * integrate CASA libs with web socket daemon
+  * connect CASA libs with websocket daemon
   * design protocol buffer for instructions/data
 
 #### 3. 看desktop怎麼跟Qt連接, 怎麼拆除
