@@ -28,7 +28,7 @@
   * serialize https://www.cnblogs.com/royenhome/archive/2010/10/30/1865153.html
   
 #### 2. Architecture
-* server:[CASA libs][websocket daemon(thread safe)]+[protobuf encoder] ---------ws---------> client
+* server:[CASA libs]+[websocket daemon(thread safe)]+[protobuf encoder] ---------ws---------> client
 * backend server development includes
   * develop thread safe websocket daemon
   * connect CASA libs with websocket daemon
