@@ -12,8 +12,6 @@
     * client javascript version
     * server: how to get websocket payload using uWebSockets?
 * websocket介紹: http://www.ruanyifeng.com/blog/2017/05/websocket.html
-* uWebSockets:
-  * [TODO]要怎麼parse websocket packet? 有沒有現成library可用??
 * websocketd: WebSocket daemon
   * http://websocketd.com/
   * github: https://github.com/joewalnes/websocketd/
