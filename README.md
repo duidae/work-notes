@@ -39,7 +39,8 @@
 * 看哪個版本? release?
 
 #### 4. coding IDE
-* Eclipse?
+* Eclipse
+* VS code
 
 ## Weekly report 2018/07/02~2018/07/08
 #### 1. Report to ASIAA
