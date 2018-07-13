@@ -67,6 +67,8 @@
 * Mozilla TogetherJS https://togetherjs.com/
   * TogetherJS is a free, open source JavaScript library by Mozilla that adds collaboration features and tools to your website. By adding TogetherJS to your site, your users can help each other out on a website in real time!
 * https://medium.com/front-end-hacking/build-a-collaborative-rich-text-editor-with-node-js-and-socket-io-38ee25b6e315
+* 本文简单分析一下这种real time cooperative editing system的设计
+  * https://zhuanlan.zhihu.com/p/21844666
 
 ## Weekly progress 2018/07/02~2018/07/08
 #### 1. Report to ASIAA
