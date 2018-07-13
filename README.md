@@ -21,9 +21,7 @@
 * libwebsockets:
   * https://github.com/warmcat/libwebsockets
 * instruction有沒現成class, parser可用 -> 每一種message就是一種instruction, 所以要定義好多種不一樣的Message(instruction)
-  * instruction
-    * instruction name
-    * instruction fields
+  * instruction: name+field
   * cjhsu已定義好, 放在CARTAvis/carta/cpp/CartaLib/Proto
 * protocol buffer 淺析
   * serialize https://www.cnblogs.com/royenhome/archive/2010/10/30/1865153.html
