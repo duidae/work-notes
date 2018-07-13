@@ -12,10 +12,10 @@
     * MainWindow.h
     * DesktopPlatform.h
   * communication - 怎麼切換成uwebsockets
+    * NewServerConnector.h
     * SessionDispatcher.h  // cjhsu在這測試uwebsocket
     * NetworkAccessManager.h // X 沒在用了
     * NetworkReplyFileq.h  // X 沒在用了
-    * NewServerConnector.h  // X 沒在用了
     * websocketclientwrapper.h  // X 從Qt複製過來, 沒在用了
     * websockettransport.h // X 從Qt複製過來, 沒在用了 Qtwebchannel的websocket
   * grep -rn "websockettransport.h" 看有沒人include, 判斷還有沒有在用
