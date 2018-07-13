@@ -24,6 +24,7 @@
   * instruction
     * instruction name
     * instruction fields
+  * cjhsu已定義好, 放在CARTAvis/carta/cpp/CartaLib/Proto
 * protocol buffer 淺析
   * serialize https://www.cnblogs.com/royenhome/archive/2010/10/30/1865153.html
   
