@@ -40,6 +40,8 @@
   * cjhsu已定義好, 放在CARTAvis/carta/cpp/CartaLib/Proto
 * protocol buffer 淺析
   * serialize https://www.cnblogs.com/royenhome/archive/2010/10/30/1865153.html
+* websocket 方法與屬性
+  * https://developer.mozilla.org/zh-TW/docs/WebSockets/WebSockets_reference/WebSocket
   
 #### 3. Architecture
 * server:[CASA libs]+[websocket daemon(thread safe)]+[protobuf encoder] ---------ws---------> client
