@@ -13,7 +13,7 @@
     * DesktopPlatform.h
   * communication - 怎麼切換成uwebsockets
     * NetworkReplyFileq.h
-    * SessionDispatcher.h
+    * SessionDispatcher.h  // cjhsu在這測試uwebsocket
     * websockettransport.h // Qtwebchannel的websocket
     * NetworkAccessManager.h
     * NewServerConnector.h
