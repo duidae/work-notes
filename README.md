@@ -7,15 +7,17 @@
 ## Weekly progress 2018/07/09~2018/07/15
 #### 1. Trace cpp/desktop
 * headers
-  * CustomWebPage.h
-  * MainWindow.h
-  * NetworkReplyFileq.h
-  * SessionDispatcher.h
-  * websockettransport.h
-  * DesktopPlatform.h
-  * NetworkAccessManager.h
-  * NewServerConnector.h
-  * websocketclientwrapper.h
+  * GUI - 捨棄Qt後就可以丟掉不管了
+    * CustomWebPage.h
+    * MainWindow.h
+    * DesktopPlatform.h
+  * communication - 怎麼切換成uwebsockets
+    * NetworkReplyFileq.h
+    * SessionDispatcher.h
+    * websockettransport.h // Qtwebchannel的websocket
+    * NetworkAccessManager.h
+    * NewServerConnector.h
+    * websocketclientwrapper.h
   
 #### 2. 小實驗完成(週二前)
 * 小實驗: https://github.com/duidae/protobuf-uwebsockets
