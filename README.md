@@ -62,6 +62,7 @@
 
 #### 6. Collaborative Web App
 * https://code.tutsplus.com/tutorials/building-a-collaborative-web-app-with-pubnub-reactjs-and-es6--cms-26565
+* https://medium.com/@pvh/pixelpusher-real-time-peer-to-peer-collaboration-with-react-7c7bc8ecbf74
 * Github搜尋: collaborative
 
 ## Weekly progress 2018/07/02~2018/07/08
