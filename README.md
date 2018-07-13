@@ -43,10 +43,10 @@
   * $ sudo ./MaintenanceTool // MaintenanceTool在/opt/Qt裡面
 
 #### 4. coding IDE
+* VS code -> 用這
 * Eclipse
-* VS code
 
-## Weekly report 2018/07/02~2018/07/08
+## Weekly progress 2018/07/02~2018/07/08
 #### 1. Report to ASIAA
 * ok
 
