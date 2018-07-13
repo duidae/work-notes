@@ -19,7 +19,7 @@
     * NewServerConnector.h
     * websocketclientwrapper.h
   
-#### 2. 小實驗完成(週二前)
+#### 2. 小實驗完成(週二前) - 試用uwebsocket, protocol buffer, and combine
 * 小實驗: https://github.com/duidae/protobuf-uwebsockets
   * 瀏覽器和後端先經protocol buffer壓縮資料和指令，再透過uwebsockets溝通
   * TODO
