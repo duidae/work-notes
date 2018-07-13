@@ -8,16 +8,16 @@
 #### 1. Trace cpp/desktop
 * headers
   * GUI - 捨棄Qt後就可以丟掉不管了
-    * CustomWebPage.h
+    * CustomWebPage.h // X 沒在用了
     * MainWindow.h
     * DesktopPlatform.h
   * communication - 怎麼切換成uwebsockets
-    * NetworkReplyFileq.h
     * SessionDispatcher.h  // cjhsu在這測試uwebsocket
-    * websockettransport.h // Qtwebchannel的websocket
     * NetworkAccessManager.h
+    * NetworkReplyFileq.h
     * NewServerConnector.h
     * websocketclientwrapper.h
+    * websockettransport.h // Qtwebchannel的websocket
   
 #### 2. 小實驗完成(週二前) - 試用uwebsocket, protocol buffer, and combine
 * 小實驗: https://github.com/duidae/protobuf-uwebsockets
