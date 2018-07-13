@@ -18,6 +18,7 @@
     * NewServerConnector.h  // X 沒在用了
     * websocketclientwrapper.h  // X 從Qt複製過來, 沒在用了
     * websockettransport.h // X 從Qt複製過來, 沒在用了 Qtwebchannel的websocket
+  * grep -rn "websockettransport.h" 看有沒人include, 判斷還有沒有在用
   
 #### 2. 小實驗完成(週二前) - 試用uwebsocket, protocol buffer, and combine
 * 小實驗: https://github.com/duidae/protobuf-uwebsockets
