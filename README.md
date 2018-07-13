@@ -5,7 +5,19 @@
 * [Trello](https://trello.com/b/fViU1U7v/carta-working-group)
 
 ## Weekly progress 2018/07/09~2018/07/15
-#### 1. 小實驗完成(週二前)
+#### 1. Trace cpp/desktop
+* headers
+  * CustomWebPage.h
+  * MainWindow.h
+  * NetworkReplyFileq.h
+  * SessionDispatcher.h
+  * websockettransport.h
+  * DesktopPlatform.h
+  * NetworkAccessManager.h
+  * NewServerConnector.h
+  * websocketclientwrapper.h
+  
+#### 2. 小實驗完成(週二前)
 * 小實驗: https://github.com/duidae/protobuf-uwebsockets
   * 瀏覽器和後端先經protocol buffer壓縮資料和指令，再透過uwebsockets溝通
   * TODO
@@ -26,7 +38,7 @@
 * protocol buffer 淺析
   * serialize https://www.cnblogs.com/royenhome/archive/2010/10/30/1865153.html
   
-#### 2. Architecture
+#### 3. Architecture
 * server:[CASA libs]+[websocket daemon(thread safe)]+[protobuf encoder] ---------ws---------> client
 * backend server development includes
   * develop thread safe websocket daemon
@@ -34,14 +46,14 @@
   * design protocol buffer for instructions/data
 * [TODO] google "socket daemon thread safe"
 
-#### 3. 看desktop怎麼跟Qt連接, 怎麼拆除
+#### 4. 看desktop怎麼跟Qt連接, 怎麼拆除
 * 看哪個版本? release?
   * cjhsu的 cjhsu_Proto
 * Qt安裝其他版本
   * 用MaintenanceTool裝要sudo,否則會not enough memory...
   * $ sudo ./MaintenanceTool // MaintenanceTool在/opt/Qt裡面
 
-#### 4. coding IDE
+#### 5. coding IDE
 * VS code -> 用這
 * Eclipse
 
