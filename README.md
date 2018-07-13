@@ -37,6 +37,10 @@
 
 #### 3. 看desktop怎麼跟Qt連接, 怎麼拆除
 * 看哪個版本? release?
+  * cjhsu的 cjhsu_Proto
+* Qt安裝其他版本
+  * 用MaintenanceTool裝要sudo,否則會not enough memory...
+  * $ sudo ./MaintenanceTool // MaintenanceTool在/opt/Qt裡面
 
 #### 4. coding IDE
 * Eclipse
