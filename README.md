@@ -4,6 +4,13 @@
 * [Slack](https://cartaviewer.slack.com/messages/C2S1R8V9P/)
 * [Trello](https://trello.com/b/fViU1U7v/carta-working-group)
 
+## Weekly progress 2018/07/16~2018/07/22
+#### 1. study gRPC
+* gRPC
+  * website: https://grpc.io/
+  * github: https://github.com/grpc/grpc
+    * install guide: https://github.com/grpc/grpc/blob/master/BUILDING.md
+
 ## Weekly progress 2018/07/09~2018/07/15
 #### 1. Trace cpp/desktop
 * headers
