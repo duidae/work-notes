@@ -10,6 +10,9 @@
   * website: https://grpc.io/
   * github: https://github.com/grpc/grpc
     * install guide: https://github.com/grpc/grpc/blob/master/BUILDING.md
+#### 2. frame player
+* Frame player: https://www.javascripting.com/view/frame-player
+  * A video player without video files, just JSON. Based on 'images frames' thought to mobile devices!
 
 ## Weekly progress 2018/07/09~2018/07/15
 #### 1. Trace cpp/desktop
