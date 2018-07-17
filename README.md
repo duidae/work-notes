@@ -20,6 +20,7 @@
     * Presentation layer - how users interact with SW
     * Domain layer - business logic of this SW in certain specific domain
     * Data source layer - communicatoin with data
+* Getting Started with HTML5 WebSocket Programming
 
 ## Weekly progress 2018/07/09~2018/07/15
 #### 1. Trace cpp/desktop
