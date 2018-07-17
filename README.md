@@ -16,6 +16,10 @@
   
 #### 3. book for designing new acrh of CARTA
 * Patterns of Enterprise Application Architecture, Martin Fowler
+  * 3 principle layers
+    * Presentation layer - how users interact with SW
+    * Domain layer - business logic of this SW in certain specific domain
+    * Data source layer - communicatoin with data
 
 ## Weekly progress 2018/07/09~2018/07/15
 #### 1. Trace cpp/desktop
