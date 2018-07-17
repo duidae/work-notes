@@ -15,7 +15,7 @@
   * A video player without video files, just JSON. Based on 'images frames' thought to mobile devices!
   
 #### 3. book for designing new acrh of CARTA
-* Patterns of Enterprise Application Architecture
+* Patterns of Enterprise Application Architecture, Martin Fowler
 
 ## Weekly progress 2018/07/09~2018/07/15
 #### 1. Trace cpp/desktop
