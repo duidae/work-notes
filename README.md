@@ -22,6 +22,7 @@
     * Data source layer - communicatoin with data
 * websocket book
   * Getting Started with HTML5 WebSocket Programming
+    * HTML5 = Markup language + CSS + Javascript
   * https://legacy.gitbook.com/book/abhirockzz/java-websocket-api-handbook/details
 
 ## Weekly progress 2018/07/09~2018/07/15
