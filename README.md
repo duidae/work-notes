@@ -24,6 +24,8 @@
   * Getting Started with HTML5 WebSocket Programming
     * HTML5 = Markup language + CSS + Javascript
   * https://legacy.gitbook.com/book/abhirockzz/java-websocket-api-handbook/details
+* typescript
+  * book https://legacy.gitbook.com/book/zhongsp/typescript-handbook/details
 
 ## Weekly progress 2018/07/09~2018/07/15
 #### 1. Trace cpp/desktop
