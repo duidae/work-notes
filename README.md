@@ -334,6 +334,9 @@ make: *** [sub-cpp-make_first] Error 2
 * [用Open Source工具開發軟體](http://www.study-area.org/cyril/opentools/opentools/book1.html)
 * [Innovation Happens Elsewhere (Version 1.0)](https://www.dreamsongs.com/IHE/)
 
+## Books:
+* lots of free programming books: https://books.goalkicker.com/
+
 ## [TODO]
 * license study
 
