@@ -35,7 +35,8 @@
     * link新的libstdc++.so https://blog.csdn.net/furzoom/article/details/53322510
 * web assembly related library
   * ast
-    * ??
+    * A Library for Handling World Coordinate Systems in Astronomy
+    * http://starlink.eao.hawaii.edu/starlink/AST
   * zfp
     * zfp is an open source C/C++ library for compressed numerical arrays that support high throughput read and write random access. zfp also supports streaming compression of integer and floating-point data, e.g., for applications that read and write large data sets to and from disk.
 
