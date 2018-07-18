@@ -26,6 +26,13 @@
   * https://legacy.gitbook.com/book/abhirockzz/java-websocket-api-handbook/details
 * typescript
   * book https://legacy.gitbook.com/book/zhongsp/typescript-handbook/details
+  
+#### 4. build Angus's frontend
+* code: https://github.com/idia-astro/carta-frontend
+* problems in CentOS(solved):
+  * gcc版本太舊(其實應該是動態library libstdc++.so太舊)
+    * 升級gcc https://blog.csdn.net/zr1076311296/article/details/51334538
+    * link新的libstdc++.so https://blog.csdn.net/furzoom/article/details/53322510
 
 ## Weekly progress 2018/07/09~2018/07/15
 #### 1. Trace cpp/desktop
