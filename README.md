@@ -33,6 +33,11 @@
   * gcc版本太舊(其實應該是動態library libstdc++.so太舊)
     * 升級gcc https://blog.csdn.net/zr1076311296/article/details/51334538
     * link新的libstdc++.so https://blog.csdn.net/furzoom/article/details/53322510
+* web assembly related library
+  * ast
+    * ??
+  * zfp
+    * zfp is an open source C/C++ library for compressed numerical arrays that support high throughput read and write random access. zfp also supports streaming compression of integer and floating-point data, e.g., for applications that read and write large data sets to and from disk.
 
 ## Weekly progress 2018/07/09~2018/07/15
 #### 1. Trace cpp/desktop
