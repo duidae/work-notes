@@ -43,6 +43,7 @@
 #### 5. frontend architecture
 * MVC archtitecture
   * MVC模式（Model–view–controller）是軟體工程中的一種軟體架構模式，把軟體系統分為三個基本部分：模型（Model）、視圖（View）和控制器（Controller）。
+  * Model(資料模型), View(畫面呈現), Controller(流程控制)
 * webassembly
   * wasm_libs: ast, zfp library
   * wasm_src: ast, zfp wrapper
