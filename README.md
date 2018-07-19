@@ -29,7 +29,7 @@
   
 #### 4. build Angus's frontend
 * code: https://github.com/idia-astro/carta-frontend
-* problems in CentOS(solved):
+* build problems in CentOS(solved):
   * gcc版本太舊(其實應該是動態library libstdc++.so太舊)
     * 升級gcc https://blog.csdn.net/zr1076311296/article/details/51334538
     * link新的libstdc++.so https://blog.csdn.net/furzoom/article/details/53322510
@@ -39,7 +39,11 @@
     * http://starlink.eao.hawaii.edu/starlink/AST
   * zfp
     * zfp is an open source C/C++ library for compressed numerical arrays that support high throughput read and write random access. zfp also supports streaming compression of integer and floating-point data, e.g., for applications that read and write large data sets to and from disk.
-
+    
+#### 5. frontend architecture
+* MVC archtitecture
+  * MVC模式（Model–view–controller）是軟體工程中的一種軟體架構模式，把軟體系統分為三個基本部分：模型（Model）、視圖（View）和控制器（Controller）。
+  
 ## Weekly progress 2018/07/09~2018/07/15
 #### 1. Trace cpp/desktop
 * headers
