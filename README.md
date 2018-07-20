@@ -47,6 +47,9 @@
 * webassembly
   * wasm_libs: ast, zfp library
   * wasm_src: ast, zfp wrapper
+* observer design pattern (key part in MVC)
+  * https://en.wikipedia.org/wiki/Observer_pattern
+  * https://zh.wikipedia.org/wiki/%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F
   
 ## Weekly progress 2018/07/09~2018/07/15
 #### 1. Trace cpp/desktop
