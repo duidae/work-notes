@@ -346,6 +346,7 @@ make: *** [sub-cpp-make_first] Error 2
 ## Open source
 * [用Open Source工具開發軟體](http://www.study-area.org/cyril/opentools/opentools/book1.html)
 * [Innovation Happens Elsewhere (Version 1.0)](https://www.dreamsongs.com/IHE/)
+* [如何貢獻開源專案？](https://shinglyu.github.io/web/2018/05/12/how-to-contribute-to-open-source.html)
 
 ## Books:
 * lots of free programming books: https://books.goalkicker.com/
