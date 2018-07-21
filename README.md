@@ -30,6 +30,8 @@
 #### 4. build Angus's frontend
 * code: https://github.com/idia-astro/carta-frontend
 * build problems in CentOS(solved):
+  * emcc需要python2.7.12以上的版本
+    *  https://stackoverflow.com/questions/45670767/python-update-to-2-7-13-on-centos
   * gcc版本太舊(其實應該是動態library libstdc++.so太舊)
     * 升級gcc https://blog.csdn.net/zr1076311296/article/details/51334538
     * link新的libstdc++.so https://blog.csdn.net/furzoom/article/details/53322510
