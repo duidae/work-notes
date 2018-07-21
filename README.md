@@ -4,6 +4,10 @@
 * [Slack](https://cartaviewer.slack.com/messages/C2S1R8V9P/)
 * [Trello](https://trello.com/b/fViU1U7v/carta-working-group)
 
+## Weekly progress 2018/07/23~2018/07/29
+#### 1. Trace frontend
+* play with different tools to understand architecture
+
 ## Weekly progress 2018/07/16~2018/07/22
 #### 1. study gRPC
 * gRPC
