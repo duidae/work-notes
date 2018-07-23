@@ -7,7 +7,10 @@
 ## Weekly progress 2018/07/23~2018/07/29
 #### 1. Trace frontend
 * play with different tools to understand architecture
-* codepen https://codepen.io/
+* Javascript:
+  * codepen https://codepen.io/
+  * javacript tutorial https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+
 
 ## Weekly progress 2018/07/16~2018/07/22
 #### 1. study gRPC
