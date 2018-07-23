@@ -7,7 +7,7 @@
 ## Weekly progress 2018/07/23~2018/07/29
 #### 1. Trace frontend
 * play with different tools to understand architecture
-* structure:
+* normal structure of Typescript+React:
   * myapp/
     * .gitignore
     * node_modules/
