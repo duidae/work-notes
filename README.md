@@ -18,6 +18,8 @@
 * CARTA-frontend
   * src/
     * index.tsx: entry
+    * App.tsx:
+    * registerServiceWorker.ts: 
     * components/
     * [OK] models/: MVC的M
       * Point2D, CursorInfo
