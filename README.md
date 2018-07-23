@@ -41,6 +41,9 @@
   * javacript tutorial https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
   * 建置React開發環境 https://ithelp.ithome.com.tw/articles/10185954
 
+#### 3. cooridnate
+* Right ascension 赤經
+* Declination 赤緯
 
 ## Weekly progress 2018/07/16~2018/07/22
 #### 1. study gRPC
