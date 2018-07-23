@@ -38,7 +38,7 @@
       * DecompressionService
     * [ ] stores/
 
-#### 2. related techs
+#### 2. Related techs
 * Mobx
   * https://cn.mobx.js.org/
 * TypeScript React Starter from Microsoft
@@ -46,7 +46,7 @@
 * Redux
   * Redux is an open-source JavaScript library for managing application state. It is most commonly used with libraries such as React or Angular for building user interfaces.
     
-#### 2. Typescript
+#### 3. Typescript
 * 什麼是 Duck Typing 與 Strong Typing ?
   * Duck typing
     * Duck Typing: 當看到一隻鳥走起來像鴨子、游泳起來像鴨子、叫起來也像鴨子，那麼這隻鳥就可以被稱為鴨子。
@@ -68,7 +68,7 @@
   * javacript tutorial https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
   * 建置React開發環境 https://ithelp.ithome.com.tw/articles/10185954
 
-#### 3. cooridnate
+#### 4. cooridnate
 * Right ascension 赤經
 * Declination 赤緯
 
