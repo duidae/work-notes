@@ -43,6 +43,8 @@
   * https://cn.mobx.js.org/
 * TypeScript React Starter from Microsoft
   * Github repo https://github.com/Microsoft/TypeScript-React-Starter
+* Redux
+  * Redux is an open-source JavaScript library for managing application state. It is most commonly used with libraries such as React or Angular for building user interfaces.
     
 #### 2. Typescript
 * 什麼是 Duck Typing 與 Strong Typing ?
