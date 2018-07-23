@@ -42,7 +42,8 @@
 * .ts vs .tsx
   * .tsx 有用 JSX https://blog.techbridge.cc/2016/04/21/react-jsx-introduction/
   * https://eyesofkids.gitbooks.io/react-basic-zh-tw/content/day15_jsx/
-  * "<h1>{this.props.text}</h1> 那麼這一段是什麼？看起來好像是HTML中的<h1>標記的寫法，但中間的又好像是JavaScript的程式碼。這種把HTML寫在JavaScript的程式碼中的技術，稱之為JSX語法，是React中很特別的一種語法，它可以讓你把HTML中的各種標記，直接混在JavaScript程式碼中來寫(並不是字串，而是直接使用)。JSX語法在React中是一種必學的語法。當HTML的標記與JavaScript互相混在一起時，為了要標明與執行JavaScript的程式碼，所以用了花括號({})把程式碼的部份括起來。所以this.props.text這一句是JavaScript的程式碼沒錯。"
+```<h1>{this.props.text}</h1>```
+  * 那麼這一段是什麼？看起來好像是HTML中的<h1>標記的寫法，但中間的又好像是JavaScript的程式碼。這種把HTML寫在JavaScript的程式碼中的技術，稱之為JSX語法，是React中很特別的一種語法，它可以讓你把HTML中的各種標記，直接混在JavaScript程式碼中來寫(並不是字串，而是直接使用)。JSX語法在React中是一種必學的語法。當HTML的標記與JavaScript互相混在一起時，為了要標明與執行JavaScript的程式碼，所以用了花括號({})把程式碼的部份括起來。所以this.props.text這一句是JavaScript的程式碼沒錯。
 * Javascript:
   * codepen https://codepen.io/
   * javacript tutorial https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
