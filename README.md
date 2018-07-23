@@ -6,7 +6,6 @@
 
 ## Weekly progress 2018/07/23~2018/07/29
 #### 1. Trace frontend
-* play with different tools to understand architecture
 * normal structure of Typescript+React:
   * myapp/
     * node_modules/
@@ -15,18 +14,18 @@
     * package.json: 包含了依赖,还有一些命令的快捷方式
     * tsconfig.json: TypeScript特定的选项
     * tslint.json: 代码检查器的设置
-* CARTA-frontend
+* Trace CARTA-frontend (Angus's code)
   * src/
     * [ ] index.tsx: entry
-    * App.tsx:
+    * [ ] App.tsx:
     * [X] registerServiceWorker.ts:
       * Create-React-App產生
       * service worker是在后台运行的一个线程，可以用来处理离线缓存、消息推送、后台自动更新等任务。registerServiceWorker就是为react项目注册了一个service worker，用来做资源的缓存，这样你下次访问时，就可以更快的获取资源。而且因为资源被缓存，所以即使在离线的情况下也可以访问应用（此时使用的资源是之前缓存的资源）。注意，registerServiceWorker注册的service worker 只在生产环境中生效（process.env.NODE_ENV === 'production'）
-    * components/
+    * [ ] components/
     * [X] models/: MVC的M
       * Point2D, CursorInfo
-    * services/
-    * stores/
+    * [ ] services/
+    * [ ] stores/
     
 #### 2. Typescript
 * 什麼是 Duck Typing 與 Strong Typing ?
