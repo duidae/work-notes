@@ -10,7 +10,7 @@
   * myapp/
     * node_modules/
     * public/: public	 包含了静态资源如HTML页面或图片。除了 	index.html	 文件外,其它的文件都可以删除。
-    * src/: 包含了TypeScript和CSS源码。 	index.tsx	 是强制使用的入口文件。
+    * src/: 包含了TypeScript和CSS源码。 	index.tsx是强制使用的入口文件。
     * package.json: 包含了依赖,还有一些命令的快捷方式
     * tsconfig.json: TypeScript特定的选项
     * tslint.json: 代码检查器的设置
@@ -18,13 +18,15 @@
   * Github repo https://github.com/Microsoft/TypeScript-React-Starter
 * Trace CARTA-frontend (Angus's code)
   * src/
-    * [X] index.tsx: entry
-    * [ ] App.tsx:
-    * [X] registerServiceWorker.ts:
+    * [X] index.tsx
+      * index.tsx是强制使用的入口文件。
+    * [ ] App.tsx
+    * [X] registerServiceWorker.ts
       * Create-React-App產生
       * service worker是在后台运行的一个线程，可以用来处理离线缓存、消息推送、后台自动更新等任务。registerServiceWorker就是为react项目注册了一个service worker，用来做资源的缓存，这样你下次访问时，就可以更快的获取资源。而且因为资源被缓存，所以即使在离线的情况下也可以访问应用（此时使用的资源是之前缓存的资源）。注意，registerServiceWorker注册的service worker 只在生产环境中生效（process.env.NODE_ENV === 'production'）
     * [ ] components/
-    * [X] models/: MVC的M
+    * [X] models/
+      * MVC的M
       * Point2D, CursorInfo
     * [ ] services/
     * [ ] stores/
