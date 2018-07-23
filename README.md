@@ -9,7 +9,6 @@
 * play with different tools to understand architecture
 * normal structure of Typescript+React:
   * myapp/
-    * .gitignore
     * node_modules/
     * public/: public	 包含了静态资源如HTML页面或图片。除了 	index.html	 文件外,其它的文件都可以删除。
     * src/: 包含了TypeScript和CSS源码。 	index.tsx	 是强制使用的入口文件。
