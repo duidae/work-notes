@@ -17,6 +17,16 @@
     * package.json: 包含了依赖,还有一些命令的快捷方式
     * tsconfig.json: TypeScript特定的选项
     * tslint.json: 代码检查器的设置
+    
+#### 2. Typescript
+* 什麼是 Duck Typing 與 Strong Typing ?
+  * Duck typing
+    * Duck Typing: 當看到一隻鳥走起來像鴨子、游泳起來像鴨子、叫起來也像鴨子，那麼這隻鳥就可以被稱為鴨子。
+    * 白話 : 物件只要有該型別相同的 property 與 method，就算是該 class 型別。
+    * TypeScript 採用的是 duck typing 策略
+  * Strong typing
+    * 由母鴨生產的鴨子，才算是鴨子。
+    * 白話 : 物件必須透過 class 的 new 建立，物件才算是該 class 型別。
 * Javascript:
   * codepen https://codepen.io/
   * javacript tutorial https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
