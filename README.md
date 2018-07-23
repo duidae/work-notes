@@ -19,7 +19,7 @@
   * src/
     * index.tsx: entry
     * components/
-    * models/: MVC的M [OK]
+    * [OK] models/: MVC的M
       * Point2D, CursorInfo
     * services/
     * stores/
