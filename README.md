@@ -15,6 +15,14 @@
     * package.json: 包含了依赖,还有一些命令的快捷方式
     * tsconfig.json: TypeScript特定的选项
     * tslint.json: 代码检查器的设置
+* CARTA-frontend
+  * src/
+    * index.tsx: entry
+    * components/
+    * models/: MVC的M [OK]
+      * Point2D, CursorInfo
+    * services/
+    * stores/
     
 #### 2. Typescript
 * 什麼是 Duck Typing 與 Strong Typing ?
