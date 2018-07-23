@@ -7,6 +7,16 @@
 ## Weekly progress 2018/07/23~2018/07/29
 #### 1. Trace frontend
 * play with different tools to understand architecture
+* structure:
+  * myapp/
+    * .gitignore
+    * node_modules/
+    * public/: public	 包含了静态资源如HTML页面或图片。除了 	index.html	 文件外,其它的文件都可以删除。
+    * src/: 包含了TypeScript和CSS源码。 	index.tsx	 是强制使用的入口文件。
+      * ...
+    * package.json: 包含了依赖,还有一些命令的快捷方式
+    * tsconfig.json: TypeScript特定的选项
+    * tslint.json: 代码检查器的设置
 * Javascript:
   * codepen https://codepen.io/
   * javacript tutorial https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
