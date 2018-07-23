@@ -20,6 +20,7 @@
 * Javascript:
   * codepen https://codepen.io/
   * javacript tutorial https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+  * 建置React開發環境 https://ithelp.ithome.com.tw/articles/10185954
 
 
 ## Weekly progress 2018/07/16~2018/07/22
