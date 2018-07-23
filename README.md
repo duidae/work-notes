@@ -38,6 +38,8 @@
     * 由母鴨生產的鴨子，才算是鴨子。
     * 白話 : 物件必須透過 class 的 new 建立，物件才算是該 class 型別。
 * TypeScript 因為要相容 JavaScript，且最後也是編譯成 JavaScript，所以 TypeScript 本質是 duck typing，卻在編譯階段檢查型別是否正確，算是融合 strong typing 與 duck typing。
+* .ts vs .tsx
+  * .tsx 有用 JSX https://blog.techbridge.cc/2016/04/21/react-jsx-introduction/
 * Javascript:
   * codepen https://codepen.io/
   * javacript tutorial https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
