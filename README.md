@@ -14,6 +14,8 @@
     * package.json: 包含了依赖,还有一些命令的快捷方式
     * tsconfig.json: TypeScript特定的选项
     * tslint.json: 代码检查器的设置
+* TypeScript React Starter from Microsoft
+  * Github repo https://github.com/Microsoft/TypeScript-React-Starter
 * Trace CARTA-frontend (Angus's code)
   * src/
     * [ ] index.tsx: entry
