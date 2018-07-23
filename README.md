@@ -18,7 +18,7 @@
   * Github repo https://github.com/Microsoft/TypeScript-React-Starter
 * Trace CARTA-frontend (Angus's code)
   * src/
-    * [ ] index.tsx: entry
+    * [X] index.tsx: entry
     * [ ] App.tsx:
     * [X] registerServiceWorker.ts:
       * Create-React-App產生
