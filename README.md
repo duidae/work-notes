@@ -47,7 +47,8 @@
     * https://jestjs.io/
 * Microsoft
   * Typescript
-    * TypeScript React Starter from Microsoft, Repo: https://github.com/Microsoft/TypeScript-React-Starter
+    * TypeScript React Starter from Microsoft
+    * Repo: https://github.com/Microsoft/TypeScript-React-Starter
 * Mobx
   * https://cn.mobx.js.org/
 * Redux
