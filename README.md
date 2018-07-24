@@ -47,6 +47,8 @@
   * Redux is an open-source JavaScript library for managing application state. It is most commonly used with libraries such as React or Angular for building user interfaces.
 * RxJS
   * https://blog.techbridge.cc/2017/12/08/rxjs/
+* Javascript @ W3C school
+  * https://www.w3schools.com/js/js_scope.asp
     
 #### 3. Typescript
 * 什麼是 Duck Typing 與 Strong Typing ?
