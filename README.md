@@ -79,6 +79,7 @@
 ```
   * 那麼這一段是什麼？看起來好像是HTML中的h1標記的寫法，但中間的又好像是JavaScript的程式碼。這種把HTML寫在JavaScript的程式碼中的技術，稱之為JSX語法，是React中很特別的一種語法，它可以讓你把HTML中的各種標記，直接混在JavaScript程式碼中來寫(並不是字串，而是直接使用)。JSX語法在React中是一種必學的語法。當HTML的標記與JavaScript互相混在一起時，為了要標明與執行JavaScript的程式碼，所以用了花括號({})把程式碼的部份括起來。所以this.props.text這一句是JavaScript的程式碼沒錯。
 * Javascript:
+  * Airbnb javascript style https://github.com/airbnb/javascript
   * codepen https://codepen.io/
   * javacript tutorial https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
   * 建置React開發環境 https://ithelp.ithome.com.tw/articles/10185954
