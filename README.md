@@ -129,8 +129,8 @@
   * cmake 太舊
     * http://jotmynotes.blogspot.com/2016/10/updating-cmake-from-2811-to-362-or.html
   * gcc版本太舊(其實應該是動態library libstdc++.so太舊)
-    * 升級gcc https://blog.csdn.net/zr1076311296/article/details/51334538
-    * link新的libstdc++.so https://blog.csdn.net/furzoom/article/details/53322510
+    * 升級gcc & link新的libstdc++.so https://blog.csdn.net/furzoom/article/details/53322510
+    * https://blog.csdn.net/zr1076311296/article/details/51334538 
 * web assembly related library
   * ast
     * A Library for Handling World Coordinate Systems in Astronomy
