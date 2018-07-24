@@ -16,12 +16,14 @@
     * tslint.json: 代码检查器的设置
 * Frameworks/tools
   * Typescript - 語言
-  * React - UI component Framework
+  * React - JS UI library
     * https://github.com/Microsoft/TypeScript-React-Starter
   * MobX - State management
     * https://mobx.js.org/getting-started.html
   * GoldenLayout - UI layout
     * http://golden-layout.com/tutorials/getting-started-react.html
+  * Blueprint - UI component
+    * http://blueprintjs.com/docs/
   * 從這些東西的Getting Started去了解最快
 * Trace CARTA-frontend (Angus's code)
   * Angus應該是用MS TypeScript React Starter建構frontend structure
