@@ -37,7 +37,7 @@
       * Dialogs
       * ImageView
       * Log: 左下角的Log
-      * Menu
+      * Menu: 最上面的menu - File, View, Layout, Help
       * Placeholder
       * SpatialProfiler
     * [X] models/
