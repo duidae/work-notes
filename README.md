@@ -19,7 +19,7 @@
   * React - UI component Framework
   * MobX - State management
   * GoldenLayout - UI layout
-  * 從這些東西的get started去了解最快
+  * 從這些東西的Getting Started去了解最快
 * Trace CARTA-frontend (Angus's code)
   * Angus應該是用MS TypeScript React Starter建構frontend structure
   * src/
