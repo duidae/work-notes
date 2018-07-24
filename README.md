@@ -26,6 +26,7 @@
     * http://blueprintjs.com/docs/
     * core - UI元件
     * icon - 圖
+    * 看document用比較快
   * 從這些東西的Getting Started去了解最快
 * Trace CARTA-frontend (Angus's code)
   * Angus應該是用MS TypeScript React Starter建構frontend structure
