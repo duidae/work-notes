@@ -36,7 +36,7 @@
       * Colormap
       * Dialogs
       * ImageView
-      * Log
+      * Log: 左下角的Log
       * Menu
       * Placeholder
       * SpatialProfiler
