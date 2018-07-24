@@ -43,8 +43,10 @@
 * Facebook
   * React
   * create-react-app
+    * https://github.com/facebook/create-react-app
   * Jest
     * https://jestjs.io/
+    * https://github.com/facebook/jest
 * Microsoft
   * Typescript
     * TypeScript React Starter from Microsoft
