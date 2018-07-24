@@ -14,6 +14,12 @@
     * package.json: 包含了依赖,还有一些命令的快捷方式
     * tsconfig.json: TypeScript特定的选项
     * tslint.json: 代码检查器的设置
+* Frameworks/tools
+  * Typescript - 語言
+  * React - UI component Framework
+  * MobX - State management
+  * GoldenLayout - UI layout
+  * 從這些東西的get started去了解最快
 * Trace CARTA-frontend (Angus's code)
   * Angus應該是用MS TypeScript React Starter建構frontend structure
   * src/
