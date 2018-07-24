@@ -24,6 +24,8 @@
     * http://golden-layout.com/tutorials/getting-started-react.html
   * Blueprint - UI component
     * http://blueprintjs.com/docs/
+    * core - UI元件
+    * icon - 圖
   * 從這些東西的Getting Started去了解最快
 * Trace CARTA-frontend (Angus's code)
   * Angus應該是用MS TypeScript React Starter建構frontend structure
