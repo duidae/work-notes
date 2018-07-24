@@ -40,18 +40,22 @@
     * [ ] stores/
 
 #### 2. Related techs
+* Facebook
+  * React
+  * create-react-app
+  * Jest
+    * https://jestjs.io/
+* Microsoft
+  * Typescript
+    * TypeScript React Starter from Microsoft, Repo: https://github.com/Microsoft/TypeScript-React-Starter
 * Mobx
   * https://cn.mobx.js.org/
-* TypeScript React Starter from Microsoft
-  * Github repo https://github.com/Microsoft/TypeScript-React-Starter
 * Redux
   * Redux is an open-source JavaScript library for managing application state. It is most commonly used with libraries such as React or Angular for building user interfaces.
 * RxJS
   * https://blog.techbridge.cc/2017/12/08/rxjs/
 * Javascript @ W3C school
   * https://www.w3schools.com/js
-* Jest
-  * https://jestjs.io/
     
 #### 3. Typescript
 * 什麼是 Duck Typing 與 Strong Typing ?
