@@ -130,6 +130,7 @@
 * build problems in CentOS(solved):
   * emcc需要python2.7.12以上的版本, centOS只有2.7.5, 需update python
     * https://www.jianshu.com/p/5420c4299b40
+    * https://www.jianshu.com/p/1babc657914c
     * https://blog.fazero.me/2016/10/13/centos-update-python/
   * jre
     * https://www.digitalocean.com/community/tutorials/how-to-install-java-on-centos-and-fedora
