@@ -15,7 +15,7 @@
     * tsconfig.json: TypeScript特定的选项
     * tslint.json: 代码检查器的设置
 * Trace CARTA-frontend (Angus's code)
-  * Angus應該是用MS TypeScript React Starter建構fronte
+  * Angus應該是用MS TypeScript React Starter建構frontend structure
   * src/
     * [X] index.tsx
       * index.tsx是强制使用的入口文件。
