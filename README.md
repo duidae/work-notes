@@ -17,8 +17,11 @@
 * Frameworks/tools
   * Typescript - 語言
   * React - UI component Framework
+    * https://github.com/Microsoft/TypeScript-React-Starter
   * MobX - State management
+    * https://mobx.js.org/getting-started.html
   * GoldenLayout - UI layout
+    * http://golden-layout.com/tutorials/getting-started-react.html
   * 從這些東西的Getting Started去了解最快
 * Trace CARTA-frontend (Angus's code)
   * Angus應該是用MS TypeScript React Starter建構frontend structure
@@ -56,11 +59,8 @@
     * https://github.com/facebook/jest
 * Microsoft
   * Typescript
-    * TypeScript React Starter from Microsoft
-    * Repo: https://github.com/Microsoft/TypeScript-React-Starter
 * Mobx
   * https://cn.mobx.js.org/
-  * [ ] https://mobx.js.org/getting-started.html
 * Redux
   * Redux is an open-source JavaScript library for managing application state. It is most commonly used with libraries such as React or Angular for building user interfaces.
 * RxJS
