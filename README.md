@@ -122,6 +122,7 @@
 
 #### 4. React & Mobx
 * react 关注的状态(state)到视图(view)的问题。而 mobx 关注的是状态仓库（store）到的状态(state)的问题。
+* [ ] https://www.youtube.com/watch?v=_q50BXqkAfI
 
 #### 5. cooridnate
 * Right ascension 赤經
