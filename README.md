@@ -59,6 +59,7 @@
 #### 2. Related techs
 * Facebook
   * React
+    * [React note](http://sweeteason.pixnet.net/blog/post/42849617-react-%E5%88%9D%E5%AD%B8%E8%80%85%E7%AD%86%E8%A8%98%E8%88%87%E6%95%99%E5%AD%B8-%28%E4%BA%8C%29---virtual-dom%E3%80%81%E5%85%83%E4%BB%B6)
   * create-react-app
     * https://github.com/facebook/create-react-app
   * Jest
