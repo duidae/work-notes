@@ -65,6 +65,8 @@
     * https://github.com/facebook/jest
 * Microsoft
   * Typescript
+  * Typescript + React starter
+    * https://github.com/Microsoft/TypeScript-React-Starter
 * Mobx
   * https://cn.mobx.js.org/
 * Redux
