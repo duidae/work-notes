@@ -29,7 +29,8 @@
     * 看document用比較快
   * 從這些東西的Getting Started去了解最快
 * Trace CARTA-frontend (Angus's code)
-  * Angus應該是用MS TypeScript React Starter建構frontend structure
+  * Angus應該是用MS TypeScript React Starter建構frontend structure, 檔案結構一樣
+  ![Typescript+React](images/file-structure.png)
   * src/
     * [X] index.tsx
       * index.tsx是强制使用的入口文件。
