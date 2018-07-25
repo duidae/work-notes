@@ -107,7 +107,10 @@
 * visible?: boolean;
   * 問號表示visible這個變數是optional
 
-#### 4. cooridnate
+#### 4. React & Mobx
+* react 关注的状态(state)到视图(view)的问题。而 mobx 关注的是状态仓库（store）到的状态(state)的问题。
+
+#### 5. cooridnate
 * Right ascension 赤經
 * Declination 赤緯
 
