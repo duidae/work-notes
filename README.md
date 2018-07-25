@@ -115,6 +115,8 @@
     * codesandbox https://codesandbox.io/s/new
 * Arrow function
   * https://eyesofkids.gitbooks.io/javascript-start-from-es6/content/part4/arrow_function.html
+* functional programming
+  * https://ithelp.ithome.com.tw/articles/10186465
 
 #### 4. React & Mobx
 * react 关注的状态(state)到视图(view)的问题。而 mobx 关注的是状态仓库（store）到的状态(state)的问题。
