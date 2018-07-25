@@ -104,6 +104,8 @@
   * online tools
     * codepen https://codepen.io/
     * codesandbox https://codesandbox.io/s/new
+* visible?: boolean;
+  * 問號表示visible這個變數是optional
 
 #### 4. cooridnate
 * Right ascension 赤經
