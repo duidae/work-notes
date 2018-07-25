@@ -6,14 +6,6 @@
 
 ## Weekly progress 2018/07/23~2018/07/29
 #### 1. Trace frontend
-* normal structure of Typescript+React:
-  * myapp/
-    * node_modules/
-    * public/: public	 包含了静态资源如HTML页面或图片。除了 	index.html	 文件外,其它的文件都可以删除。
-    * src/: 包含了TypeScript和CSS源码。 	index.tsx是强制使用的入口文件。
-    * package.json: 包含了依赖,还有一些命令的快捷方式
-    * tsconfig.json: TypeScript特定的选项
-    * tslint.json: 代码检查器的设置
 * Frameworks/tools
   * Typescript - 語言
   * React - JS UI library
@@ -29,6 +21,14 @@
     * icon - 圖
     * 看document用比較快
   * 從這些東西的Getting Started去了解最快
+* normal structure of Typescript+React:
+  * myapp/
+    * node_modules/
+    * public/: public	 包含了静态资源如HTML页面或图片。除了 	index.html	 文件外,其它的文件都可以删除。
+    * src/: 包含了TypeScript和CSS源码。 	index.tsx是强制使用的入口文件。
+    * package.json: 包含了依赖,还有一些命令的快捷方式
+    * tsconfig.json: TypeScript特定的选项
+    * tslint.json: 代码检查器的设置
 * Trace CARTA-frontend (Angus's code)
   * Angus應該是用[MS TypeScript React Starter](https://github.com/Microsoft/TypeScript-React-Starter)建構frontend structure, 檔案結構一樣
   ![Typescript+React](images/file-structure.png)
