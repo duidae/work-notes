@@ -69,6 +69,8 @@
   * Typescript
   * Typescript + React starter
     * https://github.com/Microsoft/TypeScript-React-Starter
+* Google
+  * Angular
 * Mobx
   * https://cn.mobx.js.org/
 * Redux
