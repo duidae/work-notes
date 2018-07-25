@@ -16,8 +16,8 @@
     * tslint.json: 代码检查器的设置
 * Frameworks/tools
   * Typescript - 語言
-    * https://github.com/Microsoft/TypeScript-React-Starter
   * React - JS UI library
+  * Typescript + React
     * https://github.com/Microsoft/TypeScript-React-Starter
   * MobX - State management
     * https://mobx.js.org/getting-started.html
