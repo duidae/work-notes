@@ -75,6 +75,8 @@
   * Redux is an open-source JavaScript library for managing application state. It is most commonly used with libraries such as React or Angular for building user interfaces.
 * RxJS
   * https://blog.techbridge.cc/2017/12/08/rxjs/
+* Babel
+  * Babel 就是用來轉譯將 JSX 變成 JS 的
 * Javascript @ W3C school
   * https://www.w3schools.com/js
     
