@@ -54,6 +54,7 @@
       * BackendService
       * DecompressionService
     * [ ] stores/
+      * Mobx handle
       * SSOT(Single Source of Truth)：資料統一存放於 Store，View 要資料都需跟 Store 拿。
 
 #### 2. Related techs
