@@ -80,8 +80,6 @@
   * https://blog.techbridge.cc/2017/12/08/rxjs/
 * Babel
   * Babel 就是用來轉譯將 JSX 變成 JS 的
-* Javascript @ W3C school
-  * https://www.w3schools.com/js
     
 #### 3. Typescript
 * 什麼是 Duck Typing 與 Strong Typing ?
@@ -117,6 +115,10 @@
   * https://eyesofkids.gitbooks.io/javascript-start-from-es6/content/part4/arrow_function.html
 * functional programming
   * https://ithelp.ithome.com.tw/articles/10186465
+* ES6
+  * https://medium.com/@peterchang_82818/es6-10-features-javascript-developer-must-know-98b9782bef44
+* Javascript @ W3C school
+  * https://www.w3schools.com/js
 
 #### 4. React & Mobx
 * react 关注的状态(state)到视图(view)的问题。而 mobx 关注的是状态仓库（store）到的状态(state)的问题。
