@@ -56,6 +56,9 @@
     * [ ] stores/
       * SSOT(Single Source of Truth)：資料統一存放於 Store，View 要資料都需跟 Store 拿。
       * Mobx handle
+  * src下用到mobx, rxjs的地方
+    * mobx: app, components, services, stores
+    * rxjs: services
 
 #### 2. Related techs
 * Facebook
