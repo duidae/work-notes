@@ -63,6 +63,7 @@
     * 為何不把models/合併到stores/?
     * store的功用, 怎麼用?
     * 有mobx為何還要用rxjs?
+    * protobuf, wasm怎麼接起來的?
 
 #### 2. Related techs
 * Facebook
