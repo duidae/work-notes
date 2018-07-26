@@ -80,6 +80,8 @@
   * https://blog.techbridge.cc/2017/12/08/rxjs/
 * Babel
   * Babel 就是用來轉譯將 JSX 變成 JS 的
+  * Functional Reactive Programming(FRP)
+    * http://xareelee.github.io/tech_note/2016/05/15/why-you-should-learn-FRP.html
     
 #### 3. Typescript
 * 什麼是 Duck Typing 與 Strong Typing ?
