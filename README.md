@@ -80,15 +80,18 @@
   * https://blog.techbridge.cc/2017/12/08/rxjs/
 * Babel
   * Babel 就是用來轉譯將 JSX 變成 JS 的
-  * Functional Reactive Programming(FRP)
-    * Reactive Programming，它一般常看到的定義是：讓資料流變化可以自動傳播的程式設計典範
-    * FRP使用Functional Programming典範，來實現Reactive Programming
-    * https://www.ithome.com.tw/voice/91328
-    * http://xareelee.github.io/tech_note/2016/05/15/why-you-should-learn-FRP.html
-    * https://medium.com/@rayshih771012/functional-reactive-programming-70be6bd8726b
-    * http://wiki.jikexueyuan.com/project/android-weekly/issue-145/introduction-to-RP.html
+
+#### 3. Reactive programming
+* 要有Reactive programming的觀念才看得懂React, RxJs, Mobx在幹嘛...
+* Functional Reactive Programming(FRP)
+  * Reactive Programming，它一般常看到的定義是：讓資料流變化可以自動傳播的程式設計典範
+  * FRP使用Functional Programming典範，來實現Reactive Programming
+  * https://www.ithome.com.tw/voice/91328
+  * http://xareelee.github.io/tech_note/2016/05/15/why-you-should-learn-FRP.html
+  * https://medium.com/@rayshih771012/functional-reactive-programming-70be6bd8726b
+  * http://wiki.jikexueyuan.com/project/android-weekly/issue-145/introduction-to-RP.html
     
-#### 3. Typescript
+#### 4. Typescript
 * 什麼是 Duck Typing 與 Strong Typing ?
   * Duck typing
     * Duck Typing: 當看到一隻鳥走起來像鴨子、游泳起來像鴨子、叫起來也像鴨子，那麼這隻鳥就可以被稱為鴨子。
@@ -110,7 +113,7 @@
 * Arrow function
   * http://oomusou.io/typescript/arrow-function/
 
-#### 4. Javascript
+#### 5. Javascript
 * Javascript:
   * [ ] Airbnb javascript style https://github.com/airbnb/javascript
   * javacript tutorial https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
@@ -129,11 +132,11 @@
 * MDN
   * https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Functions/Arrow_functions
 
-#### 4. React & Mobx
+#### 6. React & Mobx
 * react 关注的状态(state)到视图(view)的问题。而 mobx 关注的是状态仓库（store）到的状态(state)的问题。
 * [ ] https://www.youtube.com/watch?v=_q50BXqkAfI
 
-#### 5. cooridnate
+#### 7. cooridnate
 * Right ascension 赤經
 * Declination 赤緯
 
