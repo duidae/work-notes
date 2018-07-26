@@ -81,6 +81,8 @@
 * Babel
   * Babel 就是用來轉譯將 JSX 變成 JS 的
   * Functional Reactive Programming(FRP)
+    * Reactive Programming，它一般常看到的定義是：讓資料流變化可以自動傳播的程式設計典範
+    * FRP使用Functional Programming典範，來實現Reactive Programming
     * https://www.ithome.com.tw/voice/91328
     * http://xareelee.github.io/tech_note/2016/05/15/why-you-should-learn-FRP.html
     * https://medium.com/@rayshih771012/functional-reactive-programming-70be6bd8726b
