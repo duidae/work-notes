@@ -90,6 +90,8 @@
   * https://blog.techbridge.cc/2017/12/08/rxjs/
 * Babel
   * Babel 就是用來轉譯將 JSX 變成 JS 的
+* Redux or Mobx
+  * http://imweb.io/topic/59f4833db72024f03c7f49b4
 
 #### 3. Reactive programming
 * 要有Reactive programming的觀念才看得懂React, RxJs, Mobx在幹嘛...
