@@ -59,6 +59,10 @@
   * src下用到mobx, rxjs的地方
     * mobx: app, components, services, stores
     * rxjs: services
+  * my question
+    * 為何不把models/合併到stores/?
+    * store的功用, 怎麼用?
+    * 有mobx為何還要用rxjs?
 
 #### 2. Related techs
 * Facebook
