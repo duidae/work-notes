@@ -156,7 +156,8 @@
 * Store 和 State 的差別: Store 和 State 其實功能是一樣的，都是用來控制 component 的 UI 狀態。兩者的主要差別，主要體現在 single source of truth，前者是統一資料源的，由一個 store 控制全部的 UI 狀態，而後者是各自 component 保存各自的 state。
 
 #### 7. Design pattern
-* Observer Pattern 觀察者模式 
+* Observer Pattern 觀察者模式
+  * 定義物件之間一種一對多的依賴關係，當一個物件狀態發生改變時，所有依賴於他的物件都將自動地得到通知且被更新。
   * https://notfalse.net/10/observer-pattern
 
 #### 8. cooridnate
