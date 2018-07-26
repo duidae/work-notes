@@ -97,6 +97,8 @@
   * https://medium.freecodecamp.org/functional-reactive-programming-frp-imperative-vs-declarative-vs-reactive-style-84878272c77f
     
 #### 4. Typescript
+* Typescript doc
+  * https://www.typescriptlang.org/docs/home.html
 * 什麼是 Duck Typing 與 Strong Typing ?
   * Duck typing
     * Duck Typing: 當看到一隻鳥走起來像鴨子、游泳起來像鴨子、叫起來也像鴨子，那麼這隻鳥就可以被稱為鴨子。
