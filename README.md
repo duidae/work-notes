@@ -86,6 +86,7 @@
 * Functional Reactive Programming(FRP)
   * Reactive Programming，它一般常看到的定義是：讓資料流變化可以自動傳播的程式設計典範
   * FRP使用Functional Programming典範，來實現Reactive Programming
+  * https://ithelp.ithome.com.tw/articles/10186104
   * https://www.ithome.com.tw/voice/91328
   * http://xareelee.github.io/tech_note/2016/05/15/why-you-should-learn-FRP.html
   * https://medium.com/@rayshih771012/functional-reactive-programming-70be6bd8726b
