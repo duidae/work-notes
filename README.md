@@ -83,6 +83,8 @@
 
 #### 3. Reactive programming
 * 要有Reactive programming的觀念才看得懂React, RxJs, Mobx在幹嘛...
+* Functional Programming，那就是 用 function 來思考我們的問題，以及撰寫程式
+* Reactive Programming 簡單來說就是 當變數或資源發生變動時，由變數或資源自動告訴我發生變動了
 * Functional Reactive Programming(FRP)
   * Reactive Programming，它一般常看到的定義是：讓資料流變化可以自動傳播的程式設計典範
   * FRP使用Functional Programming典範，來實現Reactive Programming
