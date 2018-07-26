@@ -90,6 +90,8 @@
   * http://xareelee.github.io/tech_note/2016/05/15/why-you-should-learn-FRP.html
   * https://medium.com/@rayshih771012/functional-reactive-programming-70be6bd8726b
   * http://wiki.jikexueyuan.com/project/android-weekly/issue-145/introduction-to-RP.html
+* Imperative programming, Functional programming, Reactive programming
+  * https://medium.freecodecamp.org/functional-reactive-programming-frp-imperative-vs-declarative-vs-reactive-style-84878272c77f
     
 #### 4. Typescript
 * 什麼是 Duck Typing 與 Strong Typing ?
