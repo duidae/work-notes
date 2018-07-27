@@ -110,6 +110,8 @@
   * http://wiki.jikexueyuan.com/project/android-weekly/issue-145/introduction-to-RP.html
 * Imperative programming, Functional programming, Reactive programming
   * https://medium.freecodecamp.org/functional-reactive-programming-frp-imperative-vs-declarative-vs-reactive-style-84878272c77f
+* Pure function
+  * https://medium.com/frochu/%E7%B4%94%E7%B2%B9%E7%9A%84%E5%A5%BD-pure-function-%E7%9F%A5%E9%81%93-574d5c0d7819
     
 #### 4. Typescript
 * Typescript doc
