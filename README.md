@@ -163,6 +163,8 @@
 * Observer Pattern 觀察者模式
   * 定義物件之間一種一對多的依賴關係，當一個物件狀態發生改變時，所有依賴於他的物件都將自動地得到通知且被更新。
   * https://notfalse.net/10/observer-pattern
+* 如何用Typescript實現 Observer Pattern?
+  * http://oomusou.io/design-pattern/observer/
 
 #### 8. cooridnate
 * Right ascension 赤經
