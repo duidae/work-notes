@@ -165,8 +165,9 @@
 
 #### 6. React & Mobx
 * react 关注的状态(state)到视图(view)的问题。而 mobx 关注的是状态仓库（store）到的状态(state)的问题。
-* [ ] https://www.youtube.com/watch?v=_q50BXqkAfI
 * Store 和 State 的差別: Store 和 State 其實功能是一樣的，都是用來控制 component 的 UI 狀態。兩者的主要差別，主要體現在 single source of truth，前者是統一資料源的，由一個 store 控制全部的 UI 狀態，而後者是各自 component 保存各自的 state。
+* https://codertw.com/ios/19947/
+[ ] https://www.youtube.com/watch?v=_q50BXqkAfI
 
 #### 7. Design pattern
 * Observer Pattern 觀察者模式
