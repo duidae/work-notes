@@ -161,6 +161,7 @@
   * 代碼特點：1、函數b嵌套在函數a內部；2、函數a返回函數b。
   * 代碼中函數a的內部函數b，被函數a外面的一個變量c引用的時候，這就叫創建了一個閉包
   * http://easonlin.logdown.com/posts/70026-clouses-in-javascript
+  * https://www.jianshu.com/p/c3ea0be9ee96
 
 #### 6. React & Mobx
 * react 关注的状态(state)到视图(view)的问题。而 mobx 关注的是状态仓库（store）到的状态(state)的问题。
