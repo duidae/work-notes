@@ -65,6 +65,9 @@
     * rxjs: services
   * my question
     * 為何不把models/合併到stores/?
+      * MVVM? Model, View, Model-View
+        * models/ -> M
+        * stores/ -> VM
     * store的功用, 怎麼用?
     * 有mobx為何還要用rxjs?
     * protobuf, wasm怎麼接起來的?
