@@ -156,6 +156,7 @@
   * https://www.w3schools.com/js
 * MDN
   * https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+* https://eyesofkids.gitbooks.io/javascript-start-from-es6/content/
 
 #### 6. React & Mobx
 * react 关注的状态(state)到视图(view)的问题。而 mobx 关注的是状态仓库（store）到的状态(state)的问题。
