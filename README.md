@@ -8,7 +8,7 @@
 
 ## Weekly progress 2018/07/23~2018/07/29
 #### 1. Trace frontend
-* Frameworks/tools
+* Study frameworks/tools
   * Typescript - 語言
   * React - JS UI library
   * Typescript + React
@@ -23,7 +23,7 @@
     * icon - 圖
     * 看document用比較快
   * 從這些東西的Getting Started去了解最快
-* normal structure of Typescript+React:
+* Understand normal structure of Typescript+React:
   * myapp/
     * node_modules/
     * public/: public	 包含了静态资源如HTML页面或图片。除了 	index.html	 文件外,其它的文件都可以删除。
@@ -72,8 +72,8 @@
     * 有mobx為何還要用rxjs?
     * protobuf, wasm怎麼接起來的?
 
-#### 2. Related techs
-* Facebook
+#### 2. Study Related techs
+* Facebook - React, create-react-app, Jest
   * React
     * [React note](http://sweeteason.pixnet.net/blog/post/42849617-react-%E5%88%9D%E5%AD%B8%E8%80%85%E7%AD%86%E8%A8%98%E8%88%87%E6%95%99%E5%AD%B8-%28%E4%BA%8C%29---virtual-dom%E3%80%81%E5%85%83%E4%BB%B6)
   * create-react-app
@@ -81,12 +81,10 @@
   * Jest
     * https://jestjs.io/
     * https://github.com/facebook/jest
-* Microsoft
-  * Typescript
+* Microsoft - Typescript
   * Typescript + React starter
     * https://github.com/Microsoft/TypeScript-React-Starter
-* Google
-  * Angular
+* Google - Angular
 * Mobx
   * https://cn.mobx.js.org/
 * Redux
@@ -99,7 +97,7 @@
 * Redux or Mobx
   * http://imweb.io/topic/59f4833db72024f03c7f49b4
 
-#### 3. Reactive programming
+#### 3. Study Reactive programming
 * 要有Reactive programming的觀念才看得懂React, RxJs, Mobx在幹嘛...
 * Functional Programming，那就是 用 function 來思考我們的問題，以及撰寫程式
 * Reactive Programming 簡單來說就是 當變數或資源發生變動時，由變數或資源自動告訴我發生變動了
@@ -116,7 +114,7 @@
 * Pure function
   * https://medium.com/frochu/%E7%B4%94%E7%B2%B9%E7%9A%84%E5%A5%BD-pure-function-%E7%9F%A5%E9%81%93-574d5c0d7819
     
-#### 4. Typescript
+#### 4. Learn Typescript
 * Typescript doc
   * 英文 https://www.typescriptlang.org/docs/home.html
   * 中文 https://www.tslang.cn/docs/home.html
@@ -141,7 +139,7 @@
 * Arrow function
   * http://oomusou.io/typescript/arrow-function/
 
-#### 5. Javascript
+#### 5. Javascript related
 * Javascript:
   * [ ] Airbnb javascript style https://github.com/airbnb/javascript
   * javacript tutorial https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
