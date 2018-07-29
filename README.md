@@ -6,6 +6,9 @@
 * [Slack](https://cartaviewer.slack.com/messages/C2S1R8V9P/)
 * [Trello](https://trello.com/b/fViU1U7v/carta-working-group)
 
+## Weekly progress 2018/07/30~2018/08/05
+#### 1. Trace frontend
+
 ## Weekly progress 2018/07/23~2018/07/29
 #### 1. Trace frontend
 * Study frameworks/tools
