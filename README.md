@@ -9,7 +9,7 @@
 ## Weekly progress 2018/07/30~2018/08/05
 #### 1. Trace frontend
 
-## Weekly progress 2018/07/23~2018/07/29+2018/07/30~2018/08/05
+## Weekly progress 2018/07/23~2018/07/29
 #### 1. Trace frontend
 * Study frameworks/tools
   * Typescript - 語言
