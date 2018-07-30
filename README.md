@@ -9,7 +9,7 @@
 ## Weekly progress 2018/07/30~2018/08/05
 #### 1. Trace frontend
 
-## Weekly progress 2018/07/23~2018/07/29
+## Weekly progress 2018/07/23~2018/07/29 + 2018/07/30~2018/08/05
 #### 1. Trace frontend
 * Study frameworks/tools
   * Typescript - 語言
@@ -66,6 +66,7 @@
   * src下用到mobx, rxjs的地方
     * mobx: app, components, services, stores
     * rxjs: services
+  * {CARTA} 在 node_modules/carta-protobuf/ 下面
   * my question
     * 為何不把models/合併到stores/?
       * MVVM? Model, View, Model-View
