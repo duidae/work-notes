@@ -103,6 +103,7 @@
 
 #### 3. Study Reactive programming
 * 要有Reactive programming的觀念才看得懂React, RxJs, Mobx在幹嘛...
+* http://blog.maxkit.com.tw/2015/08/reactive-programming.html
 * Functional Programming，那就是 用 function 來思考我們的問題，以及撰寫程式
 * Reactive Programming 簡單來說就是 當變數或資源發生變動時，由變數或資源自動告訴我發生變動了
 * Functional Reactive Programming(FRP)
