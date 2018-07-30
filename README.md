@@ -75,6 +75,7 @@
     * store的功用, 怎麼用?
     * 有mobx為何還要用rxjs?
     * protobuf, wasm怎麼接起來的?
+      * {CARTA} 在 node_modules/carta-protobuf/ 下面
 
 #### 2. Study Related techs
 * Facebook - React, create-react-app, Jest
