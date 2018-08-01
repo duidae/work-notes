@@ -78,6 +78,7 @@
     * 有mobx為何還要用rxjs?
     * protobuf, wasm怎麼接起來的?
       * {CARTA} 在 node_modules/carta-protobuf/ 下面
+    * 為何每個指令都有一個對應的function去處理, 而不是統一處理？？
 
 #### 2. Study Related techs
 * Facebook - React, create-react-app, Jest
