@@ -7,7 +7,9 @@
 * [Trello](https://trello.com/b/fViU1U7v/carta-working-group)
 
 ## Weekly progress 2018/07/30~2018/08/05
-#### 1. Trace frontend
+#### 1. Create my own component under current frontend architecture
+* MytestComponent, MytestStore in branch "feat-mycomponent"
+* [Work with Forms in React](https://medium.com/capital-one-developers/how-to-work-with-forms-inputs-and-events-in-react-c337171b923b)
 
 ## Weekly progress 2018/07/23~2018/07/29
 #### 1. Trace frontend
