@@ -162,6 +162,7 @@
   * 問號表示visible這個變數是optional
 * Arrow function
   * http://oomusou.io/typescript/arrow-function/
+* In TypeScript, each member is public by default.
 
 #### 5. Javascript related
 * Javascript:
