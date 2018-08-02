@@ -18,6 +18,9 @@
 * working on mytestcomponent as below:
 ![mytestcomponent](images/Mytestcomponent.png)
 
+#### 2. Reinstall MAC
+* ok
+
 ## Weekly progress 2018/07/23~2018/07/29
 #### 1. Trace frontend
 * Study frameworks/tools
