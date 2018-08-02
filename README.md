@@ -20,6 +20,10 @@
 
 #### 2. Reinstall MAC
 * ok
+  * [Solved] could not create a preboot volume for apfs install problem
+    * 網路要好(用網路線)
+    * erase Macintosh HD -> reinstall failed
+    * command+option+R for internet recovery
 
 ## Weekly progress 2018/07/23~2018/07/29
 #### 1. Trace frontend
