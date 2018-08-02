@@ -553,6 +553,7 @@ make: *** [sub-cpp-make_first] Error 2
 
 ## [TODO]
 * license study
+  * https://github.com/facebook/react/issues/7293
 
 ## Questions
 * why not open source CASA directly?
