@@ -57,14 +57,13 @@
     * [X] models/
       * MVC的M
       * Point2D, CursorInfo
-    * [ ] services/
+    * [X] services/
       * BackendService
       * DecompressionService
         * use zfp_wrapper
-    * [ ] stores/
+    * [X] stores/
       * SSOT(Single Source of Truth)：資料統一存放於 Store，View 要資料都需跟 Store 拿。
       * store是儲存應用程式邏輯和狀態資料的地方
-      * Mobx handle
   * src下用到mobx, rxjs的地方
     * mobx: app, components, services, stores
     * rxjs: services
