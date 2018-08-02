@@ -93,6 +93,7 @@
       * {CARTA} 在 node_modules/carta-protobuf/ 下面
     * 為何每個指令都有一個對應的function去處理, 而不是統一處理？？
       * 目前指令用protobuf產生的邏輯是寫在BackendService.ts裡, 這是不是可以再封裝起來在一個function or class, ex: sendMessage()?
+      * 這樣寫是為了用＠action向Mobx註冊對應的動作
 
 #### 2. Study Related techs
 * Facebook - React, create-react-app, Jest
