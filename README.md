@@ -10,6 +10,7 @@
 #### 1. Create my own component under current frontend architecture
 * MytestComponent, MytestStore in branch "feat-mycomponent"
 * [Work with Forms in React](https://medium.com/capital-one-developers/how-to-work-with-forms-inputs-and-events-in-react-c337171b923b)
+* mobx-react form demo: https://foxhound87.github.io/mobx-react-form-demo/demo.html
 * working on mytestcomponent as below:
 ![mytestcomponent](images/Mytestcomponent.png)
 
