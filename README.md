@@ -6,6 +6,10 @@
 * [Slack](https://cartaviewer.slack.com/messages/C2S1R8V9P/)
 * [Trello](https://trello.com/b/fViU1U7v/carta-working-group)
 
+## Weekly progress 2018/08/06~2018/08/12
+#### 1. Create fake command sender
+#### 2. Play TogetherJS
+
 ## Weekly progress 2018/07/30~2018/08/05
 #### 1. Create my own component under current frontend architecture
 * MytestComponent, MytestStore in branch "feat-mycomponent"
