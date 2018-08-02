@@ -557,6 +557,7 @@ make: *** [sub-cpp-make_first] Error 2
 ## [TODO]
 * license study
   * https://github.com/facebook/react/issues/7293
+  * https://medium.com/@ji/the-react-license-for-founders-and-ctos-b38d2538f3e5
 
 ## Questions
 * why not open source CASA directly?
