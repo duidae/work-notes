@@ -14,6 +14,7 @@
   * mobx-react form demo: https://foxhound87.github.io/mobx-react-form-demo/demo.html
   * mobx-react todo MVC https://github.com/mobxjs/mobx-react-todomvc
   * mobx-react-typescript https://github.com/mobxjs/mobx-react-typescript-boilerplate
+  * mobx dev tool https://github.com/mobxjs/mobx-react-devtools
 * working on mytestcomponent as below:
 ![mytestcomponent](images/Mytestcomponent.png)
 
