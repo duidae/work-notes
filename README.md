@@ -20,7 +20,7 @@
 
 #### 2. Reinstall MAC
 * ok
-  * [Solved] could not create a preboot volume for apfs install problem
+  * [Solved] "could not create a preboot volume for apfs install" problem
     * 網路要好(用網路線)
     * erase Macintosh HD -> reinstall failed
     * command+option+R for internet recovery
