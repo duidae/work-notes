@@ -11,7 +11,7 @@
 * MytestComponent, MytestStore in branch "feat-mycomponent"
 * [Work with Forms in React](https://medium.com/capital-one-developers/how-to-work-with-forms-inputs-and-events-in-react-c337171b923b)
 * working on mytestcomponent as below:
-![mytestcomponent](images/mytestcomponent.jpg)
+![mytestcomponent](images/mytestcomponent.png)
 
 ## Weekly progress 2018/07/23~2018/07/29
 #### 1. Trace frontend
