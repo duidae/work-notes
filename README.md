@@ -29,7 +29,7 @@
     * erase Macintosh HD -> reinstall failed
     * command+option+R for internet recovery
     
-#### 3. build backend
+#### 3. build backend...finally...
 * build CASA
   * 用 CARTAvis/carta/scipts/buildaCASA.sh build
   * wcslib <- buildCASA.sh的error缺這個
