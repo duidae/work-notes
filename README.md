@@ -30,7 +30,7 @@
     * command+option+R for internet recovery
     
 #### 3. build casa
-* wcslib
+* wcslib <- buildCASA.sh的error缺這個
   * $ sudo yum install -y wcslib-devel
 * lapack library
   * $ sudo yum install -y lapack-devel
