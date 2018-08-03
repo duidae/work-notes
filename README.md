@@ -44,6 +44,8 @@
   * -lGL cannot find libGL.so
     * $ cd /urs/lib64
     * $ sudo ln -s libGL.so.1 libGL.so
+  * gl/gl.h no such file or directory
+    * $ sudo yum install -y mesa-libGL-devel mesa-libGLU-devel // 找不到GL/gl.h问题是少装了gl库
 
 ## Weekly progress 2018/07/23~2018/07/29
 #### 1. Trace frontend
