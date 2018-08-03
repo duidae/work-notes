@@ -30,6 +30,8 @@
     * command+option+R for internet recovery
     
 #### 3. build casa
+* wcslib
+  * $ sudo yum install -y wcslib-devel
 * lapack library
   * $ sudo yum install -y lapack-devel
 * boost library
