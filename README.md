@@ -46,6 +46,26 @@
     * $ sudo ln -s libGL.so.1 libGL.so
   * gl/gl.h no such file or directory
     * $ sudo yum install -y mesa-libGL-devel mesa-libGLU-devel // 找不到GL/gl.h问题是少装了gl库
+  * [HARD] Undefined reference to google::protobuf::internal::empty_string_[abi:cxx11]
+    * 原因: C++ ABI issue. The ABI for std::string has changed in GCC 5 comparing to GCC 4
+      * https://gcc.gnu.org/gcc-5/changes.html#libstdcxx
+    * compile .o檔時加上 -D_GLIBCXX_USE_CXX11_ABI=0 這個flag
+```
+NewServerConnector.o: 於函式 NewServerConnector::onTextMessage(QString):
+/home/duidae/projects/CARTA/CARTA-backend/CARTA-backend-CARTAvis/CARTAvis/carta/cpp/desktop/NewServerConnector.cpp:282: 未定義參考到 google::protobuf::MessageLite::SerializeToString(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >*) const
+NewServerConnector.o: 於函式 google::protobuf::internal::GetEmptyStringAlreadyInited[abi:cxx11]():
+/home/duidae/projects/CARTA/CARTA-backend/CARTA-backend-CARTAvis/CARTAvis/ThirdParty/protobuf/include/google/protobuf/message_lite.h:137: 未定義參考到 google::protobuf::internal::fixed_address_empty_string[abi:cxx11]
+/home/duidae/projects/CARTA/CARTA-backend/CARTA-backend-CARTAvis/CARTAvis/build/cpp/desktop/../CartaLib//libCartaLib.so: 未定義的參考到 google::protobuf::internal::WireFormatLite::WriteBytes(int, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, google::protobuf::io::CodedOutputStream*)
+/home/duidae/projects/CARTA/CARTA-backend/CARTA-backend-CARTAvis/CARTAvis/build/cpp/desktop/../CartaLib//libCartaLib.so: 未定義的參考到 google::protobuf::internal::AssignDescriptors(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, google::protobuf::internal::MigrationSchema const*, google::protobuf::Message const* const*, unsigned int const*, google::protobuf::Metadata*, google::protobuf::EnumDescriptor const**, google::protobuf::ServiceDescriptor const**)
+/home/duidae/projects/CARTA/CARTA-backend/CARTA-backend-CARTAvis/CARTAvis/build/cpp/desktop/../CartaLib//libCartaLib.so: 未定義的參考到 google::protobuf::internal::WireFormatLite::WriteStringMaybeAliased(int, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, google::protobuf::io::CodedOutputStream*)
+/home/duidae/projects/CARTA/CARTA-backend/CARTA-backend-CARTAvis/CARTAvis/build/cpp/desktop/../CartaLib//libCartaLib.so: 未定義的參考到 google::protobuf::Message::GetTypeName[abi:cxx11]() const
+/home/duidae/projects/CARTA/CARTA-backend/CARTA-backend-CARTAvis/CARTAvis/build/cpp/desktop/../CartaLib//libCartaLib.so: 未定義的參考到 google::protobuf::Message::InitializationErrorString[abi:cxx11]() const
+/home/duidae/projects/CARTA/CARTA-backend/CARTA-backend-CARTAvis/CARTAvis/build/cpp/desktop/../CartaLib//libCartaLib.so: 未定義的參考到 google::protobuf::io::CodedOutputStream::WriteStringWithSizeToArray(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, unsigned char*)
+/home/duidae/projects/CARTA/CARTA-backend/CARTA-backend-CARTAvis/CARTAvis/build/cpp/desktop/../CartaLib//libCartaLib.so: 未定義的參考到 google::protobuf::MessageFactory::InternalRegisterGeneratedFile(char const*, void (*)(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&))
+/home/duidae/projects/CARTA/CARTA-backend/CARTA-backend-CARTAvis/CARTAvis/build/cpp/desktop/../CartaLib//libCartaLib.so: 未定義的參考到 google::protobuf::internal::WireFormatLite::ReadBytes(google::protobuf::io::CodedInputStream*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >*)
+/home/duidae/projects/CARTA/CARTA-backend/CARTA-backend-CARTAvis/CARTAvis/build/cpp/desktop/../CartaLib//libCartaLib.so: 未定義的參考到 google::protobuf::internal::WireFormatLite::WriteString(int, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, google::protobuf::io::CodedOutputStream*)
+collect2: 錯誤：ld 回傳 
+```
 
 ## Weekly progress 2018/07/23~2018/07/29
 #### 1. Trace frontend
