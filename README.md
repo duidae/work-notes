@@ -49,7 +49,9 @@
   * [HARD] Undefined reference to google::protobuf::internal::empty_string_[abi:cxx11]
     * 原因: C++ ABI issue. The ABI for std::string has changed in GCC 5 comparing to GCC 4
       * https://gcc.gnu.org/gcc-5/changes.html#libstdcxx
-    * compile .o檔時加上 -D_GLIBCXX_USE_CXX11_ABI=0 這個flag
+    * compile *.o檔時加上 -D_GLIBCXX_USE_CXX11_ABI=0 這個flag
+      * 在 carta/cpp/common.pri 修改 DEFINES += "UseCasacoreNamespace=1 -D_GLIBCXX_USE_CXX11_ABI=0" 
+      
 ```
 NewServerConnector.o: 於函式 NewServerConnector::onTextMessage(QString):
 /home/duidae/projects/CARTA/CARTA-backend/CARTA-backend-CARTAvis/CARTAvis/carta/cpp/desktop/NewServerConnector.cpp:282: 未定義參考到 google::protobuf::MessageLite::SerializeToString(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >*) const
