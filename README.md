@@ -29,15 +29,21 @@
     * erase Macintosh HD -> reinstall failed
     * command+option+R for internet recovery
     
-#### 3. build casa
-* wcslib <- buildCASA.sh的error缺這個
-  * $ sudo yum install -y wcslib-devel
-* lapack library
-  * $ sudo yum install -y lapack-devel
-* boost library
-  * $ sudo yum install -y boost boost-thread boost-devel
-* pgplot
-  * https://guaix.fis.ucm.es/~ncl/howto/howto-pgplot
+#### 3. build backend
+* build CASA
+  * 用 CARTAvis/carta/scipts/buildaCASA.sh build
+  * wcslib <- buildCASA.sh的error缺這個
+    * $ sudo yum install -y wcslib-devel
+  * lapack library
+    * $ sudo yum install -y lapack-devel
+  * boost library
+    * $ sudo yum install -y boost boost-thread boost-devel
+  * pgplot
+    * https://guaix.fis.ucm.es/~ncl/howto/howto-pgplot
+* build CARTA with Qt
+  * -lGL cannot find libGL.so
+    * $ cd /urs/lib64
+    * $ sudo ln -s libGL.so.1 libGL.so
 
 ## Weekly progress 2018/07/23~2018/07/29
 #### 1. Trace frontend
