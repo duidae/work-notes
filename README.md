@@ -28,6 +28,14 @@
     * 網路要好(用網路線)
     * erase Macintosh HD -> reinstall failed
     * command+option+R for internet recovery
+    
+#### 3. build casa
+* lapack library
+  * $ sudo yum install -y lapack-devel
+* boost library
+  * $ sudo yum install -y boost boost-thread boost-devel
+* pgplot
+  * https://guaix.fis.ucm.es/~ncl/howto/howto-pgplot
 
 ## Weekly progress 2018/07/23~2018/07/29
 #### 1. Trace frontend
