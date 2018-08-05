@@ -590,7 +590,7 @@ make: *** [sub-cpp-make_first] Error 2
   * AcidMan: ALMA https://www.youtube.com/watch?v=ylEDfirYJaY
 * [ALMA kids](http://kids.alma.cl/?lang=zh)
 * [ALMA sounds(art)](http://www.almasounds.org/)
-* 譬喻：從墾丁看到台北101頂端的一隻金龜子
+* 譬喻：從墾丁看到台北101頂端的一隻金龜子, 看到月球上的高爾夫球
 * [CASA](https://casa.nrao.edu/)
 * [Code NASA](https://code.nasa.gov/)
 * [Data NASA](https://data.nasa.gov/)
