@@ -611,3 +611,9 @@ make: *** [sub-cpp-make_first] Error 2
 
 ## Questions
 * why not open source CASA directly?
+
+## Related internal docs
+* Qt settings
+  * https://www.evernote.com/shard/s6/sh/5db2520c-fd9e-481f-b81f-696750eafe97/2e0109f825b155c1
+* current CARTA architecture
+  * https://docs.google.com/document/d/1nVClqqPpuXeda9Z2G13UGz6aKZZNlGPQGywWd1aVOvM/edit
