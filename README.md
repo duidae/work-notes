@@ -8,9 +8,14 @@
 
 ## Weekly progress 2018/08/06~2018/08/12
 #### 1. Create fake command sender
-#### 2. Build backend on MAC
-* buildCASA.sh
-  * brew install boost, boost-python, fftw
+
+#### 2. Build backend
+* CentOS @ CERN
+  * http://linux.web.cern.ch/linux/centos.shtml
+* MAC
+  * buildCASA.sh
+    * brew install boost, boost-python, fftw
+    
 #### 2. Play TogetherJS
 
 ## Weekly progress 2018/07/30~2018/08/05
