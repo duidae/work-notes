@@ -12,8 +12,6 @@
   * https://github.com/luixaviles/socket-io-typescript-chat
 * Websocket server
   * https://github.com/websockets/ws
-* TS websocket server
-  * https://medium.com/factory-mind/websocket-node-js-express-step-by-step-using-typescript-725114ad5fe4
 * Websocket client - fake frontend simulator
   * Simple websocket client(pure js)
     * https://github.com/hakobera/Simple-WebSocket-Client
