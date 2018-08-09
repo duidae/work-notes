@@ -7,7 +7,9 @@
 * [Trello](https://trello.com/b/fViU1U7v/carta-working-group)
 
 ## Weekly progress 2018/08/06~2018/08/12
-#### 1. Create fake command sender
+#### 1. Create command sender
+* TS + socket.io chat messeger, good example to start
+  * https://github.com/luixaviles/socket-io-typescript-chat
 
 #### 2. Build backend
 * CentOS @ CERN
