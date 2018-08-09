@@ -10,7 +10,7 @@
 #### 1. Create command sender
 * TS + socket.io chat messeger, good example to start
   * https://github.com/luixaviles/socket-io-typescript-chat
-* websocket server
+* Websocket server
   * https://github.com/websockets/ws
 * TS websocket server
   * https://medium.com/factory-mind/websocket-node-js-express-step-by-step-using-typescript-725114ad5fe4
@@ -20,6 +20,9 @@
   * Smart websocket client(React)
     * https://chrome.google.com/webstore/detail/smart-websocket-client/omalebghpgejjiaoknljcfmglgbpocdp
     * github: https://github.com/crysislinux/smart_websocket_client
+* WebSocket + Node.js + Express — Step by step tutorial using Typescript
+  * https://medium.com/factory-mind/websocket-node-js-express-step-by-step-using-typescript-725114ad5fe4
+  * github: https://github.com/JonnyFox/websocket-node-express
 
 #### 2. Build backend
 * CentOS @ CERN
