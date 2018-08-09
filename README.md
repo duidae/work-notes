@@ -10,6 +10,10 @@
 #### 1. Create command sender
 * TS + socket.io chat messeger, good example to start
   * https://github.com/luixaviles/socket-io-typescript-chat
+* websocket server
+  * https://github.com/websockets/ws
+* TS websocket server
+  * https://medium.com/factory-mind/websocket-node-js-express-step-by-step-using-typescript-725114ad5fe4
 
 #### 2. Build backend
 * CentOS @ CERN
