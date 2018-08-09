@@ -14,6 +14,8 @@
   * https://github.com/websockets/ws
 * TS websocket server
   * https://medium.com/factory-mind/websocket-node-js-express-step-by-step-using-typescript-725114ad5fe4
+* Chrome tool: smart websocket client - fake frontend simulator
+  * https://chrome.google.com/webstore/detail/smart-websocket-client/omalebghpgejjiaoknljcfmglgbpocdp
 
 #### 2. Build backend
 * CentOS @ CERN
