@@ -6,6 +6,10 @@
 * [Slack](https://cartaviewer.slack.com/messages/C2S1R8V9P/)
 * [Trello](https://trello.com/b/fViU1U7v/carta-working-group)
 
+## Weekly progress 2018/08/13~2018/08/19
+#### 1. Finish command sender
+#### 2. Play TogetherJS
+
 ## Weekly progress 2018/08/06~2018/08/12
 #### 1. Create command sender
 * TS + socket.io chat messeger, good example to start
@@ -29,7 +33,7 @@
   * buildCASA.sh
     * brew install boost, boost-python, fftw
     
-#### 2. Play TogetherJS
+
 
 ## Weekly progress 2018/07/30~2018/08/05
 #### 1. Create my own component under current frontend architecture
