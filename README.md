@@ -13,6 +13,9 @@
 
 #### 2. Play TogetherJS
 
+#### Reference
+* ReactJS 101: https://github.com/kdchang/reactjs101
+
 ## Weekly progress 2018/08/06~2018/08/12
 #### 1. Create command sender
 * TS + socket.io chat messeger, good example to start
