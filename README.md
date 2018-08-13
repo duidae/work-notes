@@ -8,6 +8,9 @@
 
 ## Weekly progress 2018/08/13~2018/08/19
 #### 1. Finish command sender
+* CARTA websocket client: https://github.com/duidae/smart_websocket_client/tree/feat_carta_websocket_client
+* create a React+mobx version?
+
 #### 2. Play TogetherJS
 
 ## Weekly progress 2018/08/06~2018/08/12
