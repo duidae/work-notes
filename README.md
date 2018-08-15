@@ -19,6 +19,8 @@
   * https://www.oxxostudio.tw/articles/201706/javascript-promise-settimeout.html
   * http://liubin.org/promises-book/#how-to-write-promise
   * https://eyesofkids.gitbooks.io/javascript-start-es6-promise/content/
+* alt
+  * https://github.com/goatslacker/alt
 
 ## Weekly progress 2018/08/06~2018/08/12
 #### 1. Create command sender
