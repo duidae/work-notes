@@ -21,6 +21,8 @@
   * https://eyesofkids.gitbooks.io/javascript-start-es6-promise/content/
 * alt
   * https://github.com/goatslacker/alt
+* npm trend
+  * http://www.npmtrends.com/angular-vs-react-vs-vue
 
 ## Weekly progress 2018/08/06~2018/08/12
 #### 1. Create command sender
