@@ -15,6 +15,10 @@
 
 #### Reference
 * ReactJS 101: https://github.com/kdchang/reactjs101
+* Javascript promise:
+  * https://www.oxxostudio.tw/articles/201706/javascript-promise-settimeout.html
+  * http://liubin.org/promises-book/#how-to-write-promise
+  * https://eyesofkids.gitbooks.io/javascript-start-es6-promise/content/
 
 ## Weekly progress 2018/08/06~2018/08/12
 #### 1. Create command sender
