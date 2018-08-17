@@ -9,9 +9,12 @@
 ## Weekly progress 2018/08/13~2018/08/19
 #### 1. Finish command sender
 * CARTA websocket client: https://github.com/duidae/smart_websocket_client/tree/feat_carta_websocket_client
-* create a React+mobx version?
-
-#### 2. Play TogetherJS
+* [feature]
+  * create a React+mobx version
+* [fix]
+  * protobuf integration problem
+  * add respond to history
+  * UI adjustment
 
 #### Reference
 * ReactJS 101: https://github.com/kdchang/reactjs101
