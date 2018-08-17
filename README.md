@@ -6,6 +6,15 @@
 * [Slack](https://cartaviewer.slack.com/messages/C2S1R8V9P/)
 * [Trello](https://trello.com/b/fViU1U7v/carta-working-group)
 
+## Weekly progress 2018/08/20~2018/08/26
+#### 1. Finish command sender
+#### 2. Ask Mark todo
+* think possible todo
+
+#### 3. others
+* TogetherJS
+* HealPix + three.js
+
 ## Weekly progress 2018/08/13~2018/08/19
 #### 1. Finish command sender
 * CARTA websocket client: https://github.com/duidae/smart_websocket_client/tree/feat_carta_websocket_client
