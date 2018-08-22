@@ -13,6 +13,8 @@
 * think possible todo
 * Mark: trace region of CARTA, 用中斷點trace
 * region: cpp/core/Data/Region
+* <寫碼容易，讀碼難> 這篇寫的蠻好的
+  * https://www.inside.com.tw/2015/07/26/rework
 
 #### 3. others
 * TogetherJS
