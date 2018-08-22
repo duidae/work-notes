@@ -16,6 +16,11 @@
 * 接手專案
   * <寫碼容易，讀碼難> 這篇寫的蠻好的 https://www.inside.com.tw/2015/07/26/rework
   * https://itw01.com/GPRE4BG.html
+* current project environment, update to wiki:
+  * install 3rd party
+    * 1. qmake路徑要加到path
+    * 2. 要加上libuv, libssl
+    * 3. 裝protobuf
 
 #### 3. others
 * TogetherJS
