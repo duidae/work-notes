@@ -22,8 +22,8 @@
     2. 要加上libuv, libssl
     3. 裝protobuf
     4. create docker image
-      a. CentOs image
-      b. + gcc & setup libstdc++.so
+      * CentOs image
+      * gcc & setup libstdc++.so
 
 #### 3. others
 * TogetherJS
