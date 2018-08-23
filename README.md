@@ -18,10 +18,12 @@
   * https://itw01.com/GPRE4BG.html
 * current project environment, update to wiki:
   * install 3rd party
-    * 1. qmake路徑要加到path
-    * 2. 要加上libuv, libssl
-    * 3. 裝protobuf
-
+    1. qmake路徑要加到path
+    2. 要加上libuv, libssl
+    3. 裝protobuf
+    4. create docker image
+      a. CentOs image
+      b. + gcc & setup libstdc++.so
 
 #### 3. others
 * TogetherJS
