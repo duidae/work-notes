@@ -25,6 +25,18 @@
     4. create docker image
       * CentOs image
       * gcc & setup libstdc++.so
+* current build backend steps on CentOS:
+  * 裝新的gcc7
+  * sudo yum -y install make cmake git subversion-libs unzip wget openssl-devel libuv-devel
+  * 裝qt 5.7
+  * gcc, qmake路徑要加到path
+  * mkdir CARTAvis-externals
+  * mkdir CARTAvis/build
+  * install3party.sh
+  * install_protobuf+uWebSockets.sh
+  * buildCASA.sh
+  * ./generate.py
+  * 
 
 #### 3. Trace backend
 * cpp/desktop
