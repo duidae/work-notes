@@ -28,8 +28,7 @@
 
 #### 3. Trace backend
 * cpp/desktop
-  * desktopMain -> DesktopPlatform -> SessionDispatcher -> NewServerConnector
-  
+  * desktopMain -> DesktopPlatform -> SessionDispatcher -> NewServerConnector(use protobuf here)
 
 #### 3. others
 * TogetherJS
