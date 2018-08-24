@@ -38,6 +38,7 @@
   * ./generate.py
 * 待改進
   * 去sudo
+* cpp的部份直接用Qt
 
 #### 3. Trace backend
 * cpp/desktop
