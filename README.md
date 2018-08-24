@@ -36,7 +36,8 @@
   * install_protobuf+uWebSockets.sh
   * buildCASA.sh
   * ./generate.py
-  * 
+* 待改進
+  * 去sudo
 
 #### 3. Trace backend
 * cpp/desktop
