@@ -12,7 +12,7 @@
   * uWebSocket需要 libssl-dev, libuv
   * boost-python要退版到1.66
   * eigen3.2要另外裝, 從source build, 裝到/usr/local/Cellar/eigen@3.2/3.2.10
-  * doxygen要另外裝, 
+  * doxygen要另外裝, $ brew install doxygen
   * rpfits不用裝
 
 ## Weekly progress 2018/08/20~2018/08/26
