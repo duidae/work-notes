@@ -17,12 +17,9 @@
   * rpfits不用裝
 * build frontend on Mac
   * build_libs.sh 報錯
-    * 在build_ast.sh, build_zfp.sh裡加上修改ar為emar+ranlib=em
-– AR=ar
-+ AR=emar
-# 去掉ranlib
-– RANLIB=ranlib
-+ #RANLIB=ranlib
+    * 在build_ast.sh裡加上修改ar為emar, ranlib為emranlib
+      * AR=emar RANLIB=emranlib
+    * 在zfp/裡修改build/CMakeFiles/3.12.1/CMakeCXXCompiler.cmake ar, ranlib
 
 ## Weekly progress 2018/08/20~2018/08/26
 #### 1. Finish command sender
