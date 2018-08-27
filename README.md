@@ -6,6 +6,13 @@
 * [Slack](https://cartaviewer.slack.com/messages/C2S1R8V9P/)
 * [Trello](https://trello.com/b/fViU1U7v/carta-working-group)
 
+## Weekly progress 2018/08/27~2018/09/02
+#### 1. 交接子翔code
+* build backend on Mac
+  * boost-python要退版到1.66
+  * eigen3.2要另外裝, 裝到/usr/local/Cellar/eigen@3.2/3.2.10
+  * rpfits不用裝
+
 ## Weekly progress 2018/08/20~2018/08/26
 #### 1. Finish command sender
 * alt vs MobX: alt的Action <-> state不容易在code裡面觀察出來, 這兩個東西coupling又很強, 造成不好refactoring, 改一個地方不曉得會影響到哪邊然後爛掉, 就這點而言Mobx的decorator是比較好的設計
