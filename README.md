@@ -9,6 +9,7 @@
 ## Weekly progress 2018/08/27~2018/09/02
 #### 1. 交接子翔code
 * build backend on Mac
+  * uWebSocket需要 libssl-dev, libuv
   * boost-python要退版到1.66
   * eigen3.2要另外裝, 從source build, 裝到/usr/local/Cellar/eigen@3.2/3.2.10
   * doxygen要另外裝, 
