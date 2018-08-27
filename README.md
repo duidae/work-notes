@@ -15,6 +15,14 @@
   * doxygen要另外裝, $ brew install doxygen
   * carta/scripts/installLibsforcasa.sh
   * rpfits不用裝
+* build frontend on Mac
+  * build_libs.sh 報錯
+    * 在build_ast.sh, build_zfp.sh裡加上修改ar為emar+ranlib=em
+– AR=ar
++ AR=emar
+# 去掉ranlib
+– RANLIB=ranlib
++ #RANLIB=ranlib
 
 ## Weekly progress 2018/08/20~2018/08/26
 #### 1. Finish command sender
