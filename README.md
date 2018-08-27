@@ -10,7 +10,8 @@
 #### 1. 交接子翔code
 * build backend on Mac
   * boost-python要退版到1.66
-  * eigen3.2要另外裝, 裝到/usr/local/Cellar/eigen@3.2/3.2.10
+  * eigen3.2要另外裝, 從source build, 裝到/usr/local/Cellar/eigen@3.2/3.2.10
+  * doxygen要另外裝, 
   * rpfits不用裝
 
 ## Weekly progress 2018/08/20~2018/08/26
