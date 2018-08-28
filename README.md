@@ -13,8 +13,12 @@
   * boost-python要退版到1.66
   * eigen3.2要另外裝, 從source build, 裝到/usr/local/Cellar/eigen@3.2/3.2.10
   * doxygen要另外裝, $ brew install doxygen
-  * carta/scripts/installLibsforcasa.sh
+  * carta/scripts/installLibsforcasa.sh()
   * rpfits不用裝
+  * 裝flex, bison
+    * ci_mac_thrirdparty.sh會裝flex, 尚缺bison
+    * ci_mac_common.sh裡有bison
+    * [TODO] 這兩個拉出來放到script裡
 * build frontend on Mac
   * build_libs.sh 報錯
     * 在build_ast.sh裡加上修改ar為emar, ranlib為emranlib
