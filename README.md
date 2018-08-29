@@ -25,6 +25,8 @@
       * AR=emar RANLIB=emranlib
     * 在zfp/裡修改build/CMakeFiles/3.12.1/CMakeCXXCompiler.cmake ar, ranlib
 
+#### 2. File info 加 FitsHeaderExtractor
+
 ## Weekly progress 2018/08/20~2018/08/26
 #### 1. Finish command sender
 * alt vs MobX: alt的Action <-> state不容易在code裡面觀察出來, 這兩個東西coupling又很強, 造成不好refactoring, 改一個地方不曉得會影響到哪邊然後爛掉, 就這點而言Mobx的decorator是比較好的設計
