@@ -6,6 +6,13 @@
 * [Slack](https://cartaviewer.slack.com/messages/C2S1R8V9P/)
 * [Trello](https://trello.com/b/fViU1U7v/carta-working-group)
 
+## Weekly progress 2018/09/03~2018/09/09
+
+#### 1. Trace Region
+#### 2. Implement frontend feature
+#### 3. Refactor sean's code
+
+
 ## Weekly progress 2018/08/27~2018/09/02
 #### 1. 交接子翔code
 * build backend on Mac
