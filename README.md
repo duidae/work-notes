@@ -9,9 +9,14 @@
 ## Weekly progress 2018/09/03~2018/09/09
 
 #### 1. Trace Region
+* CARTAvis/newCARTAMeteorApp, 這個repo就有implement client-server model, 從這看region
+  * imports/api/Command.js
+  
 #### 2. Implement frontend feature
-#### 3. Refactor sean's code
+* 希望週三搞定
 
+#### 3. Refactor sean's code
+* done by Mark
 
 ## Weekly progress 2018/08/27~2018/09/02
 #### 1. 交接子翔code
