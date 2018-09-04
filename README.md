@@ -27,6 +27,7 @@
     * ci_mac_common.sh裡有bison
     * [TODO] 這兩個拉出來放到script裡
   * thirdparty build完後要chown, 否則qt load library會權限不足
+  * Qt creator -> run -> Run Environment -> DYLD_LIBRARY_PATH 要加上 /Users/schsu/projects/CARTA/CARTA-backend/carta-backend-sean_add_FILE_INFO/CARTAvis-externals/ThirdParty/wcslib/lib:
 * build frontend on Mac
   * build_libs.sh 報錯
     * 在build_ast.sh裡加上修改ar為emar, ranlib為emranlib
