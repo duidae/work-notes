@@ -13,6 +13,7 @@
   * imports/api/Command.js
     * setRegionType, registerRegionControls, closeRegion, regionZoom
   * imports/region/action.js  <- 前端送到後端的動作
+  * meteor backend: carta/cjhsu_newArch_profile
 * [TODO] 看ICD region的部分
   
 #### 2. Implement frontend feature
