@@ -43,6 +43,7 @@
     * 在zfp/裡修改build/CMakeFiles/3.12.1/CMakeCXXCompiler.cmake ar, ranlib
 
 #### 2. File info 加 FitsHeaderExtractor
+* done
 
 ## Weekly progress 2018/08/20~2018/08/26
 #### 1. Finish command sender
