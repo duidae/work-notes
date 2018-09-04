@@ -13,6 +13,7 @@
   * imports/api/Command.js
     * setRegionType, registerRegionControls, closeRegion, regionZoom
   * imports/region
+  * imports/imageViewer/action.js
   
 #### 2. Implement frontend feature
 * 希望週三搞定
