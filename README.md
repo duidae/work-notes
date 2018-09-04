@@ -11,6 +11,8 @@
 #### 1. Trace Region
 * CARTAvis/newCARTAMeteorApp, 這個repo就有implement client-server model, 從這看region
   * imports/api/Command.js
+    * setRegionType, registerRegionControls, closeRegion, regionZoom
+  * imports/region
   
 #### 2. Implement frontend feature
 * 希望週三搞定
