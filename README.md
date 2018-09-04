@@ -12,8 +12,7 @@
 * CARTAvis/newCARTAMeteorApp, 這個repo就有implement client-server model, 從這看region
   * imports/api/Command.js
     * setRegionType, registerRegionControls, closeRegion, regionZoom
-  * imports/region
-  * imports/imageViewer/action.js
+  * imports/region/action.js  <- 前端送到後端的動作
   
 #### 2. Implement frontend feature
 * 希望週三搞定
