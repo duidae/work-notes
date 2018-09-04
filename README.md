@@ -26,6 +26,7 @@
     * ci_mac_thrirdparty.sh會裝flex, 尚缺bison
     * ci_mac_common.sh裡有bison
     * [TODO] 這兩個拉出來放到script裡
+  * thirdparty build完後要chown, 否則qt load library會權限不足
 * build frontend on Mac
   * build_libs.sh 報錯
     * 在build_ast.sh裡加上修改ar為emar, ranlib為emranlib
