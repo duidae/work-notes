@@ -13,6 +13,7 @@
   * imports/api/Command.js
     * setRegionType, registerRegionControls, closeRegion, regionZoom
   * imports/region/action.js  <- 前端送到後端的動作
+* [TODO] 看ICD region的部分
   
 #### 2. Implement frontend feature
 * 希望週三搞定
