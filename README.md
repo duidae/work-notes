@@ -18,7 +18,7 @@
   * /html5/common/skel/source/class/skel/Command/Region/CommandRegions.js
   * /html5/common/skel/source/class/skel/widgets/Statistics/StatisticsRegion.js
 * Carta::Lib::Regions
-* 看ICD region的部分
+* 看ICD region的部分, 前面有use case, 很有幫助
   * SET_REGION
   * SET_REGION_ACK
   * REMOVE_REGION
