@@ -14,6 +14,9 @@
     * setRegionType, registerRegionControls, closeRegion, regionZoom
   * imports/region/action.js  <- 前端送到後端的動作
   * meteor backend: carta/cjhsu_newArch_profile
+* CARTA-release-0.9
+  * /html5/common/skel/source/class/skel/Command/Region/CommandRegions.js
+  * /html5/common/skel/source/class/skel/widgets/Statistics/StatisticsRegion.js
 * Carta::Lib::Regions
 * 看ICD region的部分
   * SET_REGION
