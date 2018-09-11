@@ -734,7 +734,27 @@ make: *** [sub-cpp-make_first] Error 2
 * current CARTA architecture
   * https://docs.google.com/document/d/1nVClqqPpuXeda9Z2G13UGz6aKZZNlGPQGywWd1aVOvM/edit
   
-## Pull request
+## Project [TODO]
+* [Refactor] for 移到 if 裡面(if 判斷要改成 !=)
+```
+// customized arrange file info into an array[] of {key, value}
+    std::vector<std::vector<QString>> pairs = {};
+    if (false == _arrangeFileInfo(infoMap, pairs)) {
+        qDebug() << "Sort file info entry error.";
+    }
+
+    // insert Part 1, Part 2 to fileInfoExt
+    for (auto iter = pairs.begin(); iter != pairs.end(); iter++) {
+        auto *infoEntries = fileInfoExt->add_computed_entries();
+        if (nullptr != infoEntries) {
+            infoEntries->set_name((*iter)[0].toLocal8Bit().constData());
+            infoEntries->set_value((*iter)[1].toLocal8Bit().constData());
+        } else {
+            qDebug() << "Insert info entry to fileInfoExt error.";
+        }
+    }
+```
+* [Fix] backend protobuf submodule
 * [Fix] typo/delete/modify in /home/duidae/projects/CARTA/CARTAvis/carta/scripts/buildcasa.sh // 整理buildcasa.sh
     * typo: 3 ## TODO: remove installinging
     * delete: 77     #### install Qt 4.8.5
@@ -749,3 +769,4 @@ make: *** [sub-cpp-make_first] Error 2
   * 53     $dirname/setupcartavis.sh 2>&1  > /dev/null  //should be >/dev/null 2>&1
 * 用絕對路徑不能rename目錄名稱
 * CARTAvis-externals能不能自動化, 每次都要重弄好煩
+* 修wiki
