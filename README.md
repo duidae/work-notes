@@ -6,8 +6,10 @@
 * [Slack](https://cartaviewer.slack.com/messages/C2S1R8V9P/)
 * [Trello](https://trello.com/b/fViU1U7v/carta-working-group)
 
-## Weekly progress 2018/09/03~2018/09/09
+## Weekly progress 2018/09/10~2018/09/16
+#### 1. Trace Region
 
+## Weekly progress 2018/09/03~2018/09/09
 #### 1. Trace Region
 * CARTAvis/newCARTAMeteorApp, 這個repo就有implement client-server model, 從這看region
   * imports/api/Command.js
