@@ -17,6 +17,47 @@ git submodule update
 git checkout master
 ```
 
+#### 3. Qt settings
+* build
+  * NOSERVER=1 CARTA_BUILD_TYPE=bughunter
+  * -j2
+  * echo
+```
+`pwd`;
+
+mkdir -p cpp/desktop/CARTA.app/Contents/Frameworks/;
+cp cpp/core/libcore.1.dylib cpp/desktop/CARTA.app/Contents/Frameworks/;
+
+rm cpp/core/libcore.1.dylib;
+cp cpp/CartaLib/libCartaLib.1.dylib cpp/desktop/CARTA.app/Contents/Frameworks/;
+
+cd ..;
+export CARTABUILDHOME=`pwd`;
+
+install_name_tool -change qwt.framework/Versions/6/qwt $CARTABUILDHOME/ThirdParty/qwt-6.1.2/lib/qwt.framework/Versions/6/qwt $CARTABUILDHOME/build/cpp/desktop/CARTA.app/Contents/MacOS/CARTA;
+install_name_tool -change qwt.framework/Versions/6/qwt $CARTABUILDHOME/ThirdParty/qwt-6.1.2/lib/qwt.framework/Versions/6/qwt $CARTABUILDHOME/build/cpp/desktop/CARTA.app/Contents/Frameworks/libcore.1.dylib;
+
+install_name_tool -change libcore.1.dylib $CARTABUILDHOME/build/cpp/desktop/CARTA.app/Contents/Frameworks/libcore.1.dylib $CARTABUILDHOME/build/cpp/plugins/ImageStatistics/libplugin.dylib;
+
+install_name_tool -change libCartaLib.1.dylib $CARTABUILDHOME/build/cpp/desktop/CARTA.app/Contents/Frameworks/libCartaLib.1.dylib $CARTABUILDHOME/build/cpp/plugins/ImageStatistics/libplugin.dylib;
+install_name_tool -change libcore.1.dylib  $CARTABUILDHOME/build/cpp/desktop/CARTA.app/Contents/Frameworks/libcore.1.dylib $CARTABUILDHOME/build/cpp/desktop/CARTA.app/Contents/MacOS/CARTA;
+install_name_tool -change libCartaLib.1.dylib $CARTABUILDHOME/build/cpp/desktop/CARTA.app/Contents/Frameworks/libCartaLib.1.dylib $CARTABUILDHOME/build/cpp/desktop/CARTA.app/Contents/MacOS/CARTA;
+install_name_tool -change libCartaLib.1.dylib $CARTABUILDHOME/build/cpp/desktop/CARTA.app/Contents/Frameworks/libCartaLib.1.dylib $CARTABUILDHOME/build/cpp/desktop/CARTA.app/Contents/Frameworks/libcore.1.dylib;
+
+echo "before find";
+
+for f in `find . -name libplugin.dylib`; do install_name_tool -change libcore.1.dylib $CARTABUILDHOME/build/cpp/desktop/CARTA.app/Contents/Frameworks/libcore.1.dylib $f; done;
+for f in `find . -name libplugin.dylib`; do install_name_tool -change libCartaLib.1.dylib $CARTABUILDHOME/build/cpp/desktop/CARTA.app/Contents/Frameworks/libCartaLib.1.dylib $f; done;
+for f in `find . -name "*.dylib"`; do install_name_tool -change libwcs.5.15.dylib $CARTABUILDHOME/ThirdParty/wcslib/lib/libwcs.5.15.dylib $f; echo $f; done;
+```
+* run
+  * ulimit
+    * -n 2000
+  * LD LIBRARY PATH
+```
+/Users/schsu/projects/CARTA/CARTA-backend/carta-backend-sean_add_FILE_INFO/CARTAvis-duidae/ThirdParty/zfp/lib:/Users/schsu/projects/CARTA/CARTA-backend/carta-backend-sean_add_FILE_INFO/CARTAvis-externals/ThirdParty/wcslib/lib:
+```
+
 ## Weekly progress 2018/09/03~2018/09/09
 #### 1. Trace Region
 * CARTAvis/newCARTAMeteorApp, 這個repo就有implement client-server model, 從這看region
