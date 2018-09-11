@@ -9,6 +9,14 @@
 ## Weekly progress 2018/09/10~2018/09/16
 #### 1. Trace Region
 
+#### 2. Add submodule to backend for protobuf
+```
+cd carta/cpp/CartaLib/Proto/
+git submodule init
+git submodule update
+git checkout master
+```
+
 ## Weekly progress 2018/09/03~2018/09/09
 #### 1. Trace Region
 * CARTAvis/newCARTAMeteorApp, 這個repo就有implement client-server model, 從這看region
