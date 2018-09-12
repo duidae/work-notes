@@ -9,7 +9,12 @@
 ## Weekly progress 2018/09/10~2018/09/16
 #### 1. Trace Region
 
-#### 2. Add submodule to backend for protobuf
+#### 2. Fix bug
+* fits files
+  * $ ssh schsu@almat6
+  * cd /almalustre/scratch/kswang/hugeImagePool/
+
+#### 3. Add submodule to backend for protobuf
 ```
 cd carta/cpp/CartaLib/Proto/
 git submodule init
@@ -17,7 +22,7 @@ git submodule update
 git checkout master
 ```
 
-#### 3. Qt settings
+#### 4. Qt settings
 * build
   * NOSERVER=1 CARTA_BUILD_TYPE=bughunter
   * -j2
