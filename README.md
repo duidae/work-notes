@@ -13,6 +13,7 @@
 * fits files
   * $ ssh schsu@almat6
   * cd /almalustre/scratch/kswang/hugeImagePool/
+  * scp schsu@almat6:/almalustre/scratch/kswang/hugeImagePool/file .
 
 #### 3. Add submodule to backend for protobuf
 ```
