@@ -8,6 +8,12 @@
 
 ## Weekly progress 2018/09/17~2018/09/23
 #### 1. Implement X-Y profile
+* related files:
+  * core/Algorithms/percentileAlgorithms.h
+    * MinMaxPercentiles<Scalar>::pixels2histogram(..)
+  * core/Data/Image/DataSource.cpp
+    * DataSource::_getPixels2HistogramData(..)
+ 
 #### 2. Modify exception handling of CARTA
 #### 3. Check velocity definition
 
