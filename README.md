@@ -13,6 +13,8 @@
     * MinMaxPercentiles<Scalar>::pixels2histogram(..)
   * core/Data/Image/DataSource.cpp
     * DataSource::_getPixels2HistogramData(..)
+* 雷1: 若在NewServerConnector裡解protobuf, 有時會被覆寫導致變成奇怪的message, 但在SessionDispatcher裡不會
+* 雷2: SessionDispatcher裡connect signal/slot時, non-primitive的參數要 qRegisterMetaType, slot才收的到
  
 #### 2. Modify exception handling of CARTA
 #### 3. Check velocity definition
