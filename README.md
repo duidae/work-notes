@@ -18,6 +18,7 @@
  
 #### 2. Modify exception handling of CARTA
 #### 3. Check velocity definition
+* ok, but better refactor FitsHeaderExtractor.cpp
 
 ## Weekly progress 2018/09/10~2018/09/16
 #### 1. Trace Region
