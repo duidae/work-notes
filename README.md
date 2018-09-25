@@ -6,6 +6,9 @@
 * [Slack](https://cartaviewer.slack.com/messages/C2S1R8V9P/)
 * [Trello](https://trello.com/b/fViU1U7v/carta-working-group)
 
+## Weekly progress 2018/09/24~2018/09/30
+#### 1. Test X-Y profile
+
 ## Weekly progress 2018/09/17~2018/09/23
 #### 1. Implement X-Y profile
 * related files:
