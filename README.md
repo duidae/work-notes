@@ -10,7 +10,7 @@
 #### 1. Test X-Y profile
 * ok
 
-#### 2. Study multi-thread(Qt concurrent) for speeding up
+#### 2. Study multi-thread(Qt concurrent) for speeding up xy profiler
 * https://docs.google.com/document/d/1QBdmaHaCvg6jqpmMLc7e7bWGTrw3F34LtRvIxvkFEk0/edit
 
 ## Weekly progress 2018/09/17~2018/09/23
