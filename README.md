@@ -8,7 +8,8 @@
 
 ## Weekly progress 2018/10/01~2018/10/07
 #### 1. Update casa to lastest version
-* https://safe.nrao.edu/wiki/bin/view/Software/CASA/CasaBuildInstructions
+* casa wiki for build
+  * https://safe.nrao.edu/wiki/bin/view/Software/CASA/CasaBuildInstructions
 
 ## Weekly progress 2018/09/24~2018/09/30
 #### 1. Test X-Y profile
