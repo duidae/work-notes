@@ -6,6 +6,10 @@
 * [Slack](https://cartaviewer.slack.com/messages/C2S1R8V9P/)
 * [Trello](https://trello.com/b/fViU1U7v/carta-working-group)
 
+## Weekly progress 2018/10/01~2018/10/07
+#### 1. Update casa to lastest version
+* https://safe.nrao.edu/wiki/bin/view/Software/CASA/CasaBuildInstructions
+
 ## Weekly progress 2018/09/24~2018/09/30
 #### 1. Test X-Y profile
 * ok
