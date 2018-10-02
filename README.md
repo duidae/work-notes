@@ -10,6 +10,7 @@
 #### 1. Update casa to lastest version
 * casa wiki for build
   * https://safe.nrao.edu/wiki/bin/view/Software/CASA/CasaBuildInstructions
+* [雷]Qt重build不會重新產生Makefile,保險是砍掉build/再重來一次...
 
 ## Weekly progress 2018/09/24~2018/09/30
 #### 1. Test X-Y profile
