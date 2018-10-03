@@ -7,10 +7,12 @@
 * [Trello](https://trello.com/b/fViU1U7v/carta-working-group)
 
 ## Weekly progress 2018/10/01~2018/10/07
-#### 1. Update casa to lastest version
+#### 1. Update casa/casacore in ThirdParty to lastest version
 * casa wiki for build
   * https://safe.nrao.edu/wiki/bin/view/Software/CASA/CasaBuildInstructions
 * [雷]Qt重build不會重新產生Makefile,保險是砍掉build/再重來一次...
+* [雷]把casa從bitbucket移到github會出現找不到CASA_VERSION_FEATURE的問題導致build fail, code/CMakeLists.txt裡要直接改成版號
+  * set( CASA_VERSION_FEATURE 33  )
 
 ## Weekly progress 2018/09/24~2018/09/30
 #### 1. Test X-Y profile
