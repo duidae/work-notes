@@ -13,6 +13,135 @@
 * [雷]Qt重build不會重新產生Makefile,保險是砍掉build/再重來一次...
 * [雷]把casa從bitbucket移到github會出現找不到CASA_VERSION_FEATURE的問題導致build fail, code/CMakeLists.txt裡要直接改成版號
   * set( CASA_VERSION_FEATURE 33  )
+* casa cube data
+  * tile, pagedImage
+```
+//# tImager.cc:  this tests Imager
+//# Copyright (C) 1996,1997,1999,2001
+//# Associated Universities, Inc. Washington DC, USA.
+//#
+//# This library is free software; you can redistribute it and/or modify it
+//# under the terms of the GNU Library General Public License as published by
+//# the Free Software Foundation; either version 2 of the License, or (at your
+//# option) any later version.
+//#
+//# This library is distributed in the hope that it will be useful, but WITHOUT
+//# ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
+//# FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Library General Public
+//# License for more details.
+//#
+//# You should have received a copy of the GNU Library General Public License
+//# along with this library; if not, write to the Free Software Foundation,
+//# Inc., 675 Massachusetts Ave, Cambridge, MA 02139, USA.
+//#
+//# Correspondence concerning AIPS++ should be addressed as follows:
+//#        Internet email: aips2-request@nrao.edu.
+//#        Postal address: AIPS++ Project Office
+//#                        National Radio Astronomy Observatory
+//#                        520 Edgemont Road
+//#                        Charlottesville, VA 22903-2475 USA
+//#
+//# $Id$
+
+#include <casa/iostream.h>
+#include <casa/aips.h>
+#include <casa/Exceptions/Error.h>
+#include <casa/Containers/Block.h>
+#include <measures/Measures/MRadialVelocity.h>
+#include <coordinates/Coordinates/CoordinateSystem.h>
+#include <casa/Logging/LogIO.h>
+#include <synthesis/MeasurementEquations/Imager.h>
+#include <images/Images/PagedImage.h>
+#include <images/Images/FITSImage.h>
+    #include <casacore/tables/TaQL/ExprNode.h>
+#include <casacore/tables/TaQL/ExprNodeSet.h>
+#include <casacore/tables/TaQL/RecordExpr.h>
+#include <casacore/casa/Arrays/ArrayMath.h>
+#include <casa/namespace.h>
+
+int main()
+{
+  using namespace std;
+using namespace casacore;
+  using namespace casa;
+  try{
+
+    Timer tim;
+    tim.mark();
+    PagedImage<Float> casaImage("looloo.image");
+    tim.show("opening casaimage");
+    
+    tim.mark();
+    FITSImage fitsImage("looloo.fits");
+    tim.show("opening fitsimage");
+    //====Using lattice Expression
+    tim.mark();
+    {
+      LatticeExprNode thecasaMax(max(casaImage));
+      cerr << "casa max " << thecasaMax.getFloat() << endl;
+      LatticeExprNode thecasaMin(min(casaImage));
+      cerr << "casa min " << thecasaMin.getFloat() << endl;
+      LatticeExprNode thecasafractile(fractile(casaImage,0.3));
+      cerr << "casa 0.3 fractile " << thecasafractile.getFloat() << endl;
+	  
+      tim.show("casa-max-min-fractile");
+}
+     //====
+    tim.mark();
+
+    {
+      cerr << "using lattice expressions " << endl;
+      LatticeExprNode thefitsMax(max(fitsImage));
+      cerr << "fits max " << thefitsMax.getFloat() << endl;
+      LatticeExprNode thefitsMin(min(fitsImage));
+      cerr << "fits min " << thefitsMin.getFloat() << endl;
+      LatticeExprNode thefitsfractile(fractile(fitsImage,0.3));
+      cerr << "fits 0,3 fractile " << thefitsfractile.getFloat() << endl;
+      tim.show("fits-max-min-fractile");
+    }
+     
+    /////Now loading the image in ram and doing some math
+     {
+       tim.mark();
+       
+       cerr <<"Loading image in memory and manipulating arrays" << endl;
+       Array<Float> arr=casaImage.get();
+       Float minval, maxval;
+       IPosition minpos, maxpos;
+       minMax(minval, maxval, minpos, maxpos, arr);
+       cerr << "casa max " << maxval  <<" at " <<maxpos  ;
+        cerr << " min " << minval  <<" at " <<minpos  ;
+		Float fractileval=fractile(arr, 0.3);
+      cerr << " fractile " << fractileval << endl;
+      
+      tim.show("casa->array-max-min-fractile");
+}
+     //====
+       {
+       tim.mark();
+       
+       cerr <<"Loading image in memory and manipulating arrays" << endl;
+       Array<Float> arr=fitsImage.get();
+       Float minval, maxval;
+       IPosition minpos, maxpos;
+       minMax(minval, maxval, minpos, maxpos, arr);
+       cerr << "fits max " << maxval  <<" at " <<maxpos  ;
+        cerr << " min " << minval  <<" at " <<minpos  ;
+		Float fractileval=fractile(arr, 0.3);
+      cerr << " fractile " << fractileval << endl;
+      
+      tim.show("fits ->array-max-min-fractile");
+}
+
+    tim.mark();
+ 
+    
+  }catch( AipsError e ){
+    cout << "Exception ocurred." << endl;
+    cout << e.getMesg() << endl;
+  }
+};
+```
 
 ## Weekly progress 2018/09/24~2018/09/30
 #### 1. Test X-Y profile
