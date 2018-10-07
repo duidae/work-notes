@@ -6,6 +6,11 @@
 * [Slack](https://cartaviewer.slack.com/messages/C2S1R8V9P/)
 * [Trello](https://trello.com/b/fViU1U7v/carta-working-group)
 
+## Weekly progress 2018/10/08~2018/10/14
+#### 1. Implement z profile
+#### 2. Build in CentOS
+* build casa failed: cant find pgplot(fortan)
+
 ## Weekly progress 2018/10/01~2018/10/07
 #### 1. Update casa/casacore in ThirdParty to lastest version
 * casa wiki for build
