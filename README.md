@@ -6,6 +6,11 @@
 * [Slack](https://cartaviewer.slack.com/messages/C2S1R8V9P/)
 * [Trello](https://trello.com/b/fViU1U7v/carta-working-group)
 
+## Weekly progress 2018/10/15~2018/10/21
+#### 1. Adjust channel values of spectral profile
+#### 2. Fix file info issue
+#### 3. Fix issue x 1 from my issue list
+
 ## Weekly progress 2018/10/08~2018/10/14
 #### 1. Implement z profile
 #### 2. Build in CentOS
