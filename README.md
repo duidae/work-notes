@@ -9,7 +9,11 @@
 ## Weekly progress 2018/10/15~2018/10/21
 #### 1. Adjust channel values of spectral profile
 #### 2. Fix file info issue
+* done
+* need to try ImageStatistics of new version casacore 
+
 #### 3. Fix issue x 1 from my issue list
+* [#40](https://github.com/CARTAvis/carta-backend/issues/40)
 
 ## Weekly progress 2018/10/08~2018/10/14
 #### 1. Implement z profile
