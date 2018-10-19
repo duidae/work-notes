@@ -17,6 +17,8 @@
 
 ## Weekly progress 2018/10/08~2018/10/14
 #### 1. Implement z profile
+* channel_vals can be ignored, frontend will handle it
+
 #### 2. Build in CentOS
 * build casa failed: cant find pgplot(fortan)
 
