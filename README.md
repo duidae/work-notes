@@ -8,6 +8,8 @@
 
 ## Weekly progress 2018/10/15~2018/10/21
 #### 1. Adjust channel values of spectral profile
+* channel_vals can be ignored, frontend will handle it
+
 #### 2. Fix file info issue
 * done
 * need to try ImageStatistics of new version casacore 
@@ -17,7 +19,6 @@
 
 ## Weekly progress 2018/10/08~2018/10/14
 #### 1. Implement z profile
-* channel_vals can be ignored, frontend will handle it
 
 #### 2. Build in CentOS
 * build casa failed: cant find pgplot(fortan)
