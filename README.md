@@ -6,6 +6,11 @@
 * [Slack](https://cartaviewer.slack.com/messages/C2S1R8V9P/)
 * [Trello](https://trello.com/b/fViU1U7v/carta-working-group)
 
+## Weekly progress 2018/10/22~2018/10/28
+#### 1. Fix spectral profile bug
+
+#### 2. Fix one issue
+
 ## Weekly progress 2018/10/15~2018/10/21
 #### 1. Adjust channel values of spectral profile
 * channel_vals can be ignored, frontend will handle it
