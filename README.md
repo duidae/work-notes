@@ -16,6 +16,7 @@
 #### 1. Fix spectral profile bug
 
 #### 2. Fix one issue
+* move develop dir to CARTA-newArch, done
 
 ## Weekly progress 2018/10/15~2018/10/21
 #### 1. Adjust channel values of spectral profile
