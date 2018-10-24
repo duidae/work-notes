@@ -7,6 +7,12 @@
 * [Trello](https://trello.com/b/fViU1U7v/carta-working-group)
 
 ## Weekly progress 2018/10/22~2018/10/28
+#### 1. Try get XY profile with casacore directly & refactor to concurrent
+* 猜測Carta::Lib::NdArray::RawViewInterface這種資料結構並不是thread safe的
+* [ ] 1. 直接呼叫casacore取XY profile
+* [ ] 2. 用thread平行化
+* [ ] 3. 改進raster image/histogram part
+
 #### 1. Fix spectral profile bug
 
 #### 2. Fix one issue
