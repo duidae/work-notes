@@ -12,6 +12,7 @@
 * [ ] 1. 直接呼叫casacore取XY profile
 * [ ] 2. 用thread平行化
 * [ ] 3. 改進raster image/histogram part
+* cfitsio會和zfp衝到
 
 #### 1. Fix spectral profile bug
 
