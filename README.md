@@ -6,6 +6,11 @@
 * [Slack](https://cartaviewer.slack.com/messages/C2S1R8V9P/)
 * [Trello](https://trello.com/b/fViU1U7v/carta-working-group)
 
+## Weekly progress 2018/10/29~2018/11/04
+#### 1. Concurrent histogram
+
+#### 2. Fix bug
+
 ## Weekly progress 2018/10/22~2018/10/28
 #### 1. Try get XY profile with casacore directly & refactor to concurrent
 * 猜測Carta::Lib::NdArray::RawViewInterface這種資料結構並不是thread safe的
