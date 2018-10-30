@@ -9,7 +9,7 @@
 ## Weekly progress 2018/10/29~2018/11/04
 #### 1. Concurrent histogram
 
-#### 2. Fix
+#### 2. Fix bug
 * [#68](https://github.com/CARTAvis/carta-backend/issues/68)
 
 
