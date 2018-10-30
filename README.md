@@ -9,7 +9,9 @@
 ## Weekly progress 2018/10/29~2018/11/04
 #### 1. Concurrent histogram
 
-#### 2. Fix bug
+#### 2. Fix
+* [#68](https://github.com/CARTAvis/carta-backend/issues/68)
+
 
 ## Weekly progress 2018/10/22~2018/10/28
 #### 1. Try get XY profile with casacore directly & refactor to concurrent
