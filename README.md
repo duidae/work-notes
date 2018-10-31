@@ -14,10 +14,10 @@
 
 #### 2. Fix bug
 * [#68](https://github.com/CARTAvis/carta-backend/issues/68) done
-* [#69](https://github.com/CARTAvis/carta-backend/issues/69) working
+* [#69](https://github.com/CARTAvis/carta-backend/issues/69) done
   * Assert?
+  * 學會用breakpoint
 * [#67](https://github.com/CARTAvis/carta-backend/issues/67) TODO
-
 
 ## Weekly progress 2018/10/22~2018/10/28
 #### 1. Try get XY profile with casacore directly & refactor to concurrent
