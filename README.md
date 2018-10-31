@@ -11,6 +11,7 @@
 
 #### 2. Fix bug
 * [#68](https://github.com/CARTAvis/carta-backend/issues/68)
+  * Assert?
 
 
 ## Weekly progress 2018/10/22~2018/10/28
