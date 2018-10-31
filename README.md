@@ -9,7 +9,7 @@
 ## Weekly progress 2018/10/29~2018/11/04
 #### 1. Concurrent histogram
 * 用一個空的loop sleep 500ms, 是可以平行跑, 但histogram + down sampling就不行
-* 試試拿掉casa_mutex問題在哪
+* 試試拿掉casa_mutex問題在哪: crash in quite some cubes
 * trace NRAO
 
 #### 2. Fix bug
