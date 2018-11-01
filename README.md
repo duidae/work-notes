@@ -18,10 +18,10 @@
 * [#69](https://github.com/CARTAvis/carta-backend/issues/69) done
   * Assert?
   * 學會用breakpoint
+* [#74](https://github.com/CARTAvis/carta-backend/issues/74) done
 * [#67](https://github.com/CARTAvis/carta-backend/issues/67) TODO
 * TODO: implement set_spatial_requirement
 * TODO: support HDF5
-* TODO: #74
 
 ## Weekly progress 2018/10/22~2018/10/28
 #### 1. Try get XY profile with casacore directly & refactor to concurrent
