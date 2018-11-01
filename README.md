@@ -11,6 +11,7 @@
 * 用一個空的loop sleep 500ms, 是可以平行跑, 但histogram + down sampling就不行
 * 試試拿掉casa_mutex問題在哪: crash in quite some cubes
 * trace NRAO
+* 先平行histogram calculation
 
 #### 2. Fix bug
 * [#68](https://github.com/CARTAvis/carta-backend/issues/68) done
@@ -18,6 +19,9 @@
   * Assert?
   * 學會用breakpoint
 * [#67](https://github.com/CARTAvis/carta-backend/issues/67) TODO
+* TODO: implement set_spatial_requirement
+* TODO: support HDF5
+* TODO: #74
 
 ## Weekly progress 2018/10/22~2018/10/28
 #### 1. Try get XY profile with casacore directly & refactor to concurrent
