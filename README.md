@@ -20,7 +20,7 @@
   * 學會用breakpoint
 * [#74](https://github.com/CARTAvis/carta-backend/issues/74) done
   * TODO: replace all qFatal
-* [#67](https://github.com/CARTAvis/carta-backend/issues/67) TODO
+* [#67](https://github.com/CARTAvis/carta-backend/issues/67) done
 * TODO: implement set_spatial_requirement
 * TODO: support HDF5
 
