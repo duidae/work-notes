@@ -21,7 +21,7 @@
 * [#74](https://github.com/CARTAvis/carta-backend/issues/74) done
   * TODO: replace all qFatal
 * [#67](https://github.com/CARTAvis/carta-backend/issues/67) done
-* TODO: implement set_spatial_requirement
+* implement set_spatial_requirement done
 * TODO: support HDF5
 
 ## Weekly progress 2018/10/22~2018/10/28
