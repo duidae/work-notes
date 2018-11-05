@@ -6,6 +6,16 @@
 * [Slack](https://cartaviewer.slack.com/messages/C2S1R8V9P/)
 * [Trello](https://trello.com/b/fViU1U7v/carta-working-group)
 
+## Weekly progress 2018/11/05~2018/11/11
+#### 1. Performance tuning
+* histogram
+* xyz profile
+
+#### 2. Feature implementation
+* support HDF5
+
+#### 3. Fix bug
+
 ## Weekly progress 2018/10/29~2018/11/04
 #### 1. Concurrent histogram
 * 用一個空的loop sleep 500ms, 是可以平行跑, 但histogram + down sampling就不行
