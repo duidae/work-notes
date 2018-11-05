@@ -16,6 +16,7 @@
 * support HDF5
 
 #### 3. Fix bug
+* fixed [#79](https://github.com/CARTAvis/carta-backend/issues/79)
 
 ## Weekly progress 2018/10/29~2018/11/04
 #### 1. Concurrent histogram
