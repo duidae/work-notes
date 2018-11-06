@@ -14,6 +14,7 @@
 * NRAO使用Intel Threading Building Blocks (TBB) library來處理threading
 * [Parallel Programming with Intel TBB
 ](https://rcppcore.github.io/RcppParallel/tbb.html)
+* 策略：先試以casacore直接取XYZ profile
 
 #### 2. Feature implementation
 * support HDF5
