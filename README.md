@@ -11,6 +11,7 @@
 * histogram
 * xyz profile
 * unordered_map 与 map 的区别: STL中，map 对应的数据结构是 红黑树。红黑树是一种近似于平衡的二叉查找树，里面的数据是有序的。在红黑树上做查找操作的时间复杂度为 O(logN)。而 unordered_map 对应 哈希表，哈希表的特点就是查找效率高，时间复杂度为常数级别 O(1)， 而额外空间复杂度则要高出许多。所以对于需要高效率查询的情况，使用 unordered_map 容器。而如果对内存大小比较敏感或者数据存储要求有序的话，则可以用 map 容器。
+* NRAO使用Intel Threading Building Blocks (TBB) library來處理threading
 
 #### 2. Feature implementation
 * support HDF5
