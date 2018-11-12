@@ -6,6 +6,14 @@
 * [Slack](https://cartaviewer.slack.com/messages/C2S1R8V9P/)
 * [Trello](https://trello.com/b/fViU1U7v/carta-working-group)
 
+## Weekly progress 2018/11/12~2018/11/18
+#### 1. Integrate HDF5
+
+#### 2. Integrate raster image, histogram
+
+#### 3. Fix bug
+
+
 ## Weekly progress 2018/11/05~2018/11/11
 #### 1. Performance tuning
 * histogram
@@ -14,7 +22,7 @@
 * NRAO使用Intel Threading Building Blocks (TBB) library來處理threading
 * [Parallel Programming with Intel TBB
 ](https://rcppcore.github.io/RcppParallel/tbb.html)
-* 策略：先試以casacore直接取XYZ profile
+* 策略：先試以casacore直接取XYZ profile: done
 
 #### 2. Feature implementation
 * support HDF5
