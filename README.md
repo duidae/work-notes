@@ -9,6 +9,9 @@
 ## Weekly progress 2018/11/12~2018/11/18
 #### 1. Integrate HDF5
 * Library for big data: HDF5, Redis, Memcached
+* MAC:
+  * $ brew install hdf5
+  * buildcasa.sh, add flag "-DUSE_HDF5=ON \"
 
 #### 2. Integrate raster image, histogram
 
