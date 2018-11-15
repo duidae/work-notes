@@ -16,6 +16,7 @@
 #### 2. Integrate raster image, histogram
 
 #### 3. Fix bug
+* calling casacore directly in DataSource results crash in centos
 
 
 ## Weekly progress 2018/11/05~2018/11/11
