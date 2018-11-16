@@ -250,6 +250,7 @@ using namespace casacore;
   * $ ssh schsu@almat6
   * cd /almalustre/scratch/kswang/hugeImagePool/
   * scp schsu@almat6:/almalustre/scratch/kswang/hugeImagePool/file .
+  * scp -P 31922 orion_tiled.hdf5 root@acdc0:/scratch/Images/HDF5
 
 #### 3. Add submodule to backend for protobuf
 ```
