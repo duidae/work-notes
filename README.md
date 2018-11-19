@@ -6,6 +6,13 @@
 * [Slack](https://cartaviewer.slack.com/messages/C2S1R8V9P/)
 * [Trello](https://trello.com/b/fViU1U7v/carta-working-group)
 
+## Weekly progress 2018/11/19~2018/11/25
+#### 1. Integrate HDF5
+
+#### 2. Patch set requirements
+
+#### 3. Fix bug
+
 ## Weekly progress 2018/11/12~2018/11/18
 #### 1. Integrate HDF5
 * Library for big data: HDF5, Redis, Memcached
