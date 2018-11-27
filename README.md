@@ -14,6 +14,7 @@
   * google test
   * catch
   * cpptest
+  * cppunit
 
 ## Weekly progress 2018/11/19~2018/11/25
 #### 1. Integrate HDF5
