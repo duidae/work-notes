@@ -8,6 +8,12 @@
 
 ## Weekly progress 2018/11/26~2018/12/02
 #### 1. Integrate HDF5
+#### 2. Future design/frameworks for development
+* reactive programming for backend
+* test
+  * google test
+  * catch
+  * cpptest
 
 ## Weekly progress 2018/11/19~2018/11/25
 #### 1. Integrate HDF5
