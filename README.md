@@ -19,6 +19,12 @@
   * visual leak detector
 * reactive programming in c++
   * RxCPP
+* others
+  * data visualization
+    * healpix
+  * collaborative editing
+    * togetherJS
+  * machine learning/AI
 
 ## Weekly progress 2018/11/19~2018/11/25
 #### 1. Integrate HDF5
