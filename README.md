@@ -10,11 +10,15 @@
 #### 1. Integrate HDF5
 #### 2. Future design/frameworks for development
 * reactive programming for backend
-* test
+* test for backend
   * google test
   * catch
   * cpptest
   * cppunit
+* memory leak tool
+  * visual leak detector
+* reactive programming in c++
+  * RxCPP
 
 ## Weekly progress 2018/11/19~2018/11/25
 #### 1. Integrate HDF5
