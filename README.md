@@ -9,6 +9,7 @@
 ## Weekly progress 2018/11/26~2018/12/02
 #### 1. Integrate HDF5
 * 重build casacore: 已經不用改casacore, 可以直接clone後build
+* 但用新的casacore還是不work...
 
 #### 2. Future design/frameworks for development
 * reactive programming for backend
