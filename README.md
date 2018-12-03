@@ -6,6 +6,9 @@
 * [Slack](https://cartaviewer.slack.com/messages/C2S1R8V9P/)
 * [Trello](https://trello.com/b/fViU1U7v/carta-working-group)
 
+## Weekly progress 2018/12/03~2018/12/09
+[writing thread safe code](http://bluelove1968.pixnet.net/blog/post/222276799-%E8%A8%AD%E8%A8%88%E5%8F%AF%E9%87%8D%E5%85%A5%E5%92%8C%E5%9F%B7%E8%A1%8C%E7%B7%92%E5%AE%89%E5%85%A8%E7%9A%84%E7%A8%8B%E5%BC%8F%E7%A2%BC%28writing-reentr)
+
 ## Weekly progress 2018/11/26~2018/12/02
 #### 1. Integrate HDF5
 * 重build casacore: 已經不用改casacore, 可以直接clone後build
