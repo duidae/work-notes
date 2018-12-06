@@ -21,6 +21,8 @@
          -DDATA_DIR=/usr/share/casacore/data
   * backend
     * $ cmake -DCMAKE_CXX_FLAGS="-I /usr/local/casacore/include" -DCMAKE_CXX_STANDARD_LIBRARIES="-L /usr/local/casacore/lib -L /usr/local/lib" ..
+    * $ LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/casacore/lib
+    * $ export LD_LIBRARY_PATH
     
 * [writing thread safe code](http://bluelove1968.pixnet.net/blog/post/222276799-%E8%A8%AD%E8%A8%88%E5%8F%AF%E9%87%8D%E5%85%A5%E5%92%8C%E5%9F%B7%E8%A1%8C%E7%B7%92%E5%AE%89%E5%85%A8%E7%9A%84%E7%A8%8B%E5%BC%8F%E7%A2%BC%28writing-reentr)
 
