@@ -7,6 +7,20 @@
 * [Trello](https://trello.com/b/fViU1U7v/carta-working-group)
 
 ## Weekly progress 2018/12/03~2018/12/09
+* build nrao backend on ubuntu
+  * casacore
+    * cmake .. -DCMAKE_INSTALL_PREFIX=/usr/local/casacore \
+         -DUSE_FFTW3=ON \
+         -DUSE_HDF5=ON \
+         -DUSE_THREADS=ON \
+         -DUSE_OPENMP=ON \
+         -DCMAKE_BUILD_TYPE=Release \
+         -DBUILD_TESTING=OFF \
+         -DBoost_NO_BOOST_CMAKE=1 \
+         -DBUILD_PYTHON=OFF \
+         -DDATA_DIR=/usr/share/casacore/data
+  * backend
+    * $ cmake -DCMAKE_CXX_FLAGS="-I /usr/local/casacore/include" -DCMAKE_CXX_STANDARD_LIBRARIES="-L /usr/local/casacore/lib -L /usr/local/lib" ..
 [writing thread safe code](http://bluelove1968.pixnet.net/blog/post/222276799-%E8%A8%AD%E8%A8%88%E5%8F%AF%E9%87%8D%E5%85%A5%E5%92%8C%E5%9F%B7%E8%A1%8C%E7%B7%92%E5%AE%89%E5%85%A8%E7%9A%84%E7%A8%8B%E5%BC%8F%E7%A2%BC%28writing-reentr)
 
 ## Weekly progress 2018/11/26~2018/12/02
