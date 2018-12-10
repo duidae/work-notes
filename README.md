@@ -6,6 +6,9 @@
 * [Slack](https://cartaviewer.slack.com/messages/C2S1R8V9P/)
 * [Trello](https://trello.com/b/fViU1U7v/carta-working-group)
 
+## Weekly progress 2018/12/10~2018/12/16
+* 1. fix nrao issue
+
 ## Weekly progress 2018/12/03~2018/12/09
 * build nrao backend on ubuntu
   * casacore
