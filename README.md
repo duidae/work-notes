@@ -7,7 +7,7 @@
 * [Trello](https://trello.com/b/fViU1U7v/carta-working-group)
 
 ## Weekly progress 2018/12/10~2018/12/16
-* 1. fix nrao issue
+#### 1. fix nrao issue
 
 ## Weekly progress 2018/12/03~2018/12/09
 * build nrao backend on ubuntu
