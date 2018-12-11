@@ -8,6 +8,8 @@
 
 ## Weekly progress 2018/12/10~2018/12/16
 #### 1. fix nrao issue
+* [#11](https://github.com/CARTAvis/nrao-carta-backend/issues/11) done
+* [#5](https://github.com/CARTAvis/nrao-carta-backend/issues/5)
 
 ## Weekly progress 2018/12/03~2018/12/09
 * build nrao backend on ubuntu
