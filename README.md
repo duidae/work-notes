@@ -6,6 +6,9 @@
 * [Slack](https://cartaviewer.slack.com/messages/C2S1R8V9P/)
 * [Trello](https://trello.com/b/fViU1U7v/carta-working-group)
 
+## Weekly progress 2018/12/17~2018/12/23
+#### 1. fix nrao issue
+
 ## Weekly progress 2018/12/10~2018/12/16
 #### 1. fix nrao issue
 * [#11](https://github.com/CARTAvis/nrao-carta-backend/issues/11) done
