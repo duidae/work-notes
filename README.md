@@ -9,7 +9,7 @@
 ## Weekly progress 2018/12/24~2018/12/30
 #### 1. brainstorming for f2f meeting
 * MEDIATOR design pattern
-* 看Martin Fowler
+* 看Martin Fowler的另外一本書
 
 ## Weekly progress 2018/12/17~2018/12/23
 #### 1. fix nrao issue
