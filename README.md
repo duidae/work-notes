@@ -10,7 +10,7 @@
 #### 1. Trace nrao backend
 * move semantics: std::move
   * shallow copy, 在不發生深度拷貝的前提下把資源從a處弄到b處, 移動函式必須將原移動對象歸零，指向nullptr
-  * [ref](https://charlottehong.blogspot.com/2017/03/stdmove.html)
+  * [std::move](https://charlottehong.blogspot.com/2017/03/stdmove.html)
 * unique_ptr: avoid memory leak
 
 ## Weekly progress 2018/12/24~2018/12/30
