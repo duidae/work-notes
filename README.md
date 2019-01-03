@@ -12,7 +12,7 @@
   * shallow copy, 在不發生深度拷貝的前提下把資源從a處弄到b處, 移動函式必須將原移動對象歸零，指向nullptr
   * [std::move](https://charlottehong.blogspot.com/2017/03/stdmove.html)
 * unique_ptr: avoid memory leak
-* 為何main.cc裡sessions, animationQueues, fileSettings要用pointer?
+* 為何main.cc裡sessions, animationQueues, fileSettings的value要用pointer?
 ```
 unordered_map<key_type, Session*> sessions;
 unordered_map<key_type, carta::AnimationQueue*> animationQueues;
