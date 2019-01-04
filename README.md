@@ -21,6 +21,8 @@ unordered_map<key_type, carta::FileSettings*> fileSettings;
 * gdb
   * [Debugging with GDB （入門篇）](http://www.study-area.org/goldencat/debug.htm)
   * [GDB 使用教學](https://henrybear327.gitbooks.io/gitbook_tutorial/content/Linux/GDB/index.html)
+* concurrent
+  * [C++ Concurrency In Action](https://chenxiaowei.gitbooks.io/cpp_concurrency_in_action/?fbclid=IwAR1ld-A9Kc7xWWqri2PAW5r_CccFrytyE4VnTPlHheVCa7CKOPD3zZJ1j8Y)
 
 ## Weekly progress 2018/12/24~2018/12/30
 #### 1. brainstorming for f2f meeting
