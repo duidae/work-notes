@@ -18,6 +18,9 @@ unordered_map<key_type, Session*> sessions;
 unordered_map<key_type, carta::AnimationQueue*> animationQueues;
 unordered_map<key_type, carta::FileSettings*> fileSettings;
 ```
+* gdb
+  * [Debugging with GDB （入門篇）](http://www.study-area.org/goldencat/debug.htm)
+  * [GDB 使用教學](https://henrybear327.gitbooks.io/gitbook_tutorial/content/Linux/GDB/index.html)
 
 ## Weekly progress 2018/12/24~2018/12/30
 #### 1. brainstorming for f2f meeting
