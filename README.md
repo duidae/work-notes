@@ -6,6 +6,9 @@
 * [Slack](https://cartaviewer.slack.com/messages/C2S1R8V9P/)
 * [Trello](https://trello.com/b/fViU1U7v/carta-working-group)
 
+## Weekly progress 2019/01/14~2019/01/20
+#### 1. Trace for fully support HDF5
+
 ## Weekly progress 2019/01/07~2019/01/13
 #### 1. brainstorming for f2f meeting
 
