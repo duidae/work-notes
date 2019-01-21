@@ -8,7 +8,7 @@
 
 ## Weekly progress 2019/01/21~2019/01/27
 #### 1. Survey test
-[Selenium](https://blog.toright.com/posts/4268/%E6%8C%81%E7%BA%8C%E6%95%B4%E5%90%88-%E9%80%8F%E9%81%8E-selenium-%E5%AF%A6%E7%8F%BE%E8%87%AA%E5%8B%95%E5%8C%96%E6%B8%AC%E8%A9%A6.html)
+* [Selenium](https://blog.toright.com/posts/4268/%E6%8C%81%E7%BA%8C%E6%95%B4%E5%90%88-%E9%80%8F%E9%81%8E-selenium-%E5%AF%A6%E7%8F%BE%E8%87%AA%E5%8B%95%E5%8C%96%E6%B8%AC%E8%A9%A6.html)
 
 #### 2. face to face meeting in South Africa
 
