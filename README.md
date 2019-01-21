@@ -9,7 +9,20 @@
 ## Weekly progress 2019/01/21~2019/01/27
 #### 1. Survey test
 * [Selenium](https://blog.toright.com/posts/4268/%E6%8C%81%E7%BA%8C%E6%95%B4%E5%90%88-%E9%80%8F%E9%81%8E-selenium-%E5%AF%A6%E7%8F%BE%E8%87%AA%E5%8B%95%E5%8C%96%E6%B8%AC%E8%A9%A6.html)
-* [](https://www.ithome.com.tw/node/61283)
+* [約耳趣談軟體](https://www.ithome.com.tw/node/61283)
+* The Joel test
+  1.  Do you use source control?
+  2. Can you make a build in one step?
+  3. Do you make daily builds?
+Do you have a bug database?
+Do you fix bugs before writing new code?
+Do you have an up-to-date schedule?
+Do you have a spec?
+Do programmers have quiet working conditions?
+Do you use the best tools money can buy?
+Do you have testers?
+Do new candidates write code during their interview?
+Do you do hallway usability testing?
 
 #### 2. face to face meeting in South Africa
 
