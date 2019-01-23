@@ -25,6 +25,7 @@
   12. Do you do hallway usability testing?
 
 #### 2. face to face meeting in South Africa
+* aladin https://aladin.u-strasbg.fr/HiPS/
 
 ## Weekly progress 2019/01/14~2019/01/20
 #### 1. Trace for fully support HDF5
