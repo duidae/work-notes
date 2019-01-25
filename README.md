@@ -24,6 +24,7 @@
   11. Do new candidates write code during their interview?
   12. Do you do hallway usability testing?
 * [booklist](https://dotblogs.com.tw/hatelove/2017/06/07/agile-and-software-development-recommend-books)
+* install CASA viewer
 
 #### 2. face to face meeting in South Africa
 * aladin https://aladin.u-strasbg.fr/HiPS/
