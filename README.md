@@ -22,6 +22,7 @@
   * test document
   
 #### 2. Frontend feature: Region
+* 想一下怎麼表現進度
 
 ## Weekly progress 2019/01/21~2019/01/27
 #### 1. Survey test
