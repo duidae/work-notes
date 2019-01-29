@@ -16,7 +16,7 @@
   * Backend connected
 * tool:
   * selenium
-* result:
+* works:
   * 自動化的測試模組
   * test cases
   * test document
