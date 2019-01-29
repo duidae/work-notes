@@ -17,7 +17,7 @@
 * tool:
   * selenium
 * works:
-  * 自動化的測試模組
+  * 自動化的測試模組: chrome, firefox, safari
   * test cases
   * test document
   
