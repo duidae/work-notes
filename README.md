@@ -17,6 +17,10 @@
   * Backend connected
 * tool:
   * selenium
+* result:
+  * 自動化的測試模組
+  * test cases
+  * test document
 
 ## Weekly progress 2019/01/21~2019/01/27
 #### 1. Survey test
