@@ -7,8 +7,7 @@
 * [Trello](https://trello.com/b/fViU1U7v/carta-working-group)
 
 ## Weekly progress 2019/01/28~2019/02/03
-#### 1. Frontend feature: Region
-#### 2. Frontend test
+#### 1. Frontend test
 * goal:
   * funtional test for frontend only
   * automated
@@ -21,6 +20,8 @@
   * 自動化的測試模組
   * test cases
   * test document
+  
+#### 2. Frontend feature: Region
 
 ## Weekly progress 2019/01/21~2019/01/27
 #### 1. Survey test
