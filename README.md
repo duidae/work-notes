@@ -20,6 +20,8 @@
   * 自動化的測試模組: chrome, firefox, safari
   * test cases
   * test document
+* ref:
+  * https://www.slideshare.net/ssusercab70d/ss-64497675
   
 #### 2. Frontend feature: Region
 * 想一下怎麼表現進度: SMART, 用data visualization tool來表示, 甘特圖, milestone, psuedo steps,
