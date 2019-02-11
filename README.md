@@ -6,6 +6,10 @@
 * [Slack](https://cartaviewer.slack.com/messages/C2S1R8V9P/)
 * [Trello](https://trello.com/b/fViU1U7v/carta-working-group)
 
+## Weekly progress 2019/02/11~2019/02/17
+#### 1. Frontend test
+#### 2. Frontend feat implementation
+
 ## Weekly progress 2019/01/28~2019/02/03
 #### 1. Frontend test
 * goal:
