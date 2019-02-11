@@ -11,7 +11,7 @@
 #### 2. Frontend feat implementation
 
 ## Weekly progress 2019/02/04~2019/02/10
-#### 
+#### 過年
 
 ## Weekly progress 2019/01/28~2019/02/03
 #### 1. Frontend test
