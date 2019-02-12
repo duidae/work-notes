@@ -16,7 +16,7 @@
 * test server: https://carta.asiaa.sinica.edu.tw/
 
 #### 2. Frontend feat implementation
-* https://github.com/CARTAvis/carta-frontend/issues/56
+* issue: [frontend: 56](https://github.com/CARTAvis/carta-frontend/issues/56)
 * Region: src/components/ImageView/RegionView
 
 ## Weekly progress 2019/02/04~2019/02/10
