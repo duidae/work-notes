@@ -15,6 +15,7 @@
 * CasperJS、Nighmare、Nightwatch、Dalekjs
 
 #### 2. Frontend feat implementation
+* Region: src/components/ImageView/RegionView
 
 ## Weekly progress 2019/02/04~2019/02/10
 #### 過年
