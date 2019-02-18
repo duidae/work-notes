@@ -6,6 +6,10 @@
 * [Slack](https://cartaviewer.slack.com/messages/C2S1R8V9P/)
 * [Trello](https://trello.com/b/fViU1U7v/carta-working-group)
 
+## Weekly progress 2019/02/18~2019/02/24
+#### 1. Frontend feature: profiler
+* [binary search](https://codeburst.io/binary-search-in-javascript-a-practical-example-7fda60ce59a1)
+
 ## Weekly progress 2019/02/11~2019/02/17
 #### 1. Frontend test
 * [An Overview of JavaScript Testing in 2018](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3)
