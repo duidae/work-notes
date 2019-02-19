@@ -10,7 +10,7 @@
 #### 1. Frontend feature: profiler
 * [binary search for UI curves](https://codeburst.io/binary-search-in-javascript-a-practical-example-7fda60ce59a1)
 
-#### 2. Frontend test
+#### 2. Frontend test - 本週目標： simple test + CI
 * firebug
 * [selenium+CI](https://ithelp.ithome.com.tw/articles/10204846?sc=iThelpR)
 * selenium IDE 錄test cases -> jenkins自動執行test cases -> 產生test report 
