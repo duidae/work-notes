@@ -13,6 +13,7 @@
 #### 2. Frontend test
 * firebug
 * [selenium+CI](https://ithelp.ithome.com.tw/articles/10204846?sc=iThelpR)
+* selenium IDE 錄test cases -> jenkins自動執行test cases -> 產生test report 
 
 ## Weekly progress 2019/02/11~2019/02/17
 #### 1. Frontend test
