@@ -10,8 +10,9 @@
 #### 1. Frontend feature: profiler
 * [binary search for UI curves](https://codeburst.io/binary-search-in-javascript-a-practical-example-7fda60ce59a1)
 
-#### 2. reference
+#### 2. Frontend test
 * firebug
+* [selenium+CI](https://ithelp.ithome.com.tw/articles/10204846?sc=iThelpR)
 
 ## Weekly progress 2019/02/11~2019/02/17
 #### 1. Frontend test
