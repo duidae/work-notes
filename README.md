@@ -8,7 +8,10 @@
 
 ## Weekly progress 2019/02/18~2019/02/24
 #### 1. Frontend feature: profiler
-* [binary search](https://codeburst.io/binary-search-in-javascript-a-practical-example-7fda60ce59a1)
+* [binary search for UI curves](https://codeburst.io/binary-search-in-javascript-a-practical-example-7fda60ce59a1)
+
+#### 2. reference
+* firebug
 
 ## Weekly progress 2019/02/11~2019/02/17
 #### 1. Frontend test
