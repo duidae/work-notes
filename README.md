@@ -23,6 +23,7 @@
 * [TestCafe 自動化端對端測試工具](https://medium.com/@nightspirit622/testcafe-%E8%87%AA%E5%8B%95%E5%8C%96%E7%AB%AF%E5%B0%8D%E7%AB%AF%E6%B8%AC%E8%A9%A6%E5%B7%A5%E5%85%B7-bac1b843c6e5)
 * CasperJS、Nighmare、Nightwatch、Dalekjs
 * test server: https://carta.asiaa.sinica.edu.tw/
+* reassign to performance test
 
 #### 2. Frontend feat implementation
 * issue: [frontend: 56](https://github.com/CARTAvis/carta-frontend/issues/56)
