@@ -6,6 +6,11 @@
 * [Slack](https://cartaviewer.slack.com/messages/C2S1R8V9P/)
 * [Trello](https://trello.com/b/fViU1U7v/carta-working-group)
 
+## Weekly progress 2019/02/25~2019/03/03
+#### Goal(Wed):
+* [#140](https://github.com/CARTAvis/carta-frontend/issues/140) fixed
+* 1 performance test case implemented
+
 ## Weekly progress 2019/02/18~2019/02/24
 #### 1. Frontend feature: profiler
 * [binary search for UI curves](https://codeburst.io/binary-search-in-javascript-a-practical-example-7fda60ce59a1)
