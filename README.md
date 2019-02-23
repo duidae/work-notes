@@ -12,6 +12,11 @@
 * [#123](https://github.com/CARTAvis/carta-frontend/issues/123) fixed
 * 1 performance test case implemented
 
+#### Performance test
+* [X] 看懂ICD test 
+* [ ] implement 1 test case
+* [ ] 
+
 ## Weekly progress 2019/02/18~2019/02/24
 #### 1. Frontend feature: profiler
 * [binary search for UI curves](https://codeburst.io/binary-search-in-javascript-a-practical-example-7fda60ce59a1)
