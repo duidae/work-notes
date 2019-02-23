@@ -15,7 +15,7 @@
 #### Performance test
 * [X] 看懂ICD test 
 * [ ] implement 1 test case
-* [ ] 
+* [ ] implement open image set
 
 ## Weekly progress 2019/02/18~2019/02/24
 #### 1. Frontend feature: profiler
