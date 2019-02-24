@@ -9,6 +9,7 @@
 ## Weekly progress 2019/02/25~2019/03/03
 #### Goal(Wed):
 * [#140](https://github.com/CARTAvis/carta-frontend/issues/140) fixed
+  * 
 * [#123](https://github.com/CARTAvis/carta-frontend/issues/123) fixed
 * 1 performance test case implemented
 
