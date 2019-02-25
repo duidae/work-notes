@@ -10,7 +10,7 @@
 #### Goal(Wed):
 * [#140](https://github.com/CARTAvis/carta-frontend/issues/140) fixed
   * 
-* [#123](https://github.com/CARTAvis/carta-frontend/issues/123) fixed
+* [#123](https://github.com/CARTAvis/carta-frontend/issues/123) fixed done
 * 1 performance test case implemented
 
 #### Performance test
