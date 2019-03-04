@@ -8,7 +8,7 @@
 
 ## Weekly progress 2019/03/04~2019/03/10
 #### Goal:
-* 1 set performance test case implemented
+* open image set test case implemented
 
 ## Weekly progress 2019/02/25~2019/03/03
 #### Goal(Wed):
