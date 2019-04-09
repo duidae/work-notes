@@ -6,6 +6,14 @@
 * [Slack](https://cartaviewer.slack.com/messages/C2S1R8V9P/)
 * [Trello](https://trello.com/b/fViU1U7v/carta-working-group)
 
+## Weekly progress 2019/04/08~2019/04/14
+* [#149] fixed
+* git rebase
+  * $ git pull origin master --rebase
+  * $ git push --force-with-lease
+
+## Weekly progress 2019/04/01~2019/04/07
+
 ## Weekly progress 2019/03/25~2019/03/31
 
 ## Weekly progress 2019/03/18~2019/03/24
