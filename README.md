@@ -12,7 +12,7 @@
   * $ git pull origin master --rebase
   * $ git push --force-with-lease
 * build production:
-  * $ cd <root of frontend repo>
+  * $ cd "root of frontend repo"
   * $ npm run build
   * $ cd build
   * $ npx serve
