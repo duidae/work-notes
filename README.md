@@ -11,6 +11,12 @@
 * git rebase
   * $ git pull origin master --rebase
   * $ git push --force-with-lease
+* build production:
+  * $ cd <root of frontend repo>
+  * $ npm run build
+  * $ cd build
+  * $ npx serve
+  * http://localhost:5000/
 
 ## Weekly progress 2019/04/01~2019/04/07
 
