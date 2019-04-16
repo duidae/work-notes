@@ -163,7 +163,10 @@ unordered_map<key_type, carta::FileSettings*> fileSettings;
          -DBUILD_PYTHON=OFF \
          -DDATA_DIR=/usr/share/casacore/data
   * backend
-    * $ cmake -DCMAKE_CXX_FLAGS="-I /usr/local/casacore/include -I /usr/local/zfp/include" -DCMAKE_CXX_STANDARD_LIBRARIES="-L /usr/local/casacore/lib -L /usr/local/lib -L /usr/local/openssl/lib" ..
+    * ubuntu:
+      * $ cmake -DCMAKE_CXX_FLAGS="-I /usr/local/casacore/include -I /usr/local/zfp/include" -DCMAKE_CXX_STANDARD_LIBRARIES="-L /usr/local/casacore/lib -L /usr/local/lib -L /usr/local/openssl/lib" ..
+    * mac: 
+      * cmake -DCMAKE_CXX_FLAGS="-I /usr/local/casacore/include -I /usr/local/fmt/include -I /usr/local/Cellar/tbb/2019_U3_1/include -I /usr/local/include -I /usr/local/Cellar/openssl/1.0.2p/include -I /usr/local/zfp/include" -DCMAKE_CXX_STANDARD_LIBRARIES="-L /usr/local/casacore/lib -L /usr/local/lib -L /usr/local/Cellar/openssl/1.0.2p/lib -L /usr/local/fmt/lib -L /usr/local/zfp/lib -luWS" ..
     * $ LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/casacore/lib
     * $ export LD_LIBRARY_PATH
     
