@@ -9,8 +9,8 @@
 ## Weekly progress 2019/04/22~2019/04/28
 * update package
   * $ npm outdated
-  * $ npm update <package name> --save
-  * $ npm install <package name>@latest --save
+  * $ npm update package_name --save
+  * $ npm install package_name@latest --save
 
 ## Weekly progress 2019/04/15~2019/04/21
 
