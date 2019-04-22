@@ -6,6 +6,14 @@
 * [Slack](https://cartaviewer.slack.com/messages/C2S1R8V9P/)
 * [Trello](https://trello.com/b/fViU1U7v/carta-working-group)
 
+## Weekly progress 2019/04/22~2019/04/28
+* update package
+  * $ npm outdated
+  * $ npm update <package name> --save
+  * $ npm install <package name>@latest --save
+
+## Weekly progress 2019/04/15~2019/04/21
+
 ## Weekly progress 2019/04/08~2019/04/14
 * [#149] fixed
 * git rebase
