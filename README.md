@@ -11,6 +11,7 @@
   * $ npm outdated
   * $ npm update package_name --save
   * $ npm install package_name@latest --save
+* $ cmake -DCMAKE_BUILD_TYPE=Release
 
 ## Weekly progress 2019/04/15~2019/04/21
 
