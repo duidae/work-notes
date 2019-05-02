@@ -6,6 +6,11 @@
 * [Slack](https://cartaviewer.slack.com/messages/C2S1R8V9P/)
 * [Trello](https://trello.com/b/fViU1U7v/carta-working-group)
 
+## Weekly progress 2019/04/29~2019/05/05
+* next release features:
+  * Layouts (Jason)
+  * Polygon and point regions (frontend) (Either AC or Jason)
+
 ## Weekly progress 2019/04/22~2019/04/28
 * update package
   * $ npm outdated
