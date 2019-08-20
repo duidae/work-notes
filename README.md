@@ -6,6 +6,12 @@
 * [Slack](https://cartaviewer.slack.com/messages/C2S1R8V9P/)
 * [Trello](https://trello.com/b/fViU1U7v/carta-working-group)
 
+## Weekly progress 2019/08/19~2019/08/25
+* build casacode:
+  * $ sudo cmake .. -Darch=linux -DCMAKE_BUILD_TYPE=Release -DINTERACTIVE_ITERATION=1 -DUseCrashReporter=0 -DCMAKE_INSTALL_PREFIX=/usr/local -DCXX11=1 -DCASACORE_ROOT_DIR=/usr/local/casacore
+* build backend:
+  * $ cmake -DCMAKE_CXX_FLAGS="-I /usr/local/casacore/include/casacore -I /usr/local/casacore/include -I /usr/local/zfp/include -I/usr/local/include/casacode" -DCMAKE_CXX_STANDARD_LIBRARIES="-L /usr/local/casacore/lib -L /usr/local/lib -L /usr/local/openssl/lib -limageanalysis" ..
+
 ## Weekly progress 2019/04/29~2019/05/05
 * next release features:
   * Layouts (Jason)
