@@ -8,10 +8,10 @@
 
 ## Weekly progress 2019/12/09~2019/12/15
 * casacore ppa for ubuntu
-  * add-apt-repository ppa:cartavis/carta-casacore
-  * apt-get -y install carta-casacore
+  * $ add-apt-repository ppa:cartavis/carta-casacore
+  * $ apt-get -y install carta-casacore
   * The carta-backend cmake command is then:
-    * cmake .. -DCMAKE_CXX_FLAGS="-I /usr/include/casacode"
+    * $ cmake .. -DCMAKE_CXX_FLAGS="-I /usr/include/casacode"
 
 ## Weekly progress 2019/08/19~2019/08/25
 * build casacode in Ubuntu:
