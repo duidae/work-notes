@@ -12,6 +12,9 @@
   * $ apt-get -y install carta-casacore
   * The carta-backend cmake command is then:
     * $ cmake .. -DCMAKE_CXX_FLAGS="-I /usr/include/casacode"
+* customized casacore repo for CARTA:
+  * https://open-bitbucket.nrao.edu/projects/CASA/repos/carta-casacore/browse
+  * The only change needed for the carta_backend CMakeLists.txt is to change “imageanalysis” to “casa_imageanalysis” and change “-limageanalysis” to “-lcasa_imageanalysis” in the cmake command.
 
 ## Weekly progress 2019/08/19~2019/08/25
 * build casacode in Ubuntu:
