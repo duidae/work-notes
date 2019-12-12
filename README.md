@@ -6,6 +6,13 @@
 * [Slack](https://cartaviewer.slack.com/messages/C2S1R8V9P/)
 * [Trello](https://trello.com/b/fViU1U7v/carta-working-group)
 
+## Weekly progress 2019/12/09~2019/12/15
+* casacore ppa for ubuntu
+ * add-apt-repository ppa:cartavis/carta-casacore
+ * apt-get -y install carta-casacore
+ * The carta-backend cmake command is then:
+  * cmake .. -DCMAKE_CXX_FLAGS="-I /usr/include/casacode"
+
 ## Weekly progress 2019/08/19~2019/08/25
 * build casacode in Ubuntu:
   * $ sudo cmake .. -Darch=linux -DCMAKE_BUILD_TYPE=Release -DINTERACTIVE_ITERATION=1 -DUseCrashReporter=0 -DCMAKE_INSTALL_PREFIX=/usr/local -DCXX11=1 -DCASACORE_ROOT_DIR=/usr/local/casacore
