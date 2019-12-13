@@ -14,6 +14,7 @@
     * $ cmake .. -DCMAKE_CXX_FLAGS="-I /usr/include/casacode"
 * customized casacore repo for CARTA:
   * https://open-bitbucket.nrao.edu/projects/CASA/repos/carta-casacore/browse
+  * $ cmake .. -DCMAKE_INSTALL_PREFIX=/usr/local/carta-casacore -DUSE_FFTW3=ON -DUSE_HDF5=ON -DUSE_THREADS=ON -DUSE_OPENMP=ON -DCMAKE_BUILD_TYPE=Release -DBUILD_TESTING=OFF -DBoost_NO_BOOST_CMAKE=1 -DBUILD_PYTHON=OFF -DUseCcache=1 -DHAS_CXX11=1 -DDATA_DIR=/usr/share/casacore/data
   * The only change needed for the carta_backend CMakeLists.txt is to change “imageanalysis” to “casa_imageanalysis” and change “-limageanalysis” to “-lcasa_imageanalysis” in the cmake command.
 
 ## Weekly progress 2019/08/19~2019/08/25
