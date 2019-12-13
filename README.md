@@ -7,7 +7,7 @@
 * [Trello](https://trello.com/b/fViU1U7v/carta-working-group)
 
 ## Weekly progress 2019/12/09~2019/12/15
-* casacore ppa for ubuntu
+* casacore ppa for ubuntu(not woking for ver. 19.04)
   * $ add-apt-repository ppa:cartavis/carta-casacore
   * $ apt-get -y install carta-casacore
   * The carta-backend cmake command is then:
