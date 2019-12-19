@@ -18,6 +18,8 @@
     * build carta backend
       * $ cmake .. -DCMAKE_CXX_FLAGS="-I /usr/local/carta-casacore/include/casacore -I /usr/local/carta-casacore/include -I /usr/local/fmt/include" -DCMAKE_CXX_STANDARD_LIBRARIES="-L /usr/local/carta-casacore/lib -L /usr/local/fmt/lib"
       * libfmt-dev 5.2.1+ds-2 of ubuntu 19.04 (disco dingo) not working...build fmt-6.1.2 from github release repo
+    * build carta backend (server)
+      * $ cmake .. -DCMAKE_CXX_FLAGS="-I /usr/local/carta-casacore/include/casacore -I /usr/local/carta-casacore/include -I /usr/local/fmt/include" -DCMAKE_CXX_STANDARD_LIBRARIES="-L /usr/local/carta-casacore/lib -L /usr/local/fmt/lib" -DAuthServer=ON
 
 ## Weekly progress 2019/08/19~2019/08/25
 * build casacode in Ubuntu:
