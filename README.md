@@ -6,20 +6,29 @@
 * [Slack](https://cartaviewer.slack.com/messages/C2S1R8V9P/)
 * [Trello](https://trello.com/b/fViU1U7v/carta-working-group)
 
+## Weekly progress 2020/01/20~2020/01/26
+* mongoDB commands:
+  * $ use CARTA
+  * $ db.layouts.find()
+  * $ db.preferences.find()
+  * cls
+
 ## Weekly progress 2019/12/09~2019/12/15
-* casacore ppa for ubuntu(not woking for ver. 19.04)
-  * $ add-apt-repository ppa:cartavis/carta-casacore
-  * $ apt-get -y install carta-casacore
-  * The carta-backend cmake command is then:
-    * $ cmake .. -DCMAKE_CXX_FLAGS="-I /usr/include/casacode"
+* server version hack in frontend:
+  * just change supportsServerLayout in AppStore to false when connecting to DB activated backend
 * customized casacore repo for CARTA:
   * https://open-bitbucket.nrao.edu/projects/CASA/repos/carta-casacore/browse
   * $ cmake .. -DCMAKE_INSTALL_PREFIX=/usr/local/carta-casacore -DUSE_FFTW3=ON -DUSE_HDF5=ON -DUSE_THREADS=ON -DUSE_OPENMP=ON -DCMAKE_BUILD_TYPE=Release -DBUILD_TESTING=OFF -DBoost_NO_BOOST_CMAKE=1 -DBUILD_PYTHON=OFF -DUseCcache=1 -DHAS_CXX11=1 -DDATA_DIR=/usr/share/casacore/data
     * build carta backend
       * $ cmake .. -DCMAKE_CXX_FLAGS="-I /usr/local/carta-casacore/include/casacore -I /usr/local/carta-casacore/include -I /usr/local/fmt/include" -DCMAKE_CXX_STANDARD_LIBRARIES="-L /usr/local/carta-casacore/lib -L /usr/local/fmt/lib"
       * libfmt-dev 5.2.1+ds-2 of ubuntu 19.04 (disco dingo) not working...build fmt-6.1.2 from github release repo
-    * build carta backend (server)
+    * build carta backend (server): append -DAuthServer=ON
       * $ cmake .. -DCMAKE_CXX_FLAGS="-I /usr/local/carta-casacore/include/casacore -I /usr/local/carta-casacore/include -I /usr/local/fmt/include" -DCMAKE_CXX_STANDARD_LIBRARIES="-L /usr/local/carta-casacore/lib -L /usr/local/fmt/lib" -DAuthServer=ON
+* casacore ppa for ubuntu(not woking for ver. 19.04)
+  * $ add-apt-repository ppa:cartavis/carta-casacore
+  * $ apt-get -y install carta-casacore
+  * The carta-backend cmake command is then:
+    * $ cmake .. -DCMAKE_CXX_FLAGS="-I /usr/include/casacode"
 
 ## Weekly progress 2019/08/19~2019/08/25
 * build casacode in Ubuntu:
