@@ -6,6 +6,10 @@
 * [Slack](https://cartaviewer.slack.com/messages/C2S1R8V9P/)
 * [Trello](https://trello.com/b/fViU1U7v/carta-working-group)
 
+## Weekly progress 2020/02/17~2020/02/23
+* AST lib doc online: http://starlink.eao.hawaii.edu/devdocs/sun211.htx/sun211.html#toc
+* Fits standard 4.0: https://fits.gsfc.nasa.gov/standard40/fits_standard40aa-le.pdf
+
 ## Weekly progress 2020/01/20~2020/01/26
 * mongoDB commands:
   * $ use CARTA
