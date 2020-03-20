@@ -13,6 +13,8 @@
   * The carta-backend cmake command is then:
     * $ cmake .. -DCMAKE_CXX_FLAGS="-I /usr/include/casacode -I /usr/local/fmt/include" -DCMAKE_CXX_STANDARD_LIBRARIES="-L /usr/local/fmt/lib"
     * libfmt-dev 5.2.1+ds-2 of ubuntu 19.10 not working...build fmt-6.1.2 from github release repo
+* run frontend test (src/test)
+  * $ npm test src/test/bineary_search.test.ts
 
 ## Weekly progress 2020/02/17~2020/02/23
 * AST lib doc online: http://starlink.eao.hawaii.edu/devdocs/sun211.htx/sun211.html#toc
