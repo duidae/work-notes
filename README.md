@@ -6,6 +6,10 @@
 * [Slack](https://cartaviewer.slack.com/messages/C2S1R8V9P/)
 * [Trello](https://trello.com/b/fViU1U7v/carta-working-group)
 
+## Weekly progress 2020/03/23~2020/03/29
+* check npm local package version
+  * $ npm list --depth=0
+
 ## Weekly progress 2020/03/16~2020/03/22
 * casacore ppa for ubuntu(woking for ver. 19.10)
   * $ add-apt-repository ppa:cartavis/carta-casacore
