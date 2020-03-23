@@ -9,6 +9,10 @@
 ## Weekly progress 2020/03/23~2020/03/29
 * check npm local package version
   * $ npm list --depth=0
+* npm package.json version issues
+  * source https://docs.npmjs.com/files/package.json
+  * ~version “Approximately equivalent to version” See semver
+  * ^version “Compatible with version” See semver
 
 ## Weekly progress 2020/03/16~2020/03/22
 * casacore ppa for ubuntu(woking for ver. 19.10)
