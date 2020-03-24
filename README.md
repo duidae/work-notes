@@ -19,8 +19,8 @@
 
 ## Weekly progress 2020/03/16~2020/03/22
 * casacore ppa for ubuntu(woking for ver. 19.10)
-  * $ add-apt-repository ppa:cartavis/carta-casacore
-  * $ apt-get -y install carta-casacore
+  * $ sudo add-apt-repository ppa:cartavis/carta-casacore
+  * $ sudo apt-get -y install carta-casacore
   * The carta-backend cmake command is then:
     * $ cmake .. -DCMAKE_CXX_FLAGS="-I /usr/include/casacode -I /usr/local/fmt/include" -DCMAKE_CXX_STANDARD_LIBRARIES="-L /usr/local/fmt/lib"
     * libfmt-dev 5.2.1+ds-2 of ubuntu 19.10 not working...build fmt-6.1.2 from github release repo
