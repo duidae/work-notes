@@ -19,6 +19,7 @@
   * $ git cherry-pick: 選想要的commit增加到另一個branch上
   * $ git remote show origin
   * $ git remote prune origin
+  * $ git remote update -p  ()
 
 ## Weekly progress 2020/03/16~2020/03/22
 * casacore ppa for ubuntu(woking for ver. 19.10)
