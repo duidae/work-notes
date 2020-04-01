@@ -6,6 +6,10 @@
 * [Slack](https://cartaviewer.slack.com/messages/C2S1R8V9P/)
 * [Trello](https://trello.com/b/fViU1U7v/carta-working-group)
 
+## Weekly progress 2020/03/30~2020/04/05
+* bus factor巴士因子: https://zh.wikipedia.org/wiki/%E5%B7%B4%E5%A3%AB%E5%9B%A0%E5%AD%90
+* semver:  https://semver.org/lang/zh-TW/
+
 ## Weekly progress 2020/03/23~2020/03/29
 * check npm local package version
   * $ npm list --depth=0
