@@ -6,6 +6,10 @@
 * [Slack](https://cartaviewer.slack.com/messages/C2S1R8V9P/)
 * [Trello](https://trello.com/b/fViU1U7v/carta-working-group)
 
+## Weekly info 2020/11/12
+* line identification
+* ADMIT alma
+
 ## Weekly progress 2020/03/30~2020/04/05
 * bus factor巴士因子: https://zh.wikipedia.org/wiki/%E5%B7%B4%E5%A3%AB%E5%9B%A0%E5%AD%90
 * semver:  https://semver.org/lang/zh-TW/
