@@ -9,6 +9,7 @@
 ## Weekly info 2020/11/12
 * line identification
 * ADMIT alma
+* 能量(y軸值)
 
 ## Weekly progress 2020/03/30~2020/04/05
 * bus factor巴士因子: https://zh.wikipedia.org/wiki/%E5%B7%B4%E5%A3%AB%E5%9B%A0%E5%AD%90
