@@ -6,6 +6,11 @@
 * [Slack](https://cartaviewer.slack.com/messages/C2S1R8V9P/)
 * [Trello](https://trello.com/b/fViU1U7v/carta-working-group)
 
+## Weekly info 2020/12/02
+* New architecture
+  * frontend: Go(Gopher.js) + WebGL
+  * backend: Rust
+
 ## Weekly info 2020/11/12
 * line identification
 * ADMIT alma
