@@ -10,6 +10,7 @@
 * New architecture
   * frontend: Go(Gopher.js) + WebGL
   * backend: Rust
+  * https://blog.gopheracademy.com/advent-2018/go-webgl/
 
 ## Weekly info 2020/11/12
 * line identification
