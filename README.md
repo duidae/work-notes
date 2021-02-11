@@ -6,6 +6,9 @@
 * [Slack](https://cartaviewer.slack.com/messages/C2S1R8V9P/)
 * [Trello](https://trello.com/b/fViU1U7v/carta-working-group)
 
+## AST plotter demo
+* http://starlink.eao.hawaii.edu/cgi-bin/ast/fits-plotter
+
 ## Weekly info 2020/12/02
 * New architecture
   * frontend: Go(Gopher.js) + WebGL
