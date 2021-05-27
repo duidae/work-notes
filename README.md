@@ -9,6 +9,12 @@
 ## AST plotter demo
 * http://starlink.eao.hawaii.edu/cgi-bin/ast/fits-plotter
 
+## weekly info 2021/05/27
+* unzip AppImage
+  * $ ./carta-beta-v2.0.AppImage --appimage-extract 
+* empty commit
+  * $ git commit --allow-empty -m "#$^%$^$%" 
+
 ## weekly info 2021/05/11
 * curl splatalogue example
   * curl -s "https://splatalogue.online/c_export.php?&sid%5B%5D=&data_version=v3.0&lill=on&lill_cdms_jpl=-5&displayJPL=displayJPL&displayCDMS=displayCDMS&displayLovas=displayLovas&displaySLAIM=displaySLAIM&displayToyaMA=displayToyaMA&displayOSU=displayOSU&displayRecomb=displayRecomb&displayLisa=displayLisa&displayRFI=displayRFI&ls1=ls1&ls2=ls2&ls3=ls3&ls4=ls4&ls5=ls5&el1=el1&el2=el2&el3=el3&el4=el4&show_unres_qn=show_unres_qn&submit=Export&export_type=current&export_delimiter=tab&offset=0&limit=100000&range=on&frequency_units=MHz&from=5000&to=7000"
