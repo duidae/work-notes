@@ -9,6 +9,13 @@
 ## AST plotter demo
 * http://starlink.eao.hawaii.edu/cgi-bin/ast/fits-plotter
 
+## weekly info 2021/06/10
+* features for CASA viewer replacement
+  * PV generator
+  * channel maps
+  * quality image for publication
+  * interactive clean
+
 ## weekly info 2021/05/27
 * unzip AppImage
   * $ ./carta-beta-v2.0.AppImage --appimage-extract 
