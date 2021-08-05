@@ -9,6 +9,10 @@
 ## AST plotter demo
 * http://starlink.eao.hawaii.edu/cgi-bin/ast/fits-plotter
 
+## weekly info 2021/08/05
+* check npm package bundle size: https://bundlephobia.com/
+* compare npm package downloads: https://www.npmtrends.com/
+
 ## weekly info 2021/06/10
 * features for CASA viewer replacement
   * PV generator
