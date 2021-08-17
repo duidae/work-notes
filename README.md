@@ -9,6 +9,12 @@
 ## AST plotter demo
 * http://starlink.eao.hawaii.edu/cgi-bin/ast/fits-plotter
 
+## weekly info 2021/08/17
+* multi language software
+  * install Gettext
+  * integrate *.po files
+  * https://github.com/darktable-org/darktable
+
 ## weekly info 2021/08/05
 * check npm package bundle size: https://bundlephobia.com/
 * compare npm package downloads: https://www.npmtrends.com/
