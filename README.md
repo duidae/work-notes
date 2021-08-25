@@ -9,6 +9,11 @@
 ## AST plotter demo
 * http://starlink.eao.hawaii.edu/cgi-bin/ast/fits-plotter
 
+## weekly info 2021/08/25
+* run production build
+  * $ npm run build
+  * $ npx serve -s build 
+
 ## weekly info 2021/08/17
 * multi language software
   * install Gettext
