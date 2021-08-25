@@ -12,7 +12,7 @@
 ## weekly info 2021/08/25
 * run production build
   * $ npm run build
-  * $ npx serve -s build 
+  * $ npx serve -s build -p 3000
 
 ## weekly info 2021/08/17
 * multi language software
