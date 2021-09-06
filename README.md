@@ -9,6 +9,9 @@
 ## AST plotter demo
 * http://starlink.eao.hawaii.edu/cgi-bin/ast/fits-plotter
 
+## weekly info 2021/09/06
+![uc1IWVOW2wEhIY6z4KjJ](https://user-images.githubusercontent.com/25971696/132205233-9ea43390-a610-42b0-9a2f-e1d3bf00df6c.png)
+
 ## weekly info 2021/08/25
 * run production build
   * $ npm run build
