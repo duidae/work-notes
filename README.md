@@ -9,6 +9,12 @@
 ## AST plotter demo
 * http://starlink.eao.hawaii.edu/cgi-bin/ast/fits-plotter
 
+## weekly info 2021/09/07
+* null check in typescript
+  * https://code.visualstudio.com/blogs/2019/05/23/strict-null
+  * https://github.com/mjbvz/vscode-strict-null-check-migration-tools
+  * https://github.com/Microsoft/vscode/issues/60565
+
 ## weekly info 2021/09/06
 ![uc1IWVOW2wEhIY6z4KjJ](https://user-images.githubusercontent.com/25971696/132205233-9ea43390-a610-42b0-9a2f-e1d3bf00df6c.png)
 
