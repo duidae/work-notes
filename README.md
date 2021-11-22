@@ -9,6 +9,10 @@
 ## AST plotter demo
 * http://starlink.eao.hawaii.edu/cgi-bin/ast/fits-plotter
 
+## weekly info 2021/11/22
+* backend mac build
+  * $ cmake -DOPENSSL_ROOT_DIR=/usr/local/opt/openssl@3 -DOPENSSL_LIBRARIES=/usr/local/opt/openssl@3/lib ..
+
 ## weekly info 2021/09/07
 * null check in typescript
   * https://code.visualstudio.com/blogs/2019/05/23/strict-null
