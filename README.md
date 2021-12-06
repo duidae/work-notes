@@ -13,6 +13,7 @@
 * PR size
   * https://hugooodias.medium.com/the-anatomy-of-a-perfect-pull-request-567382bb6067
   * https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/
+  * https://www.linkedin.com/pulse/size-pullmerge-request-more-important-than-you-think-rodrigo-miguel/
 
 ## weekly info 2021/11/22
 * backend mac build
