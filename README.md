@@ -9,6 +9,11 @@
 ## AST plotter demo
 * http://starlink.eao.hawaii.edu/cgi-bin/ast/fits-plotter
 
+## weekly info 2021/12/06
+* PR size
+  * https://hugooodias.medium.com/the-anatomy-of-a-perfect-pull-request-567382bb6067
+  * https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/
+
 ## weekly info 2021/11/22
 * backend mac build
   * $ cmake -DOPENSSL_ROOT_DIR=/usr/local/opt/openssl@3 -DOPENSSL_LIBRARIES=/usr/local/opt/openssl@3/lib ..
