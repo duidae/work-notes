@@ -9,6 +9,9 @@
 ## AST plotter demo
 * http://starlink.eao.hawaii.edu/cgi-bin/ast/fits-plotter
 
+## weekly info 2021/12/23
+* Isomorphic javascript(SSR) https://blog.techbridge.cc/2016/08/27/react-redux-immutablejs-node-server-isomorphic-tutorial/
+
 ## weekly info 2021/12/06
 * PR size
   * https://hugooodias.medium.com/the-anatomy-of-a-perfect-pull-request-567382bb6067
