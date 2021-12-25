@@ -10,6 +10,7 @@
 * http://starlink.eao.hawaii.edu/cgi-bin/ast/fits-plotter
 
 ## weekly info 2021/12/25
+* SSR example: https://medium.com/starbugs/react-%E7%94%A8%E5%AF%A6%E4%BD%9C%E4%BA%86%E8%A7%A3-server-side-rendering-%E7%9A%84%E9%81%8B%E4%BD%9C%E5%8E%9F%E7%90%86-c6133d9fb30d
 ![1_VG33xLBOqcpfctgiyh0jtA](https://user-images.githubusercontent.com/25971696/147379447-39bff84f-6cc2-4208-a370-d27f891107de.png)
 
 
