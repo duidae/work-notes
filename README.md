@@ -9,6 +9,9 @@
 ## AST plotter demo
 * http://starlink.eao.hawaii.edu/cgi-bin/ast/fits-plotter
 
+## weekly info 2022/01/04
+* react component snapshot test https://medium.com/@denisraslov/introducing-snappify-a-generator-of-snapshot-tests-for-react-typescript-54b3fd1ffa54
+
 ## weekly info 2021/12/25
 * SSR example: https://medium.com/starbugs/react-%E7%94%A8%E5%AF%A6%E4%BD%9C%E4%BA%86%E8%A7%A3-server-side-rendering-%E7%9A%84%E9%81%8B%E4%BD%9C%E5%8E%9F%E7%90%86-c6133d9fb30d
 * https://github.com/ms314006/implement-ssr-of-react/tree/without_redux
