@@ -9,6 +9,9 @@
 ## AST plotter demo
 * http://starlink.eao.hawaii.edu/cgi-bin/ast/fits-plotter
 
+## weekly info 2022/01/18
+* google page speed: https://pagespeed.web.dev/
+
 ## weekly info 2022/01/04
 * react component snapshot test https://medium.com/@denisraslov/introducing-snappify-a-generator-of-snapshot-tests-for-react-typescript-54b3fd1ffa54
 
