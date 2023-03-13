@@ -9,6 +9,18 @@
 ## AST plotter demo
 * http://starlink.eao.hawaii.edu/cgi-bin/ast/fits-plotter
 
+## weekly info 2023/03/13
+|  package   | files(JS)  |  LOC(JS)  |
+|  ----  | ----  | ----  |
+| dual-channel  | 38 | 2219 |
+| scrollable-image  | 18 | 954 |
+| scrollable-image-ui  | 10 | 668 |
+| scrollable-image-video  | 19 | 1702 |
+| sheet2code-ui  | 12 | 1008 |
+| timeline  | 24 | 1176 |
+| zoom-in  | 23 | 1163 |
+| zoom-in-ui | 11 | 1364 |
+
 ## weekly info 2022/01/18
 * google page speed: https://pagespeed.web.dev/
 
