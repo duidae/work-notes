@@ -12,9 +12,9 @@
 ## weekly info 2023/03/20
 * migrate to submodule的方式 - 把twreporter-npm-packages build好放到node_modules裡
 ```
- cd ../../node_modules```
+ cd ../../node_modules
  rm -f twreporter_npm_packages
- ln -s ../wasm_src/ast_wrapper/build ast_wrapper
+ ln -s ../twreporter_npm_packages
 ```
 
 ## weekly info 2023/03/13
