@@ -9,6 +9,11 @@
 ## AST plotter demo
 * http://starlink.eao.hawaii.edu/cgi-bin/ast/fits-plotter
 
+## weekly info 2023/07/13
+* monorepo建立方式
+  * https://pjchender.dev/npm/note-monorepo-yarn-workspaces/
+  * https://earthly.dev/blog/setup-typescript-monorepo/
+
 ## weekly info 2023/03/20
 * migrate to submodule的方式 - 把twreporter-npm-packages build好放到node_modules裡
 ```
