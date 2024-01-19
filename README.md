@@ -10,6 +10,7 @@
 * monorepo建立方式
   * https://pjchender.dev/npm/note-monorepo-yarn-workspaces/
   * https://earthly.dev/blog/setup-typescript-monorepo/
+  * monorepo畫dependency graph: https://github.com/crubier/monorepo-mapper
 * twreporter-reaact/node_modules/@twreporter/core/lib/constants/request-origins.js 檔案的 Ln, 18，把 api 的 value 改成 https://go-api.twreporter.org yarn dev就可以撈production資料
 
 ## weekly info 2023/03/20
