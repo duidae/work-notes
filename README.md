@@ -7,7 +7,9 @@
 * http://starlink.eao.hawaii.edu/cgi-bin/ast/fits-plotter
 
 ## weekly info 2023/07/13
-* psql -U user -W kids 
+* psql -U user -W kids
+* \i migration.sql
+* select * from "Tag" where id = 1;
 * monorepo建立方式
   * https://pjchender.dev/npm/note-monorepo-yarn-workspaces/
   * https://earthly.dev/blog/setup-typescript-monorepo/
