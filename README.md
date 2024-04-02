@@ -7,6 +7,7 @@
 * http://starlink.eao.hawaii.edu/cgi-bin/ast/fits-plotter
 
 ## weekly info 2023/07/13
+* $ find ./src -type f -name "*.scss" | xargs wc -l
 * docker cp migration.sql 52064a41d907:/migration.sql
 * psql -U user -W kids
 * \i migration.sql
