@@ -6,6 +6,10 @@
 ## AST plotter demo
 * http://starlink.eao.hawaii.edu/cgi-bin/ast/fits-plotter
 
+## weekly info 2024/08/21
+* http header checker
+  * https://tools.keycdn.com/curl 
+
 ## weekly info 2023/07/13
 * $ find ./src -type f -name "*.scss" | xargs wc -l
 * docker cp migration.sql 52064a41d907:/migration.sql
