@@ -8,7 +8,9 @@
 
 ## weekly info 2024/08/21
 * http header checker
-  * https://tools.keycdn.com/curl 
+  * https://tools.keycdn.com/curl
+* curl
+  * curl -IL -X'GET' -H'Origin: http://localhost:3000' https://storage.googleapis.com/dev-kids-storage.twreporter.org/files/the-reporter-for-kids-lesson-plan-climate-change-rKJF10rkA3dcvgEOJ9w.pdf
 
 ## weekly info 2023/07/13
 * $ find ./src -type f -name "*.scss" | xargs wc -l
