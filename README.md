@@ -11,6 +11,9 @@
   * https://tools.keycdn.com/curl
 * curl
   * curl -IL -X'GET' -H'Origin: http://localhost:3000' https://kids-storage.twreporter.org/files/the-reporter-for-kids-lesson-plan-climate-change-MbIk3plJOaqdKU1ivDYV.pdf
+* cors
+  * gsutil cors get gs://XXXXX.XX.XX
+  * gsutil cors set cors.json gs://XXXXX.XX.XX
 
 ## weekly info 2023/07/13
 * $ find ./src -type f -name "*.scss" | xargs wc -l
