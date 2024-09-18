@@ -14,6 +14,12 @@
 * cors
   * gsutil cors get gs://XXXXX.XX.XX
   * gsutil cors set cors.json gs://XXXXX.XX.XX
+```
+<iframe
+  src={"https://docs.google.com/viewerng/viewer?url="+"https://kids-storage.twreporter.org/files/the-reporter-for-kids-lesson-plan-2024-paralympic-2JcDkmTw2BPFdm8kn52.pdf"+"&embedded=true"}
+  width="100%" height="480" allow="autoplay" style={{marginBottom: '27px'}}>
+</iframe>
+```
 
 ## weekly info 2023/07/13
 * $ find ./src -type f -name "*.scss" | xargs wc -l
