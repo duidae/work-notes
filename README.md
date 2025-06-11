@@ -6,6 +6,9 @@
 ## AST plotter demo
 * http://starlink.eao.hawaii.edu/cgi-bin/ast/fits-plotter
 
+* svg path editor
+  * https://yqnn.github.io/svg-path-editor/
+
 ## weekly info 2025/02/01
 * OAuth & Single Sign On(SSO)
   * https://yu-jack.github.io/2020/04/13/sso-vs-oauth/
