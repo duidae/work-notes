@@ -3,9 +3,7 @@
 
 [Github.io webpage](https://duidae.github.io/work-notes/)
 
-## AST plotter demo
-* http://starlink.eao.hawaii.edu/cgi-bin/ast/fits-plotter
-
+## SVG
 * svg path editor
   * https://yqnn.github.io/svg-path-editor/
 
@@ -1453,3 +1451,6 @@ make: *** [sub-cpp-make_first] Error 2
 * 用絕對路徑不能rename目錄名稱
 * CARTAvis-externals能不能自動化, 每次都要重弄好煩
 * 修wiki
+
+## AST plotter demo
+* http://starlink.eao.hawaii.edu/cgi-bin/ast/fits-plotter
